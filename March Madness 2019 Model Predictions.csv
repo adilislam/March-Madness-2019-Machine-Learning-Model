@@ -1,0 +1,4557 @@
+prediction,confidence,school_ncaa,seed,opponent_school_ncaa,opponent_seed
+win,0.605,Duke,1,North Carolina,1
+win,0.612,Gonzaga,1,North Carolina,1
+loss,0.571,North Carolina,1,Gonzaga,1
+loss,0.694,Duke,1,Virginia,1
+loss,0.688,Gonzaga,1,Virginia,1
+win,0.515,Duke,1,Gonzaga,1
+loss,0.762,North Carolina,1,Virginia,1
+win,0.8,Virginia,1,North Carolina,1
+win,0.53,Gonzaga,1,Duke,1
+loss,0.564,North Carolina,1,Duke,1
+win,0.735,Virginia,1,Gonzaga,1
+win,0.74,Virginia,1,Duke,1
+loss,0.666,North Carolina,1,Michigan,2
+loss,0.585,Duke,1,Michigan,2
+loss,0.542,Duke,1,Michigan St.,2
+loss,0.508,Duke,1,Kentucky,2
+loss,0.53,Duke,1,Tennessee,2
+loss,0.626,North Carolina,1,Michigan St.,2
+loss,0.535,Gonzaga,1,Michigan St.,2
+loss,0.577,Gonzaga,1,Michigan,2
+loss,0.501,Gonzaga,1,Kentucky,2
+loss,0.523,Gonzaga,1,Tennessee,2
+loss,0.594,North Carolina,1,Kentucky,2
+win,0.698,Virginia,1,Tennessee,2
+win,0.688,Virginia,1,Michigan St.,2
+win,0.65,Virginia,1,Michigan,2
+win,0.717,Virginia,1,Kentucky,2
+loss,0.615,North Carolina,1,Tennessee,2
+win,0.619,Duke,1,LSU,3
+loss,0.509,Gonzaga,1,Houston,3
+loss,0.554,Duke,1,Purdue,3
+loss,0.546,Gonzaga,1,Purdue,3
+win,0.809,Virginia,1,LSU,3
+loss,0.522,Duke,1,Texas Tech,3
+win,0.705,Virginia,1,Texas Tech,3
+win,0.678,Virginia,1,Purdue,3
+loss,0.514,Gonzaga,1,Texas Tech,3
+win,0.709,Virginia,1,Houston,3
+loss,0.517,Duke,1,Houston,3
+loss,0.637,North Carolina,1,Purdue,3
+win,0.626,Gonzaga,1,LSU,3
+loss,0.607,North Carolina,1,Texas Tech,3
+win,0.534,North Carolina,1,LSU,3
+loss,0.602,North Carolina,1,Houston,3
+win,0.592,Gonzaga,1,Kansas,4
+win,0.585,Duke,1,Kansas,4
+loss,0.55,North Carolina,1,Kansas St.,4
+loss,0.669,North Carolina,1,Virginia Tech,4
+win,0.751,Virginia,1,Kansas St.,4
+loss,0.501,North Carolina,1,Kansas,4
+win,0.542,North Carolina,1,Florida St.,4
+win,0.646,Virginia,1,Virginia Tech,4
+loss,0.588,Duke,1,Virginia Tech,4
+win,0.626,Duke,1,Florida St.,4
+loss,0.581,Gonzaga,1,Virginia Tech,4
+win,0.537,Duke,1,Kansas St.,4
+win,0.786,Virginia,1,Kansas,4
+win,0.632,Gonzaga,1,Florida St.,4
+win,0.813,Virginia,1,Florida St.,4
+win,0.544,Gonzaga,1,Kansas St.,4
+loss,0.53,North Carolina,1,Auburn,5
+win,0.787,Virginia,1,Mississippi St.,5
+loss,0.5,North Carolina,1,Mississippi St.,5
+loss,0.654,North Carolina,1,Wisconsin,5
+win,0.818,Virginia,1,Marquette,5
+win,0.548,North Carolina,1,Marquette,5
+win,0.593,Gonzaga,1,Mississippi St.,5
+win,0.564,Gonzaga,1,Auburn,5
+loss,0.572,Duke,1,Wisconsin,5
+win,0.556,Duke,1,Auburn,5
+win,0.661,Virginia,1,Wisconsin,5
+loss,0.565,Gonzaga,1,Wisconsin,5
+win,0.766,Virginia,1,Auburn,5
+win,0.639,Gonzaga,1,Marquette,5
+win,0.632,Duke,1,Marquette,5
+win,0.585,Duke,1,Mississippi St.,5
+loss,0.506,Duke,1,Villanova,6
+win,0.731,Virginia,1,Maryland,6
+win,0.51,Duke,1,Maryland,6
+win,0.504,Duke,1,Iowa St.,6
+win,0.56,North Carolina,1,Buffalo,6
+loss,0.582,North Carolina,1,Iowa St.,6
+win,0.643,Duke,1,Buffalo,6
+win,0.718,Virginia,1,Villanova,6
+loss,0.576,North Carolina,1,Maryland,6
+loss,0.591,North Carolina,1,Villanova,6
+win,0.511,Gonzaga,1,Iowa St.,6
+win,0.649,Gonzaga,1,Buffalo,6
+win,0.502,Gonzaga,1,Villanova,6
+win,0.518,Gonzaga,1,Maryland,6
+win,0.824,Virginia,1,Buffalo,6
+win,0.726,Virginia,1,Iowa St.,6
+win,0.523,Duke,1,Wofford,7
+win,0.741,Virginia,1,Wofford,7
+loss,0.563,North Carolina,1,Wofford,7
+win,0.715,Virginia,1,Louisville,7
+loss,0.51,Duke,1,Louisville,7
+win,0.558,Duke,1,Nevada,7
+loss,0.502,Gonzaga,1,Louisville,7
+loss,0.545,Duke,1,Cincinnati,7
+loss,0.629,North Carolina,1,Cincinnati,7
+loss,0.529,North Carolina,1,Nevada,7
+loss,0.537,Gonzaga,1,Cincinnati,7
+win,0.686,Virginia,1,Cincinnati,7
+win,0.531,Gonzaga,1,Wofford,7
+loss,0.595,North Carolina,1,Louisville,7
+win,0.767,Virginia,1,Nevada,7
+win,0.565,Gonzaga,1,Nevada,7
+win,0.654,Duke,1,VCU,8
+win,0.605,Duke,1,Ole Miss,8
+win,0.657,Gonzaga,1,Utah St.,8
+win,0.572,North Carolina,1,VCU,8
+win,0.771,Virginia,1,Syracuse,8
+win,0.829,Virginia,1,Utah St.,8
+win,0.831,Virginia,1,VCU,8
+loss,0.523,North Carolina,1,Syracuse,8
+win,0.8,Virginia,1,Ole Miss,8
+win,0.57,Gonzaga,1,Syracuse,8
+win,0.651,Duke,1,Utah St.,8
+win,0.66,Gonzaga,1,VCU,8
+win,0.563,Duke,1,Syracuse,8
+win,0.52,North Carolina,1,Ole Miss,8
+win,0.612,Gonzaga,1,Ole Miss,8
+win,0.568,North Carolina,1,Utah St.,8
+win,0.595,Gonzaga,1,Baylor,9
+win,0.793,Virginia,1,Washington,9
+win,0.624,Gonzaga,1,Oklahoma,9
+win,0.767,Virginia,1,UCF,9
+win,0.533,North Carolina,1,Oklahoma,9
+win,0.565,Gonzaga,1,UCF,9
+win,0.509,North Carolina,1,Washington,9
+win,0.588,Duke,1,Baylor,9
+win,0.601,Gonzaga,1,Washington,9
+win,0.594,Duke,1,Washington,9
+win,0.502,North Carolina,1,Baylor,9
+loss,0.528,North Carolina,1,UCF,9
+win,0.558,Duke,1,UCF,9
+win,0.617,Duke,1,Oklahoma,9
+win,0.788,Virginia,1,Baylor,9
+win,0.808,Virginia,1,Oklahoma,9
+win,0.706,Virginia,1,Florida,10
+win,0.613,Gonzaga,1,Iowa,10
+loss,0.513,Gonzaga,1,Florida,10
+win,0.866,Virginia,1,Seton Hall,10
+win,0.637,North Carolina,1,Seton Hall,10
+win,0.687,Duke,1,Minnesota,10
+win,0.694,Gonzaga,1,Minnesota,10
+win,0.608,North Carolina,1,Minnesota,10
+win,0.801,Virginia,1,Iowa,10
+loss,0.606,North Carolina,1,Florida,10
+win,0.521,North Carolina,1,Iowa,10
+win,0.852,Virginia,1,Minnesota,10
+loss,0.521,Duke,1,Florida,10
+win,0.606,Duke,1,Iowa,10
+win,0.712,Duke,1,Seton Hall,10
+win,0.718,Gonzaga,1,Seton Hall,10
+win,0.876,Virginia,1,Temple,11
+win,0.721,Virginia,1,Saint Mary's (CA),11
+win,0.736,Gonzaga,1,Temple,11
+loss,0.502,Duke,1,Saint Mary's (CA),11
+win,0.903,Virginia,1,Belmont,11
+win,0.868,Virginia,1,Arizona St.,11
+win,0.721,Gonzaga,1,Arizona St.,11
+win,0.787,Gonzaga,1,Belmont,11
+win,0.505,Gonzaga,1,Saint Mary's (CA),11
+win,0.755,Virginia,1,Ohio St.,11
+win,0.782,Duke,1,Belmont,11
+win,0.629,North Carolina,1,St. John's (NY),11
+win,0.657,North Carolina,1,Temple,11
+win,0.731,Duke,1,Temple,11
+loss,0.546,North Carolina,1,Ohio St.,11
+loss,0.588,North Carolina,1,Saint Mary's (CA),11
+win,0.548,Gonzaga,1,Ohio St.,11
+win,0.706,Duke,1,St. John's (NY),11
+win,0.715,Duke,1,Arizona St.,11
+win,0.64,North Carolina,1,Arizona St.,11
+win,0.717,North Carolina,1,Belmont,11
+win,0.712,Gonzaga,1,St. John's (NY),11
+win,0.541,Duke,1,Ohio St.,11
+win,0.863,Virginia,1,St. John's (NY),11
+win,0.523,Duke,1,Liberty,12
+win,0.619,Duke,1,Murray St.,12
+win,0.776,Virginia,1,Oregon,12
+win,0.535,North Carolina,1,Murray St.,12
+win,0.645,Gonzaga,1,New Mexico St.,12
+win,0.555,North Carolina,1,New Mexico St.,12
+win,0.53,Gonzaga,1,Liberty,12
+win,0.57,Duke,1,Oregon,12
+win,0.638,Duke,1,New Mexico St.,12
+win,0.577,Gonzaga,1,Oregon,12
+loss,0.516,North Carolina,1,Oregon,12
+win,0.809,Virginia,1,Murray St.,12
+win,0.741,Virginia,1,Liberty,12
+loss,0.564,North Carolina,1,Liberty,12
+win,0.821,Virginia,1,New Mexico St.,12
+win,0.626,Gonzaga,1,Murray St.,12
+win,0.885,Virginia,1,Northeastern,13
+win,0.748,Gonzaga,1,Saint Louis,13
+win,0.65,Gonzaga,1,Vermont,13
+win,0.883,Virginia,1,Saint Louis,13
+win,0.56,North Carolina,1,Vermont,13
+win,0.888,Virginia,1,UC Irvine,13
+win,0.759,Gonzaga,1,UC Irvine,13
+win,0.671,North Carolina,1,Saint Louis,13
+win,0.643,Duke,1,Vermont,13
+win,0.743,Duke,1,Saint Louis,13
+win,0.746,Duke,1,Northeastern,13
+win,0.825,Virginia,1,Vermont,13
+win,0.675,North Carolina,1,Northeastern,13
+win,0.753,Duke,1,UC Irvine,13
+win,0.752,Gonzaga,1,Northeastern,13
+win,0.683,North Carolina,1,UC Irvine,13
+win,0.622,North Carolina,1,Northern Ky.,14
+win,0.783,Duke,1,Yale,14
+win,0.718,North Carolina,1,Yale,14
+win,0.858,Virginia,1,Old Dominion,14
+win,0.704,Gonzaga,1,Old Dominion,14
+win,0.733,North Carolina,1,Georgia St.,14
+win,0.699,Duke,1,Northern Ky.,14
+win,0.62,North Carolina,1,Old Dominion,14
+win,0.698,Duke,1,Old Dominion,14
+win,0.788,Gonzaga,1,Yale,14
+win,0.795,Duke,1,Georgia St.,14
+win,0.858,Virginia,1,Northern Ky.,14
+win,0.904,Virginia,1,Yale,14
+win,0.8,Gonzaga,1,Georgia St.,14
+win,0.705,Gonzaga,1,Northern Ky.,14
+win,0.91,Virginia,1,Georgia St.,14
+win,0.896,Gonzaga,1,Bradley,15
+win,0.679,North Carolina,1,Montana,15
+win,0.808,Gonzaga,1,Abilene Christian,15
+win,0.924,Virginia,1,Colgate,15
+win,0.743,North Carolina,1,Abilene Christian,15
+win,0.767,North Carolina,1,Colgate,15
+win,0.755,Gonzaga,1,Montana,15
+win,0.823,Duke,1,Colgate,15
+win,0.856,North Carolina,1,Bradley,15
+win,0.894,Duke,1,Bradley,15
+win,0.914,Virginia,1,Abilene Christian,15
+win,0.827,Gonzaga,1,Colgate,15
+win,0.75,Duke,1,Montana,15
+win,0.803,Duke,1,Abilene Christian,15
+win,0.887,Virginia,1,Montana,15
+win,0.956,Virginia,1,Bradley,15
+win,0.917,Gonzaga,1,N.C. Central,16
+win,0.869,Virginia,1,Gardner-Webb,16
+win,0.724,Gonzaga,1,Gardner-Webb,16
+win,0.949,Gonzaga,1,Prairie View,16
+win,0.914,Gonzaga,1,Fairleigh Dickinson,16
+win,0.939,Gonzaga,1,Iona,16
+win,0.965,Virginia,1,N.C. Central,16
+win,0.718,Duke,1,Gardner-Webb,16
+win,0.975,Virginia,1,Iona,16
+win,0.979,Virginia,1,Prairie View,16
+win,0.964,Virginia,1,Fairleigh Dickinson,16
+win,0.914,Duke,1,N.C. Central,16
+win,0.927,North Carolina,1,Prairie View,16
+win,0.885,Duke,1,North Dakota St.,16
+win,0.947,Duke,1,Prairie View,16
+win,0.937,Duke,1,Iona,16
+win,0.953,Virginia,1,North Dakota St.,16
+win,0.643,North Carolina,1,Gardner-Webb,16
+win,0.883,North Carolina,1,N.C. Central,16
+win,0.845,North Carolina,1,North Dakota St.,16
+win,0.88,North Carolina,1,Fairleigh Dickinson,16
+win,0.914,North Carolina,1,Iona,16
+win,0.912,Duke,1,Fairleigh Dickinson,16
+win,0.888,Gonzaga,1,North Dakota St.,16
+win,0.636,Michigan,2,Duke,1
+win,0.668,Michigan St.,2,North Carolina,1
+win,0.578,Tennessee,2,Duke,1
+win,0.71,Michigan,2,North Carolina,1
+loss,0.587,Michigan,2,Virginia,1
+win,0.629,Michigan,2,Gonzaga,1
+win,0.571,Tennessee,2,Gonzaga,1
+win,0.582,Michigan St.,2,Gonzaga,1
+loss,0.634,Michigan St.,2,Virginia,1
+win,0.589,Michigan St.,2,Duke,1
+win,0.549,Kentucky,2,Gonzaga,1
+loss,0.664,Kentucky,2,Virginia,1
+win,0.637,Kentucky,2,North Carolina,1
+win,0.658,Tennessee,2,North Carolina,1
+loss,0.644,Tennessee,2,Virginia,1
+win,0.556,Kentucky,2,Duke,1
+win,0.56,Michigan St.,2,Kentucky,2
+win,0.575,Michigan,2,Michigan St.,2
+win,0.538,Michigan St.,2,Tennessee,2
+loss,0.518,Michigan St.,2,Michigan,2
+win,0.549,Tennessee,2,Kentucky,2
+loss,0.508,Kentucky,2,Michigan St.,2
+win,0.608,Michigan,2,Kentucky,2
+win,0.515,Tennessee,2,Michigan St.,2
+win,0.586,Michigan,2,Tennessee,2
+loss,0.551,Kentucky,2,Michigan,2
+win,0.504,Kentucky,2,Tennessee,2
+loss,0.529,Tennessee,2,Michigan,2
+win,0.512,Kentucky,2,Texas Tech,3
+win,0.671,Tennessee,2,LSU,3
+win,0.651,Kentucky,2,LSU,3
+win,0.594,Michigan,2,Texas Tech,3
+win,0.518,Kentucky,2,Houston,3
+win,0.535,Tennessee,2,Texas Tech,3
+win,0.503,Tennessee,2,Purdue,3
+loss,0.52,Kentucky,2,Purdue,3
+win,0.546,Michigan St.,2,Texas Tech,3
+win,0.54,Tennessee,2,Houston,3
+win,0.514,Michigan St.,2,Purdue,3
+win,0.551,Michigan St.,2,Houston,3
+win,0.681,Michigan St.,2,LSU,3
+win,0.599,Michigan,2,Houston,3
+win,0.722,Michigan,2,LSU,3
+win,0.563,Michigan,2,Purdue,3
+win,0.571,Kentucky,2,Kansas St.,4
+loss,0.532,Tennessee,2,Virginia Tech,4
+win,0.603,Michigan St.,2,Kansas St.,4
+win,0.657,Kentucky,2,Florida St.,4
+loss,0.555,Kentucky,2,Virginia Tech,4
+win,0.639,Tennessee,2,Kansas,4
+win,0.649,Michigan,2,Kansas St.,4
+win,0.693,Michigan,2,Kansas,4
+win,0.618,Kentucky,2,Kansas,4
+win,0.728,Michigan,2,Florida St.,4
+win,0.687,Michigan St.,2,Florida St.,4
+win,0.649,Michigan St.,2,Kansas,4
+loss,0.521,Michigan St.,2,Virginia Tech,4
+win,0.528,Michigan,2,Virginia Tech,4
+win,0.593,Tennessee,2,Kansas St.,4
+win,0.677,Tennessee,2,Florida St.,4
+win,0.545,Michigan,2,Wisconsin,5
+win,0.612,Tennessee,2,Auburn,5
+win,0.693,Michigan St.,2,Marquette,5
+loss,0.505,Michigan St.,2,Wisconsin,5
+win,0.733,Michigan,2,Marquette,5
+win,0.65,Michigan St.,2,Mississippi St.,5
+win,0.683,Tennessee,2,Marquette,5
+win,0.693,Michigan,2,Mississippi St.,5
+win,0.667,Michigan,2,Auburn,5
+win,0.663,Kentucky,2,Marquette,5
+win,0.639,Tennessee,2,Mississippi St.,5
+loss,0.538,Kentucky,2,Wisconsin,5
+loss,0.516,Tennessee,2,Wisconsin,5
+win,0.618,Kentucky,2,Mississippi St.,5
+win,0.622,Michigan St.,2,Auburn,5
+win,0.59,Kentucky,2,Auburn,5
+win,0.702,Michigan St.,2,Buffalo,6
+win,0.545,Kentucky,2,Maryland,6
+win,0.538,Kentucky,2,Iowa St.,6
+win,0.571,Michigan St.,2,Iowa St.,6
+win,0.562,Michigan St.,2,Villanova,6
+win,0.619,Michigan,2,Iowa St.,6
+win,0.61,Michigan,2,Villanova,6
+win,0.567,Tennessee,2,Maryland,6
+win,0.673,Kentucky,2,Buffalo,6
+win,0.551,Tennessee,2,Villanova,6
+win,0.578,Michigan St.,2,Maryland,6
+win,0.693,Tennessee,2,Buffalo,6
+win,0.56,Tennessee,2,Iowa St.,6
+win,0.742,Michigan,2,Buffalo,6
+win,0.529,Kentucky,2,Villanova,6
+win,0.625,Michigan,2,Maryland,6
+win,0.637,Michigan,2,Wofford,7
+win,0.623,Michigan St.,2,Nevada,7
+win,0.524,Kentucky,2,Louisville,7
+win,0.558,Michigan St.,2,Louisville,7
+win,0.59,Michigan St.,2,Wofford,7
+win,0.557,Kentucky,2,Wofford,7
+win,0.572,Michigan,2,Cincinnati,7
+win,0.523,Michigan St.,2,Cincinnati,7
+win,0.669,Michigan,2,Nevada,7
+win,0.547,Tennessee,2,Louisville,7
+win,0.606,Michigan,2,Louisville,7
+win,0.512,Tennessee,2,Cincinnati,7
+win,0.613,Tennessee,2,Nevada,7
+loss,0.511,Kentucky,2,Cincinnati,7
+win,0.58,Tennessee,2,Wofford,7
+win,0.591,Kentucky,2,Nevada,7
+win,0.637,Kentucky,2,Ole Miss,8
+win,0.749,Michigan,2,Utah St.,8
+win,0.628,Michigan St.,2,Syracuse,8
+win,0.596,Kentucky,2,Syracuse,8
+win,0.712,Michigan St.,2,VCU,8
+win,0.7,Tennessee,2,Utah St.,8
+win,0.684,Kentucky,2,VCU,8
+win,0.703,Tennessee,2,VCU,8
+win,0.751,Michigan,2,VCU,8
+win,0.71,Michigan,2,Ole Miss,8
+win,0.658,Tennessee,2,Ole Miss,8
+win,0.673,Michigan,2,Syracuse,8
+win,0.668,Michigan St.,2,Ole Miss,8
+win,0.618,Tennessee,2,Syracuse,8
+win,0.681,Kentucky,2,Utah St.,8
+win,0.71,Michigan St.,2,Utah St.,8
+win,0.624,Michigan St.,2,UCF,9
+win,0.701,Michigan,2,Washington,9
+win,0.641,Tennessee,2,Baylor,9
+win,0.67,Tennessee,2,Oklahoma,9
+win,0.658,Michigan St.,2,Washington,9
+win,0.648,Tennessee,2,Washington,9
+win,0.679,Michigan St.,2,Oklahoma,9
+win,0.62,Kentucky,2,Baylor,9
+win,0.695,Michigan,2,Baylor,9
+win,0.613,Tennessee,2,UCF,9
+win,0.669,Michigan,2,UCF,9
+win,0.627,Kentucky,2,Washington,9
+win,0.721,Michigan,2,Oklahoma,9
+win,0.649,Kentucky,2,Oklahoma,9
+win,0.651,Michigan St.,2,Baylor,9
+win,0.592,Kentucky,2,UCF,9
+win,0.779,Michigan,2,Minnesota,10
+win,0.765,Michigan St.,2,Seton Hall,10
+win,0.669,Michigan St.,2,Iowa,10
+win,0.798,Michigan,2,Seton Hall,10
+win,0.757,Tennessee,2,Seton Hall,10
+win,0.716,Kentucky,2,Minnesota,10
+win,0.743,Michigan St.,2,Minnesota,10
+win,0.536,Tennessee,2,Florida,10
+win,0.659,Tennessee,2,Iowa,10
+win,0.595,Michigan,2,Florida,10
+win,0.74,Kentucky,2,Seton Hall,10
+win,0.734,Tennessee,2,Minnesota,10
+win,0.638,Kentucky,2,Iowa,10
+win,0.547,Michigan St.,2,Florida,10
+win,0.513,Kentucky,2,Florida,10
+win,0.711,Michigan,2,Iowa,10
+win,0.653,Michigan,2,Ohio St.,11
+win,0.824,Michigan St.,2,Belmont,11
+win,0.613,Michigan,2,Saint Mary's (CA),11
+win,0.794,Michigan,2,St. John's (NY),11
+win,0.818,Tennessee,2,Belmont,11
+win,0.851,Michigan,2,Belmont,11
+win,0.773,Tennessee,2,Temple,11
+win,0.607,Michigan St.,2,Ohio St.,11
+win,0.597,Tennessee,2,Ohio St.,11
+win,0.759,Tennessee,2,Arizona St.,11
+win,0.759,Michigan St.,2,St. John's (NY),11
+win,0.813,Michigan,2,Temple,11
+win,0.554,Tennessee,2,Saint Mary's (CA),11
+win,0.734,Kentucky,2,St. John's (NY),11
+win,0.742,Kentucky,2,Arizona St.,11
+win,0.751,Tennessee,2,St. John's (NY),11
+win,0.781,Michigan St.,2,Temple,11
+win,0.565,Michigan St.,2,Saint Mary's (CA),11
+win,0.804,Kentucky,2,Belmont,11
+win,0.767,Michigan St.,2,Arizona St.,11
+win,0.532,Kentucky,2,Saint Mary's (CA),11
+win,0.757,Kentucky,2,Temple,11
+win,0.801,Michigan,2,Arizona St.,11
+win,0.575,Kentucky,2,Ohio St.,11
+win,0.679,Michigan,2,Oregon,12
+win,0.698,Michigan St.,2,New Mexico St.,12
+win,0.635,Michigan St.,2,Oregon,12
+win,0.603,Kentucky,2,Oregon,12
+win,0.625,Tennessee,2,Oregon,12
+win,0.579,Tennessee,2,Liberty,12
+win,0.722,Michigan,2,Murray St.,12
+win,0.689,Tennessee,2,New Mexico St.,12
+win,0.557,Kentucky,2,Liberty,12
+win,0.738,Michigan,2,New Mexico St.,12
+win,0.671,Tennessee,2,Murray St.,12
+win,0.669,Kentucky,2,New Mexico St.,12
+win,0.651,Kentucky,2,Murray St.,12
+win,0.637,Michigan,2,Liberty,12
+win,0.59,Michigan St.,2,Liberty,12
+win,0.681,Michigan St.,2,Murray St.,12
+win,0.793,Tennessee,2,UC Irvine,13
+win,0.825,Michigan,2,Northeastern,13
+win,0.771,Kentucky,2,Northeastern,13
+win,0.822,Michigan,2,Saint Louis,13
+win,0.742,Michigan,2,Vermont,13
+win,0.784,Tennessee,2,Saint Louis,13
+win,0.778,Kentucky,2,UC Irvine,13
+win,0.693,Tennessee,2,Vermont,13
+win,0.83,Michigan,2,UC Irvine,13
+win,0.787,Tennessee,2,Northeastern,13
+win,0.794,Michigan St.,2,Northeastern,13
+win,0.674,Kentucky,2,Vermont,13
+win,0.703,Michigan St.,2,Vermont,13
+win,0.768,Kentucky,2,Saint Louis,13
+win,0.791,Michigan St.,2,Saint Louis,13
+win,0.8,Michigan St.,2,UC Irvine,13
+win,0.744,Tennessee,2,Old Dominion,14
+win,0.861,Michigan,2,Georgia St.,14
+win,0.727,Kentucky,2,Northern Ky.,14
+win,0.817,Kentucky,2,Georgia St.,14
+win,0.752,Michigan St.,2,Old Dominion,14
+win,0.852,Michigan,2,Yale,14
+win,0.726,Kentucky,2,Old Dominion,14
+win,0.836,Michigan St.,2,Georgia St.,14
+win,0.787,Michigan,2,Old Dominion,14
+win,0.745,Tennessee,2,Northern Ky.,14
+win,0.825,Michigan St.,2,Yale,14
+win,0.805,Kentucky,2,Yale,14
+win,0.788,Michigan,2,Northern Ky.,14
+win,0.753,Michigan St.,2,Northern Ky.,14
+win,0.819,Tennessee,2,Yale,14
+win,0.83,Tennessee,2,Georgia St.,14
+win,0.882,Michigan,2,Colgate,15
+win,0.867,Michigan,2,Abilene Christian,15
+win,0.906,Kentucky,2,Bradley,15
+win,0.913,Tennessee,2,Bradley,15
+win,0.931,Michigan,2,Bradley,15
+win,0.837,Tennessee,2,Abilene Christian,15
+win,0.797,Michigan St.,2,Montana,15
+win,0.79,Tennessee,2,Montana,15
+win,0.854,Tennessee,2,Colgate,15
+win,0.917,Michigan St.,2,Bradley,15
+win,0.827,Michigan,2,Montana,15
+win,0.775,Kentucky,2,Montana,15
+win,0.824,Kentucky,2,Abilene Christian,15
+win,0.842,Kentucky,2,Colgate,15
+win,0.859,Michigan St.,2,Colgate,15
+win,0.843,Michigan St.,2,Abilene Christian,15
+win,0.952,Michigan St.,2,Iona,16
+win,0.95,Tennessee,2,Iona,16
+win,0.929,Tennessee,2,Fairleigh Dickinson,16
+win,0.745,Kentucky,2,Gardner-Webb,16
+win,0.933,Michigan St.,2,N.C. Central,16
+win,0.945,Michigan,2,N.C. Central,16
+win,0.932,Michigan St.,2,Fairleigh Dickinson,16
+win,0.77,Michigan St.,2,Gardner-Webb,16
+win,0.906,Tennessee,2,North Dakota St.,16
+win,0.898,Kentucky,2,North Dakota St.,16
+win,0.931,Tennessee,2,N.C. Central,16
+win,0.96,Michigan,2,Iona,16
+win,0.762,Tennessee,2,Gardner-Webb,16
+win,0.957,Tennessee,2,Prairie View,16
+win,0.943,Michigan,2,Fairleigh Dickinson,16
+win,0.925,Michigan,2,North Dakota St.,16
+win,0.966,Michigan,2,Prairie View,16
+win,0.954,Kentucky,2,Prairie View,16
+win,0.91,Michigan St.,2,North Dakota St.,16
+win,0.803,Michigan,2,Gardner-Webb,16
+win,0.959,Michigan St.,2,Prairie View,16
+win,0.922,Kentucky,2,Fairleigh Dickinson,16
+win,0.945,Kentucky,2,Iona,16
+win,0.924,Kentucky,2,N.C. Central,16
+win,0.559,Houston,3,Gonzaga,1
+win,0.646,Houston,3,North Carolina,1
+win,0.604,Purdue,3,Duke,1
+win,0.651,Texas Tech,3,North Carolina,1
+loss,0.582,LSU,3,Duke,1
+loss,0.656,Houston,3,Virginia,1
+win,0.564,Texas Tech,3,Gonzaga,1
+win,0.681,Purdue,3,North Carolina,1
+loss,0.775,LSU,3,Virginia,1
+win,0.597,Purdue,3,Gonzaga,1
+win,0.571,Texas Tech,3,Duke,1
+win,0.566,Houston,3,Duke,1
+loss,0.589,LSU,3,Gonzaga,1
+win,0.502,LSU,3,North Carolina,1
+loss,0.619,Purdue,3,Virginia,1
+loss,0.651,Texas Tech,3,Virginia,1
+win,0.553,Purdue,3,Tennessee,2
+loss,0.502,Purdue,3,Michigan,2
+loss,0.643,LSU,3,Michigan St.,2
+win,0.519,Texas Tech,3,Tennessee,2
+loss,0.611,LSU,3,Kentucky,2
+loss,0.682,LSU,3,Michigan,2
+loss,0.536,Texas Tech,3,Michigan,2
+win,0.541,Texas Tech,3,Kentucky,2
+win,0.514,Houston,3,Tennessee,2
+loss,0.541,Houston,3,Michigan,2
+win,0.541,Purdue,3,Michigan St.,2
+win,0.502,Houston,3,Michigan St.,2
+win,0.507,Texas Tech,3,Michigan St.,2
+loss,0.632,LSU,3,Tennessee,2
+win,0.536,Houston,3,Kentucky,2
+win,0.575,Purdue,3,Kentucky,2
+win,0.694,Purdue,3,LSU,3
+win,0.664,Texas Tech,3,LSU,3
+win,0.522,Houston,3,Texas Tech,3
+loss,0.505,Texas Tech,3,Purdue,3
+win,0.567,Purdue,3,Houston,3
+win,0.659,Houston,3,LSU,3
+loss,0.619,LSU,3,Houston,3
+win,0.562,Purdue,3,Texas Tech,3
+loss,0.654,LSU,3,Purdue,3
+loss,0.51,Houston,3,Purdue,3
+loss,0.624,LSU,3,Texas Tech,3
+win,0.533,Texas Tech,3,Houston,3
+win,0.618,Purdue,3,Kansas St.,4
+win,0.663,Purdue,3,Kansas,4
+win,0.7,Purdue,3,Florida St.,4
+win,0.671,Texas Tech,3,Florida St.,4
+loss,0.54,Texas Tech,3,Virginia Tech,4
+win,0.666,Houston,3,Florida St.,4
+win,0.632,Texas Tech,3,Kansas,4
+win,0.523,LSU,3,Florida St.,4
+win,0.627,Houston,3,Kansas,4
+loss,0.519,LSU,3,Kansas,4
+loss,0.685,LSU,3,Virginia Tech,4
+loss,0.568,LSU,3,Kansas St.,4
+win,0.58,Houston,3,Kansas St.,4
+win,0.585,Texas Tech,3,Kansas St.,4
+loss,0.545,Houston,3,Virginia Tech,4
+loss,0.506,Purdue,3,Virginia Tech,4
+win,0.627,Houston,3,Mississippi St.,5
+loss,0.548,LSU,3,Auburn,5
+win,0.511,Purdue,3,Wisconsin,5
+loss,0.528,Houston,3,Wisconsin,5
+win,0.706,Purdue,3,Marquette,5
+win,0.672,Houston,3,Marquette,5
+win,0.604,Texas Tech,3,Auburn,5
+win,0.637,Purdue,3,Auburn,5
+win,0.599,Houston,3,Auburn,5
+loss,0.67,LSU,3,Wisconsin,5
+loss,0.518,LSU,3,Mississippi St.,5
+win,0.664,Purdue,3,Mississippi St.,5
+win,0.53,LSU,3,Marquette,5
+loss,0.523,Texas Tech,3,Wisconsin,5
+win,0.677,Texas Tech,3,Marquette,5
+win,0.632,Texas Tech,3,Mississippi St.,5
+win,0.542,LSU,3,Buffalo,6
+win,0.715,Purdue,3,Buffalo,6
+loss,0.593,LSU,3,Maryland,6
+win,0.544,Texas Tech,3,Villanova,6
+win,0.593,Purdue,3,Maryland,6
+loss,0.6,LSU,3,Iowa St.,6
+win,0.559,Texas Tech,3,Maryland,6
+win,0.586,Purdue,3,Iowa St.,6
+loss,0.609,LSU,3,Villanova,6
+win,0.548,Houston,3,Iowa St.,6
+win,0.577,Purdue,3,Villanova,6
+win,0.538,Houston,3,Villanova,6
+win,0.554,Houston,3,Maryland,6
+win,0.553,Texas Tech,3,Iowa St.,6
+win,0.687,Texas Tech,3,Buffalo,6
+win,0.682,Houston,3,Buffalo,6
+win,0.539,Purdue,3,Cincinnati,7
+win,0.573,Purdue,3,Louisville,7
+win,0.572,Texas Tech,3,Wofford,7
+loss,0.547,LSU,3,Nevada,7
+win,0.638,Purdue,3,Nevada,7
+loss,0.581,LSU,3,Wofford,7
+loss,0.645,LSU,3,Cincinnati,7
+win,0.606,Texas Tech,3,Nevada,7
+win,0.534,Houston,3,Louisville,7
+win,0.539,Texas Tech,3,Louisville,7
+win,0.504,Texas Tech,3,Cincinnati,7
+loss,0.613,LSU,3,Louisville,7
+win,0.605,Purdue,3,Wofford,7
+win,0.601,Houston,3,Nevada,7
+loss,0.501,Houston,3,Cincinnati,7
+win,0.567,Houston,3,Wofford,7
+loss,0.541,LSU,3,Syracuse,8
+win,0.692,Houston,3,VCU,8
+win,0.501,LSU,3,Ole Miss,8
+win,0.554,LSU,3,VCU,8
+win,0.55,LSU,3,Utah St.,8
+win,0.611,Texas Tech,3,Syracuse,8
+win,0.606,Houston,3,Syracuse,8
+win,0.681,Purdue,3,Ole Miss,8
+win,0.643,Purdue,3,Syracuse,8
+win,0.651,Texas Tech,3,Ole Miss,8
+win,0.697,Texas Tech,3,VCU,8
+win,0.646,Houston,3,Ole Miss,8
+win,0.725,Purdue,3,VCU,8
+win,0.694,Texas Tech,3,Utah St.,8
+win,0.722,Purdue,3,Utah St.,8
+win,0.689,Houston,3,Utah St.,8
+win,0.629,Houston,3,Baylor,9
+win,0.515,LSU,3,Oklahoma,9
+win,0.601,Houston,3,UCF,9
+loss,0.516,LSU,3,Baylor,9
+win,0.641,Texas Tech,3,Washington,9
+loss,0.509,LSU,3,Washington,9
+win,0.638,Purdue,3,UCF,9
+loss,0.546,LSU,3,UCF,9
+win,0.606,Texas Tech,3,UCF,9
+win,0.658,Houston,3,Oklahoma,9
+win,0.663,Texas Tech,3,Oklahoma,9
+win,0.636,Houston,3,Washington,9
+win,0.672,Purdue,3,Washington,9
+win,0.666,Purdue,3,Baylor,9
+win,0.634,Texas Tech,3,Baylor,9
+win,0.693,Purdue,3,Oklahoma,9
+win,0.751,Texas Tech,3,Seton Hall,10
+loss,0.623,LSU,3,Florida,10
+win,0.754,Purdue,3,Minnesota,10
+win,0.503,LSU,3,Iowa,10
+win,0.728,Texas Tech,3,Minnesota,10
+win,0.747,Houston,3,Seton Hall,10
+win,0.528,Texas Tech,3,Florida,10
+win,0.62,LSU,3,Seton Hall,10
+win,0.647,Houston,3,Iowa,10
+win,0.724,Houston,3,Minnesota,10
+win,0.591,LSU,3,Minnesota,10
+win,0.523,Houston,3,Florida,10
+win,0.776,Purdue,3,Seton Hall,10
+win,0.682,Purdue,3,Iowa,10
+win,0.563,Purdue,3,Florida,10
+win,0.652,Texas Tech,3,Iowa,10
+win,0.612,LSU,3,St. John's (NY),11
+win,0.778,Purdue,3,Arizona St.,11
+win,0.641,LSU,3,Temple,11
+win,0.81,Houston,3,Belmont,11
+win,0.75,Houston,3,Arizona St.,11
+win,0.584,Houston,3,Ohio St.,11
+win,0.764,Houston,3,Temple,11
+loss,0.606,LSU,3,Saint Mary's (CA),11
+win,0.622,Purdue,3,Ohio St.,11
+loss,0.564,LSU,3,Ohio St.,11
+win,0.745,Texas Tech,3,St. John's (NY),11
+win,0.791,Purdue,3,Temple,11
+win,0.813,Texas Tech,3,Belmont,11
+win,0.547,Texas Tech,3,Saint Mary's (CA),11
+win,0.541,Houston,3,Saint Mary's (CA),11
+win,0.702,LSU,3,Belmont,11
+win,0.754,Texas Tech,3,Arizona St.,11
+win,0.741,Houston,3,St. John's (NY),11
+win,0.623,LSU,3,Arizona St.,11
+win,0.771,Purdue,3,St. John's (NY),11
+win,0.58,Purdue,3,Saint Mary's (CA),11
+win,0.589,Texas Tech,3,Ohio St.,11
+win,0.833,Purdue,3,Belmont,11
+win,0.768,Texas Tech,3,Temple,11
+win,0.537,LSU,3,New Mexico St.,12
+loss,0.581,LSU,3,Liberty,12
+win,0.694,Purdue,3,Murray St.,12
+win,0.605,Purdue,3,Liberty,12
+win,0.664,Texas Tech,3,Murray St.,12
+win,0.682,Texas Tech,3,New Mexico St.,12
+win,0.649,Purdue,3,Oregon,12
+win,0.572,Texas Tech,3,Liberty,12
+loss,0.534,LSU,3,Oregon,12
+win,0.566,Houston,3,Liberty,12
+win,0.711,Purdue,3,New Mexico St.,12
+win,0.618,Texas Tech,3,Oregon,12
+win,0.516,LSU,3,Murray St.,12
+win,0.66,Houston,3,Murray St.,12
+win,0.677,Houston,3,New Mexico St.,12
+win,0.613,Houston,3,Oregon,12
+win,0.716,Purdue,3,Vermont,13
+win,0.785,Houston,3,UC Irvine,13
+win,0.687,Texas Tech,3,Vermont,13
+win,0.778,Houston,3,Northeastern,13
+win,0.682,Houston,3,Vermont,13
+win,0.775,Houston,3,Saint Louis,13
+win,0.801,Purdue,3,Saint Louis,13
+win,0.788,Texas Tech,3,UC Irvine,13
+win,0.667,LSU,3,UC Irvine,13
+win,0.81,Purdue,3,UC Irvine,13
+win,0.659,LSU,3,Northeastern,13
+win,0.655,LSU,3,Saint Louis,13
+win,0.804,Purdue,3,Northeastern,13
+win,0.778,Texas Tech,3,Saint Louis,13
+win,0.782,Texas Tech,3,Northeastern,13
+win,0.542,LSU,3,Vermont,13
+win,0.825,Texas Tech,3,Georgia St.,14
+win,0.764,Purdue,3,Old Dominion,14
+win,0.844,Purdue,3,Georgia St.,14
+win,0.735,Houston,3,Northern Ky.,14
+win,0.814,Texas Tech,3,Yale,14
+win,0.765,Purdue,3,Northern Ky.,14
+win,0.738,Texas Tech,3,Old Dominion,14
+win,0.703,LSU,3,Yale,14
+win,0.811,Houston,3,Yale,14
+win,0.822,Houston,3,Georgia St.,14
+win,0.603,LSU,3,Old Dominion,14
+win,0.739,Texas Tech,3,Northern Ky.,14
+win,0.734,Houston,3,Old Dominion,14
+win,0.834,Purdue,3,Yale,14
+win,0.604,LSU,3,Northern Ky.,14
+win,0.719,LSU,3,Georgia St.,14
+win,0.922,Purdue,3,Bradley,15
+win,0.807,Purdue,3,Montana,15
+win,0.909,Houston,3,Bradley,15
+win,0.754,LSU,3,Colgate,15
+win,0.847,Houston,3,Colgate,15
+win,0.911,Texas Tech,3,Bradley,15
+win,0.85,Texas Tech,3,Colgate,15
+win,0.83,Houston,3,Abilene Christian,15
+win,0.833,Texas Tech,3,Abilene Christian,15
+win,0.781,Houston,3,Montana,15
+win,0.867,Purdue,3,Colgate,15
+win,0.663,LSU,3,Montana,15
+win,0.785,Texas Tech,3,Montana,15
+win,0.847,LSU,3,Bradley,15
+win,0.729,LSU,3,Abilene Christian,15
+win,0.851,Purdue,3,Abilene Christian,15
+win,0.927,Houston,3,N.C. Central,16
+win,0.756,Texas Tech,3,Gardner-Webb,16
+win,0.781,Purdue,3,Gardner-Webb,16
+win,0.937,Purdue,3,N.C. Central,16
+win,0.902,Houston,3,North Dakota St.,16
+win,0.908,LSU,3,Iona,16
+win,0.835,LSU,3,North Dakota St.,16
+win,0.875,LSU,3,N.C. Central,16
+win,0.935,Purdue,3,Fairleigh Dickinson,16
+win,0.927,Texas Tech,3,Fairleigh Dickinson,16
+win,0.904,Texas Tech,3,North Dakota St.,16
+win,0.955,Houston,3,Prairie View,16
+win,0.753,Houston,3,Gardner-Webb,16
+win,0.915,Purdue,3,North Dakota St.,16
+win,0.954,Purdue,3,Iona,16
+win,0.925,Houston,3,Fairleigh Dickinson,16
+win,0.956,Texas Tech,3,Prairie View,16
+win,0.872,LSU,3,Fairleigh Dickinson,16
+win,0.948,Texas Tech,3,Iona,16
+win,0.947,Houston,3,Iona,16
+win,0.962,Purdue,3,Prairie View,16
+win,0.922,LSU,3,Prairie View,16
+win,0.626,LSU,3,Gardner-Webb,16
+win,0.929,Texas Tech,3,N.C. Central,16
+loss,0.597,Florida St.,4,Gonzaga,1
+loss,0.59,Florida St.,4,Duke,1
+win,0.633,Virginia Tech,4,Gonzaga,1
+loss,0.748,Kansas,4,Virginia,1
+win,0.592,Kansas St.,4,North Carolina,1
+loss,0.781,Florida St.,4,Virginia,1
+win,0.508,Kansas St.,4,Duke,1
+loss,0.506,Florida St.,4,North Carolina,1
+win,0.501,Kansas St.,4,Gonzaga,1
+win,0.713,Virginia Tech,4,North Carolina,1
+loss,0.583,Virginia Tech,4,Virginia,1
+loss,0.706,Kansas St.,4,Virginia,1
+win,0.54,Kansas,4,North Carolina,1
+win,0.64,Virginia Tech,4,Duke,1
+loss,0.545,Kansas,4,Duke,1
+loss,0.552,Kansas,4,Gonzaga,1
+loss,0.639,Florida St.,4,Tennessee,2
+win,0.536,Virginia Tech,4,Michigan,2
+loss,0.522,Kansas St.,4,Kentucky,2
+win,0.611,Virginia Tech,4,Kentucky,2
+loss,0.648,Kansas,4,Michigan,2
+loss,0.607,Kansas,4,Michigan St.,2
+loss,0.556,Kansas St.,4,Michigan St.,2
+win,0.59,Virginia Tech,4,Tennessee,2
+loss,0.65,Florida St.,4,Michigan St.,2
+loss,0.596,Kansas,4,Tennessee,2
+loss,0.544,Kansas St.,4,Tennessee,2
+loss,0.618,Florida St.,4,Kentucky,2
+loss,0.574,Kansas,4,Kentucky,2
+loss,0.688,Florida St.,4,Michigan,2
+loss,0.598,Kansas St.,4,Michigan,2
+win,0.578,Virginia Tech,4,Michigan St.,2
+win,0.725,Virginia Tech,4,LSU,3
+loss,0.53,Kansas St.,4,Houston,3
+loss,0.536,Kansas St.,4,Texas Tech,3
+win,0.554,Kansas,4,LSU,3
+loss,0.631,Florida St.,4,Texas Tech,3
+loss,0.567,Kansas St.,4,Purdue,3
+win,0.567,Virginia Tech,4,Purdue,3
+loss,0.588,Kansas,4,Texas Tech,3
+loss,0.627,Florida St.,4,Houston,3
+win,0.603,Virginia Tech,4,Houston,3
+loss,0.619,Kansas,4,Purdue,3
+win,0.508,Florida St.,4,LSU,3
+win,0.598,Virginia Tech,4,Texas Tech,3
+loss,0.661,Florida St.,4,Purdue,3
+loss,0.583,Kansas,4,Houston,3
+win,0.606,Kansas St.,4,LSU,3
+win,0.571,Kansas St.,4,Kansas,4
+win,0.612,Kansas St.,4,Florida St.,4
+loss,0.53,Kansas,4,Kansas St.,4
+loss,0.692,Florida St.,4,Virginia Tech,4
+win,0.731,Virginia Tech,4,Florida St.,4
+loss,0.575,Florida St.,4,Kansas St.,4
+loss,0.651,Kansas,4,Virginia Tech,4
+loss,0.527,Florida St.,4,Kansas,4
+loss,0.602,Kansas St.,4,Virginia Tech,4
+win,0.653,Virginia Tech,4,Kansas St.,4
+win,0.561,Kansas,4,Florida St.,4
+win,0.696,Virginia Tech,4,Kansas,4
+loss,0.636,Kansas,4,Wisconsin,5
+win,0.619,Kansas St.,4,Marquette,5
+win,0.696,Virginia Tech,4,Mississippi St.,5
+win,0.572,Kansas St.,4,Mississippi St.,5
+win,0.522,Florida St.,4,Marquette,5
+win,0.671,Virginia Tech,4,Auburn,5
+win,0.548,Virginia Tech,4,Wisconsin,5
+win,0.543,Kansas St.,4,Auburn,5
+win,0.568,Kansas,4,Marquette,5
+win,0.736,Virginia Tech,4,Marquette,5
+loss,0.677,Florida St.,4,Wisconsin,5
+win,0.519,Kansas,4,Mississippi St.,5
+loss,0.51,Kansas,4,Auburn,5
+loss,0.586,Kansas St.,4,Wisconsin,5
+loss,0.556,Florida St.,4,Auburn,5
+loss,0.526,Florida St.,4,Mississippi St.,5
+loss,0.503,Kansas St.,4,Maryland,6
+loss,0.52,Kansas St.,4,Villanova,6
+win,0.579,Kansas,4,Buffalo,6
+loss,0.572,Kansas,4,Villanova,6
+loss,0.616,Florida St.,4,Villanova,6
+win,0.534,Florida St.,4,Buffalo,6
+win,0.622,Virginia Tech,4,Iowa St.,6
+win,0.629,Virginia Tech,4,Maryland,6
+loss,0.563,Kansas,4,Iowa St.,6
+loss,0.601,Florida St.,4,Maryland,6
+win,0.63,Kansas St.,4,Buffalo,6
+loss,0.51,Kansas St.,4,Iowa St.,6
+win,0.745,Virginia Tech,4,Buffalo,6
+loss,0.607,Florida St.,4,Iowa St.,6
+loss,0.556,Kansas,4,Maryland,6
+win,0.613,Virginia Tech,4,Villanova,6
+win,0.576,Virginia Tech,4,Cincinnati,7
+win,0.609,Virginia Tech,4,Louisville,7
+loss,0.61,Kansas,4,Cincinnati,7
+loss,0.509,Kansas,4,Nevada,7
+loss,0.543,Kansas,4,Wofford,7
+loss,0.576,Kansas,4,Louisville,7
+loss,0.559,Kansas St.,4,Cincinnati,7
+win,0.672,Virginia Tech,4,Nevada,7
+loss,0.524,Kansas St.,4,Louisville,7
+win,0.51,Kansas St.,4,Wofford,7
+loss,0.62,Florida St.,4,Louisville,7
+loss,0.554,Florida St.,4,Nevada,7
+loss,0.588,Florida St.,4,Wofford,7
+loss,0.653,Florida St.,4,Cincinnati,7
+win,0.641,Virginia Tech,4,Wofford,7
+win,0.544,Kansas St.,4,Nevada,7
+loss,0.549,Florida St.,4,Syracuse,8
+win,0.713,Virginia Tech,4,Ole Miss,8
+win,0.539,Kansas,4,Ole Miss,8
+loss,0.504,Kansas,4,Syracuse,8
+win,0.543,Florida St.,4,Utah St.,8
+win,0.641,Kansas St.,4,VCU,8
+win,0.588,Kansas,4,Utah St.,8
+win,0.591,Kansas,4,VCU,8
+win,0.549,Kansas St.,4,Syracuse,8
+win,0.546,Florida St.,4,VCU,8
+win,0.751,Virginia Tech,4,Utah St.,8
+win,0.676,Virginia Tech,4,Syracuse,8
+win,0.638,Kansas St.,4,Utah St.,8
+loss,0.506,Florida St.,4,Ole Miss,8
+win,0.754,Virginia Tech,4,VCU,8
+win,0.591,Kansas St.,4,Ole Miss,8
+win,0.507,Florida St.,4,Oklahoma,9
+win,0.724,Virginia Tech,4,Oklahoma,9
+win,0.581,Kansas St.,4,Washington,9
+loss,0.509,Kansas,4,UCF,9
+win,0.553,Kansas,4,Oklahoma,9
+win,0.704,Virginia Tech,4,Washington,9
+win,0.604,Kansas St.,4,Oklahoma,9
+win,0.529,Kansas,4,Washington,9
+win,0.698,Virginia Tech,4,Baylor,9
+loss,0.524,Florida St.,4,Baylor,9
+win,0.574,Kansas St.,4,Baylor,9
+win,0.522,Kansas,4,Baylor,9
+win,0.672,Virginia Tech,4,UCF,9
+win,0.544,Kansas St.,4,UCF,9
+loss,0.554,Florida St.,4,UCF,9
+loss,0.517,Florida St.,4,Washington,9
+win,0.655,Kansas,4,Seton Hall,10
+win,0.599,Virginia Tech,4,Florida,10
+win,0.612,Florida St.,4,Seton Hall,10
+win,0.627,Kansas,4,Minnesota,10
+win,0.583,Florida St.,4,Minnesota,10
+loss,0.505,Florida St.,4,Iowa,10
+loss,0.535,Kansas St.,4,Florida,10
+win,0.701,Kansas St.,4,Seton Hall,10
+loss,0.63,Florida St.,4,Florida,10
+win,0.675,Kansas St.,4,Minnesota,10
+win,0.593,Kansas St.,4,Iowa,10
+win,0.801,Virginia Tech,4,Seton Hall,10
+win,0.541,Kansas,4,Iowa,10
+win,0.781,Virginia Tech,4,Minnesota,10
+loss,0.587,Kansas,4,Florida,10
+win,0.714,Virginia Tech,4,Iowa,10
+win,0.616,Virginia Tech,4,Saint Mary's (CA),11
+win,0.657,Virginia Tech,4,Ohio St.,11
+loss,0.569,Kansas,4,Saint Mary's (CA),11
+win,0.815,Virginia Tech,4,Temple,11
+win,0.527,Kansas St.,4,Ohio St.,11
+win,0.695,Florida St.,4,Belmont,11
+win,0.772,Kansas St.,4,Belmont,11
+loss,0.571,Florida St.,4,Ohio St.,11
+loss,0.613,Florida St.,4,Saint Mary's (CA),11
+win,0.658,Kansas,4,Arizona St.,11
+win,0.695,Kansas St.,4,St. John's (NY),11
+win,0.704,Kansas St.,4,Arizona St.,11
+win,0.733,Kansas,4,Belmont,11
+win,0.803,Virginia Tech,4,Arizona St.,11
+loss,0.526,Kansas,4,Ohio St.,11
+win,0.648,Kansas,4,St. John's (NY),11
+loss,0.516,Kansas St.,4,Saint Mary's (CA),11
+win,0.633,Florida St.,4,Temple,11
+win,0.605,Florida St.,4,St. John's (NY),11
+win,0.72,Kansas St.,4,Temple,11
+win,0.615,Florida St.,4,Arizona St.,11
+win,0.675,Kansas,4,Temple,11
+win,0.853,Virginia Tech,4,Belmont,11
+win,0.796,Virginia Tech,4,St. John's (NY),11
+loss,0.544,Kansas,4,Liberty,12
+win,0.509,Kansas St.,4,Liberty,12
+win,0.606,Kansas St.,4,Murray St.,12
+win,0.683,Virginia Tech,4,Oregon,12
+win,0.625,Kansas St.,4,New Mexico St.,12
+win,0.556,Kansas St.,4,Oregon,12
+loss,0.542,Florida St.,4,Oregon,12
+loss,0.589,Florida St.,4,Liberty,12
+win,0.725,Virginia Tech,4,Murray St.,12
+win,0.64,Virginia Tech,4,Liberty,12
+win,0.509,Florida St.,4,Murray St.,12
+win,0.574,Kansas,4,New Mexico St.,12
+win,0.529,Florida St.,4,New Mexico St.,12
+win,0.741,Virginia Tech,4,New Mexico St.,12
+win,0.504,Kansas,4,Oregon,12
+win,0.554,Kansas,4,Murray St.,12
+win,0.827,Virginia Tech,4,Northeastern,13
+win,0.832,Virginia Tech,4,UC Irvine,13
+win,0.745,Virginia Tech,4,Vermont,13
+win,0.693,Kansas,4,Northeastern,13
+win,0.824,Virginia Tech,4,Saint Louis,13
+win,0.688,Kansas,4,Saint Louis,13
+win,0.743,Kansas St.,4,UC Irvine,13
+win,0.736,Kansas St.,4,Northeastern,13
+win,0.652,Florida St.,4,Northeastern,13
+win,0.66,Florida St.,4,UC Irvine,13
+win,0.732,Kansas St.,4,Saint Louis,13
+win,0.63,Kansas St.,4,Vermont,13
+win,0.7,Kansas,4,UC Irvine,13
+win,0.534,Florida St.,4,Vermont,13
+win,0.579,Kansas,4,Vermont,13
+win,0.648,Florida St.,4,Saint Louis,13
+win,0.712,Florida St.,4,Georgia St.,14
+win,0.597,Florida St.,4,Northern Ky.,14
+win,0.596,Florida St.,4,Old Dominion,14
+win,0.639,Kansas,4,Old Dominion,14
+win,0.64,Kansas,4,Northern Ky.,14
+win,0.748,Kansas,4,Georgia St.,14
+win,0.854,Virginia Tech,4,Yale,14
+win,0.687,Kansas St.,4,Northern Ky.,14
+win,0.786,Kansas St.,4,Georgia St.,14
+win,0.863,Virginia Tech,4,Georgia St.,14
+win,0.734,Kansas,4,Yale,14
+win,0.79,Virginia Tech,4,Northern Ky.,14
+win,0.773,Kansas St.,4,Yale,14
+win,0.686,Kansas St.,4,Old Dominion,14
+win,0.697,Florida St.,4,Yale,14
+win,0.79,Virginia Tech,4,Old Dominion,14
+win,0.865,Kansas,4,Bradley,15
+win,0.781,Kansas,4,Colgate,15
+win,0.932,Virginia Tech,4,Bradley,15
+win,0.758,Kansas,4,Abilene Christian,15
+win,0.656,Florida St.,4,Montana,15
+win,0.883,Virginia Tech,4,Colgate,15
+win,0.829,Virginia Tech,4,Montana,15
+win,0.815,Kansas St.,4,Colgate,15
+win,0.739,Kansas St.,4,Montana,15
+win,0.696,Kansas,4,Montana,15
+win,0.748,Florida St.,4,Colgate,15
+win,0.794,Kansas St.,4,Abilene Christian,15
+win,0.722,Florida St.,4,Abilene Christian,15
+win,0.843,Florida St.,4,Bradley,15
+win,0.869,Virginia Tech,4,Abilene Christian,15
+win,0.888,Kansas St.,4,Bradley,15
+win,0.926,Virginia Tech,4,North Dakota St.,16
+win,0.661,Kansas,4,Gardner-Webb,16
+win,0.907,Kansas St.,4,Fairleigh Dickinson,16
+win,0.888,Kansas,4,Fairleigh Dickinson,16
+win,0.879,Kansas St.,4,North Dakota St.,16
+win,0.855,Kansas,4,North Dakota St.,16
+win,0.944,Kansas St.,4,Prairie View,16
+win,0.707,Kansas St.,4,Gardner-Webb,16
+win,0.934,Kansas St.,4,Iona,16
+win,0.91,Kansas St.,4,N.C. Central,16
+win,0.919,Florida St.,4,Prairie View,16
+win,0.83,Florida St.,4,North Dakota St.,16
+win,0.967,Virginia Tech,4,Prairie View,16
+win,0.868,Florida St.,4,Fairleigh Dickinson,16
+win,0.92,Kansas,4,Iona,16
+win,0.805,Virginia Tech,4,Gardner-Webb,16
+win,0.891,Kansas,4,N.C. Central,16
+win,0.932,Kansas,4,Prairie View,16
+win,0.944,Virginia Tech,4,Fairleigh Dickinson,16
+win,0.945,Virginia Tech,4,N.C. Central,16
+win,0.961,Virginia Tech,4,Iona,16
+win,0.872,Florida St.,4,N.C. Central,16
+win,0.619,Florida St.,4,Gardner-Webb,16
+win,0.905,Florida St.,4,Iona,16
+win,0.698,Wisconsin,5,North Carolina,1
+loss,0.748,Mississippi St.,5,Virginia,1
+loss,0.545,Mississippi St.,5,Duke,1
+win,0.57,Auburn,5,North Carolina,1
+loss,0.6,Wisconsin,5,Virginia,1
+loss,0.552,Mississippi St.,5,Gonzaga,1
+win,0.623,Wisconsin,5,Duke,1
+loss,0.604,Marquette,5,Gonzaga,1
+loss,0.514,Auburn,5,Duke,1
+loss,0.724,Auburn,5,Virginia,1
+win,0.616,Wisconsin,5,Gonzaga,1
+loss,0.521,Auburn,5,Gonzaga,1
+loss,0.786,Marquette,5,Virginia,1
+loss,0.597,Marquette,5,Duke,1
+loss,0.514,Marquette,5,North Carolina,1
+win,0.539,Mississippi St.,5,North Carolina,1
+loss,0.575,Mississippi St.,5,Kentucky,2
+loss,0.608,Mississippi St.,5,Michigan St.,2
+loss,0.596,Mississippi St.,5,Tennessee,2
+loss,0.625,Marquette,5,Kentucky,2
+loss,0.657,Marquette,5,Michigan St.,2
+loss,0.695,Marquette,5,Michigan,2
+win,0.518,Wisconsin,5,Michigan,2
+loss,0.577,Auburn,5,Michigan St.,2
+loss,0.646,Marquette,5,Tennessee,2
+loss,0.565,Auburn,5,Tennessee,2
+win,0.561,Wisconsin,5,Michigan St.,2
+loss,0.619,Auburn,5,Michigan,2
+win,0.573,Wisconsin,5,Tennessee,2
+loss,0.648,Mississippi St.,5,Michigan,2
+loss,0.544,Auburn,5,Kentucky,2
+win,0.594,Wisconsin,5,Kentucky,2
+loss,0.589,Auburn,5,Purdue,3
+loss,0.552,Auburn,5,Houston,3
+loss,0.619,Mississippi St.,5,Purdue,3
+win,0.581,Wisconsin,5,Texas Tech,3
+loss,0.633,Marquette,5,Houston,3
+loss,0.583,Mississippi St.,5,Houston,3
+loss,0.557,Auburn,5,Texas Tech,3
+loss,0.588,Mississippi St.,5,Texas Tech,3
+win,0.585,Auburn,5,LSU,3
+win,0.711,Wisconsin,5,LSU,3
+win,0.501,Marquette,5,LSU,3
+win,0.554,Mississippi St.,5,LSU,3
+win,0.549,Wisconsin,5,Purdue,3
+loss,0.638,Marquette,5,Texas Tech,3
+loss,0.667,Marquette,5,Purdue,3
+win,0.586,Wisconsin,5,Houston,3
+win,0.591,Auburn,5,Florida St.,4
+win,0.508,Marquette,5,Florida St.,4
+loss,0.53,Mississippi St.,5,Kansas St.,4
+loss,0.651,Mississippi St.,5,Virginia Tech,4
+win,0.55,Auburn,5,Kansas,4
+win,0.637,Wisconsin,5,Kansas St.,4
+loss,0.583,Marquette,5,Kansas St.,4
+win,0.501,Auburn,5,Kansas St.,4
+win,0.681,Wisconsin,5,Kansas,4
+loss,0.698,Marquette,5,Virginia Tech,4
+loss,0.534,Marquette,5,Kansas,4
+loss,0.623,Auburn,5,Virginia Tech,4
+win,0.514,Wisconsin,5,Virginia Tech,4
+win,0.518,Mississippi St.,5,Kansas,4
+win,0.561,Mississippi St.,5,Florida St.,4
+win,0.716,Wisconsin,5,Florida St.,4
+win,0.55,Auburn,5,Mississippi St.,5
+loss,0.636,Mississippi St.,5,Wisconsin,5
+win,0.681,Wisconsin,5,Mississippi St.,5
+win,0.598,Auburn,5,Marquette,5
+win,0.568,Mississippi St.,5,Marquette,5
+loss,0.563,Marquette,5,Auburn,5
+loss,0.607,Auburn,5,Wisconsin,5
+loss,0.684,Marquette,5,Wisconsin,5
+win,0.722,Wisconsin,5,Marquette,5
+loss,0.534,Marquette,5,Mississippi St.,5
+loss,0.51,Mississippi St.,5,Auburn,5
+win,0.655,Wisconsin,5,Auburn,5
+loss,0.614,Marquette,5,Iowa St.,6
+loss,0.563,Mississippi St.,5,Iowa St.,6
+loss,0.572,Mississippi St.,5,Villanova,6
+win,0.527,Marquette,5,Buffalo,6
+win,0.612,Wisconsin,5,Maryland,6
+win,0.609,Auburn,5,Buffalo,6
+win,0.731,Wisconsin,5,Buffalo,6
+win,0.597,Wisconsin,5,Villanova,6
+win,0.579,Mississippi St.,5,Buffalo,6
+loss,0.608,Marquette,5,Maryland,6
+loss,0.532,Auburn,5,Iowa St.,6
+loss,0.525,Auburn,5,Maryland,6
+loss,0.623,Marquette,5,Villanova,6
+loss,0.541,Auburn,5,Villanova,6
+win,0.605,Wisconsin,5,Iowa St.,6
+loss,0.557,Mississippi St.,5,Maryland,6
+win,0.558,Wisconsin,5,Cincinnati,7
+win,0.592,Wisconsin,5,Louisville,7
+loss,0.627,Marquette,5,Louisville,7
+loss,0.61,Mississippi St.,5,Cincinnati,7
+loss,0.546,Auburn,5,Louisville,7
+win,0.656,Wisconsin,5,Nevada,7
+loss,0.659,Marquette,5,Cincinnati,7
+loss,0.509,Mississippi St.,5,Nevada,7
+loss,0.544,Mississippi St.,5,Wofford,7
+loss,0.512,Auburn,5,Wofford,7
+win,0.522,Auburn,5,Nevada,7
+loss,0.562,Marquette,5,Nevada,7
+win,0.624,Wisconsin,5,Wofford,7
+loss,0.58,Auburn,5,Cincinnati,7
+loss,0.576,Mississippi St.,5,Louisville,7
+loss,0.595,Marquette,5,Wofford,7
+win,0.621,Auburn,5,VCU,8
+win,0.738,Wisconsin,5,Utah St.,8
+win,0.741,Wisconsin,5,VCU,8
+win,0.591,Mississippi St.,5,VCU,8
+win,0.57,Auburn,5,Ole Miss,8
+win,0.587,Mississippi St.,5,Utah St.,8
+win,0.661,Wisconsin,5,Syracuse,8
+loss,0.514,Marquette,5,Ole Miss,8
+win,0.539,Marquette,5,VCU,8
+win,0.535,Marquette,5,Utah St.,8
+loss,0.504,Mississippi St.,5,Syracuse,8
+win,0.698,Wisconsin,5,Ole Miss,8
+win,0.527,Auburn,5,Syracuse,8
+loss,0.557,Marquette,5,Syracuse,8
+win,0.617,Auburn,5,Utah St.,8
+win,0.539,Mississippi St.,5,Ole Miss,8
+win,0.552,Mississippi St.,5,Oklahoma,9
+win,0.656,Wisconsin,5,UCF,9
+win,0.709,Wisconsin,5,Oklahoma,9
+loss,0.561,Marquette,5,UCF,9
+win,0.521,Mississippi St.,5,Baylor,9
+loss,0.5,Marquette,5,Oklahoma,9
+loss,0.509,Mississippi St.,5,UCF,9
+win,0.689,Wisconsin,5,Washington,9
+win,0.528,Mississippi St.,5,Washington,9
+win,0.559,Auburn,5,Washington,9
+loss,0.525,Marquette,5,Washington,9
+win,0.583,Auburn,5,Oklahoma,9
+loss,0.532,Marquette,5,Baylor,9
+win,0.522,Auburn,5,UCF,9
+win,0.552,Auburn,5,Baylor,9
+win,0.683,Wisconsin,5,Baylor,9
+loss,0.556,Auburn,5,Florida,10
+win,0.682,Auburn,5,Seton Hall,10
+win,0.576,Marquette,5,Minnesota,10
+win,0.656,Auburn,5,Minnesota,10
+win,0.605,Marquette,5,Seton Hall,10
+win,0.789,Wisconsin,5,Seton Hall,10
+win,0.769,Wisconsin,5,Minnesota,10
+win,0.582,Wisconsin,5,Florida,10
+win,0.54,Mississippi St.,5,Iowa,10
+loss,0.587,Mississippi St.,5,Florida,10
+win,0.571,Auburn,5,Iowa,10
+win,0.654,Mississippi St.,5,Seton Hall,10
+win,0.699,Wisconsin,5,Iowa,10
+loss,0.512,Marquette,5,Iowa,10
+loss,0.637,Marquette,5,Florida,10
+win,0.627,Mississippi St.,5,Minnesota,10
+win,0.844,Wisconsin,5,Belmont,11
+loss,0.526,Mississippi St.,5,Ohio St.,11
+win,0.675,Mississippi St.,5,Temple,11
+win,0.627,Marquette,5,Temple,11
+win,0.657,Mississippi St.,5,Arizona St.,11
+win,0.784,Wisconsin,5,St. John's (NY),11
+loss,0.579,Marquette,5,Ohio St.,11
+win,0.598,Marquette,5,St. John's (NY),11
+loss,0.62,Marquette,5,Saint Mary's (CA),11
+win,0.792,Wisconsin,5,Arizona St.,11
+loss,0.569,Mississippi St.,5,Saint Mary's (CA),11
+win,0.648,Mississippi St.,5,St. John's (NY),11
+win,0.505,Auburn,5,Ohio St.,11
+win,0.804,Wisconsin,5,Temple,11
+win,0.732,Mississippi St.,5,Belmont,11
+win,0.608,Marquette,5,Arizona St.,11
+win,0.6,Wisconsin,5,Saint Mary's (CA),11
+win,0.689,Marquette,5,Belmont,11
+win,0.756,Auburn,5,Belmont,11
+win,0.685,Auburn,5,Arizona St.,11
+win,0.676,Auburn,5,St. John's (NY),11
+win,0.701,Auburn,5,Temple,11
+loss,0.538,Auburn,5,Saint Mary's (CA),11
+win,0.64,Wisconsin,5,Ohio St.,11
+win,0.667,Wisconsin,5,Oregon,12
+win,0.727,Wisconsin,5,New Mexico St.,12
+win,0.521,Marquette,5,New Mexico St.,12
+win,0.604,Auburn,5,New Mexico St.,12
+win,0.585,Auburn,5,Murray St.,12
+win,0.535,Auburn,5,Oregon,12
+win,0.554,Mississippi St.,5,Murray St.,12
+win,0.503,Mississippi St.,5,Oregon,12
+loss,0.596,Marquette,5,Liberty,12
+loss,0.544,Mississippi St.,5,Liberty,12
+win,0.624,Wisconsin,5,Liberty,12
+win,0.501,Marquette,5,Murray St.,12
+loss,0.513,Auburn,5,Liberty,12
+loss,0.549,Marquette,5,Oregon,12
+win,0.711,Wisconsin,5,Murray St.,12
+win,0.574,Mississippi St.,5,New Mexico St.,12
+win,0.7,Mississippi St.,5,UC Irvine,13
+win,0.688,Mississippi St.,5,Saint Louis,13
+win,0.579,Mississippi St.,5,Vermont,13
+win,0.641,Marquette,5,Saint Louis,13
+win,0.731,Wisconsin,5,Vermont,13
+win,0.654,Marquette,5,UC Irvine,13
+win,0.609,Auburn,5,Vermont,13
+win,0.718,Auburn,5,Northeastern,13
+win,0.692,Mississippi St.,5,Northeastern,13
+win,0.726,Auburn,5,UC Irvine,13
+win,0.646,Marquette,5,Northeastern,13
+win,0.527,Marquette,5,Vermont,13
+win,0.813,Wisconsin,5,Saint Louis,13
+win,0.822,Wisconsin,5,UC Irvine,13
+win,0.817,Wisconsin,5,Northeastern,13
+win,0.714,Auburn,5,Saint Louis,13
+win,0.734,Mississippi St.,5,Yale,14
+win,0.771,Auburn,5,Georgia St.,14
+win,0.589,Marquette,5,Old Dominion,14
+win,0.639,Mississippi St.,5,Old Dominion,14
+win,0.778,Wisconsin,5,Northern Ky.,14
+win,0.668,Auburn,5,Northern Ky.,14
+win,0.667,Auburn,5,Old Dominion,14
+win,0.778,Wisconsin,5,Old Dominion,14
+win,0.845,Wisconsin,5,Yale,14
+win,0.706,Marquette,5,Georgia St.,14
+win,0.59,Marquette,5,Northern Ky.,14
+win,0.748,Mississippi St.,5,Georgia St.,14
+win,0.757,Auburn,5,Yale,14
+win,0.64,Mississippi St.,5,Northern Ky.,14
+win,0.854,Wisconsin,5,Georgia St.,14
+win,0.69,Marquette,5,Yale,14
+win,0.879,Auburn,5,Bradley,15
+win,0.696,Mississippi St.,5,Montana,15
+win,0.927,Wisconsin,5,Bradley,15
+win,0.78,Auburn,5,Abilene Christian,15
+win,0.757,Mississippi St.,5,Abilene Christian,15
+win,0.876,Wisconsin,5,Colgate,15
+win,0.819,Wisconsin,5,Montana,15
+win,0.781,Mississippi St.,5,Colgate,15
+win,0.861,Wisconsin,5,Abilene Christian,15
+win,0.742,Marquette,5,Colgate,15
+win,0.717,Marquette,5,Abilene Christian,15
+win,0.839,Marquette,5,Bradley,15
+win,0.65,Marquette,5,Montana,15
+win,0.865,Mississippi St.,5,Bradley,15
+win,0.722,Auburn,5,Montana,15
+win,0.801,Auburn,5,Colgate,15
+win,0.92,Mississippi St.,5,Iona,16
+win,0.942,Wisconsin,5,N.C. Central,16
+win,0.661,Mississippi St.,5,Gardner-Webb,16
+win,0.94,Wisconsin,5,Fairleigh Dickinson,16
+win,0.958,Wisconsin,5,Iona,16
+win,0.964,Wisconsin,5,Prairie View,16
+win,0.921,Wisconsin,5,North Dakota St.,16
+win,0.865,Marquette,5,Fairleigh Dickinson,16
+win,0.826,Marquette,5,North Dakota St.,16
+win,0.868,Marquette,5,N.C. Central,16
+win,0.891,Mississippi St.,5,N.C. Central,16
+win,0.612,Marquette,5,Gardner-Webb,16
+win,0.917,Marquette,5,Prairie View,16
+win,0.903,Marquette,5,Iona,16
+win,0.902,Auburn,5,N.C. Central,16
+win,0.794,Wisconsin,5,Gardner-Webb,16
+win,0.9,Auburn,5,Fairleigh Dickinson,16
+win,0.928,Auburn,5,Iona,16
+win,0.888,Mississippi St.,5,Fairleigh Dickinson,16
+win,0.932,Mississippi St.,5,Prairie View,16
+win,0.94,Auburn,5,Prairie View,16
+win,0.869,Auburn,5,North Dakota St.,16
+win,0.688,Auburn,5,Gardner-Webb,16
+win,0.855,Mississippi St.,5,North Dakota St.,16
+loss,0.608,Buffalo,6,Duke,1
+win,0.536,Iowa St.,6,Gonzaga,1
+win,0.625,Iowa St.,6,North Carolina,1
+win,0.537,Maryland,6,Duke,1
+win,0.544,Iowa St.,6,Duke,1
+win,0.635,Villanova,6,North Carolina,1
+win,0.53,Maryland,6,Gonzaga,1
+loss,0.525,Buffalo,6,North Carolina,1
+loss,0.666,Villanova,6,Virginia,1
+win,0.547,Villanova,6,Gonzaga,1
+loss,0.793,Buffalo,6,Virginia,1
+loss,0.681,Maryland,6,Virginia,1
+loss,0.675,Iowa St.,6,Virginia,1
+win,0.619,Maryland,6,North Carolina,1
+win,0.554,Villanova,6,Duke,1
+loss,0.615,Buffalo,6,Gonzaga,1
+loss,0.704,Buffalo,6,Michigan,2
+loss,0.667,Buffalo,6,Michigan St.,2
+loss,0.656,Buffalo,6,Tennessee,2
+win,0.524,Villanova,6,Kentucky,2
+win,0.514,Iowa St.,6,Kentucky,2
+win,0.507,Maryland,6,Kentucky,2
+loss,0.515,Maryland,6,Tennessee,2
+loss,0.636,Buffalo,6,Kentucky,2
+loss,0.57,Maryland,6,Michigan,2
+loss,0.52,Iowa St.,6,Michigan St.,2
+loss,0.508,Iowa St.,6,Tennessee,2
+loss,0.563,Iowa St.,6,Michigan,2
+win,0.502,Villanova,6,Tennessee,2
+loss,0.527,Maryland,6,Michigan St.,2
+loss,0.51,Villanova,6,Michigan St.,2
+loss,0.553,Villanova,6,Michigan,2
+loss,0.532,Iowa St.,6,Purdue,3
+loss,0.649,Buffalo,6,Texas Tech,3
+win,0.639,Iowa St.,6,LSU,3
+win,0.505,Iowa St.,6,Houston,3
+loss,0.51,Buffalo,6,LSU,3
+loss,0.539,Maryland,6,Purdue,3
+loss,0.502,Maryland,6,Houston,3
+loss,0.644,Buffalo,6,Houston,3
+win,0.515,Villanova,6,Houston,3
+loss,0.5,Iowa St.,6,Texas Tech,3
+win,0.51,Villanova,6,Texas Tech,3
+loss,0.507,Maryland,6,Texas Tech,3
+loss,0.522,Villanova,6,Purdue,3
+win,0.649,Villanova,6,LSU,3
+win,0.633,Maryland,6,LSU,3
+loss,0.678,Buffalo,6,Purdue,3
+win,0.655,Villanova,6,Florida St.,4
+loss,0.594,Buffalo,6,Kansas St.,4
+win,0.639,Maryland,6,Florida St.,4
+win,0.558,Iowa St.,6,Kansas St.,4
+win,0.551,Maryland,6,Kansas St.,4
+win,0.646,Iowa St.,6,Florida St.,4
+win,0.606,Iowa St.,6,Kansas,4
+loss,0.503,Buffalo,6,Florida St.,4
+loss,0.567,Iowa St.,6,Virginia Tech,4
+loss,0.557,Villanova,6,Virginia Tech,4
+loss,0.574,Maryland,6,Virginia Tech,4
+win,0.599,Maryland,6,Kansas,4
+loss,0.708,Buffalo,6,Virginia Tech,4
+win,0.568,Villanova,6,Kansas St.,4
+win,0.616,Villanova,6,Kansas,4
+loss,0.546,Buffalo,6,Kansas,4
+win,0.661,Villanova,6,Marquette,5
+win,0.578,Iowa St.,6,Auburn,5
+loss,0.574,Buffalo,6,Auburn,5
+win,0.646,Maryland,6,Marquette,5
+loss,0.557,Maryland,6,Wisconsin,5
+loss,0.545,Buffalo,6,Mississippi St.,5
+win,0.652,Iowa St.,6,Marquette,5
+win,0.571,Maryland,6,Auburn,5
+win,0.6,Maryland,6,Mississippi St.,5
+win,0.606,Iowa St.,6,Mississippi St.,5
+win,0.616,Villanova,6,Mississippi St.,5
+win,0.588,Villanova,6,Auburn,5
+loss,0.693,Buffalo,6,Wisconsin,5
+loss,0.551,Iowa St.,6,Wisconsin,5
+loss,0.54,Villanova,6,Wisconsin,5
+win,0.504,Buffalo,6,Marquette,5
+win,0.509,Maryland,6,Villanova,6
+win,0.536,Villanova,6,Iowa St.,6
+win,0.532,Iowa St.,6,Maryland,6
+win,0.656,Maryland,6,Buffalo,6
+win,0.516,Iowa St.,6,Villanova,6
+win,0.518,Maryland,6,Iowa St.,6
+loss,0.625,Buffalo,6,Iowa St.,6
+win,0.662,Iowa St.,6,Buffalo,6
+loss,0.619,Buffalo,6,Maryland,6
+loss,0.634,Buffalo,6,Villanova,6
+win,0.542,Villanova,6,Maryland,6
+win,0.671,Villanova,6,Buffalo,6
+win,0.545,Iowa St.,6,Wofford,7
+win,0.572,Maryland,6,Nevada,7
+loss,0.513,Villanova,6,Cincinnati,7
+win,0.538,Maryland,6,Wofford,7
+win,0.512,Iowa St.,6,Louisville,7
+loss,0.67,Buffalo,6,Cincinnati,7
+win,0.579,Iowa St.,6,Nevada,7
+win,0.522,Villanova,6,Louisville,7
+win,0.555,Villanova,6,Wofford,7
+win,0.505,Maryland,6,Louisville,7
+loss,0.53,Maryland,6,Cincinnati,7
+loss,0.607,Buffalo,6,Wofford,7
+win,0.589,Villanova,6,Nevada,7
+loss,0.573,Buffalo,6,Nevada,7
+loss,0.523,Iowa St.,6,Cincinnati,7
+loss,0.638,Buffalo,6,Louisville,7
+win,0.664,Maryland,6,Utah St.,8
+win,0.619,Maryland,6,Ole Miss,8
+win,0.679,Villanova,6,Utah St.,8
+loss,0.525,Buffalo,6,Ole Miss,8
+win,0.67,Iowa St.,6,Utah St.,8
+win,0.577,Maryland,6,Syracuse,8
+win,0.635,Villanova,6,Ole Miss,8
+win,0.584,Iowa St.,6,Syracuse,8
+win,0.667,Maryland,6,VCU,8
+win,0.682,Villanova,6,VCU,8
+win,0.594,Villanova,6,Syracuse,8
+win,0.527,Buffalo,6,VCU,8
+win,0.625,Iowa St.,6,Ole Miss,8
+win,0.524,Buffalo,6,Utah St.,8
+loss,0.568,Buffalo,6,Syracuse,8
+win,0.673,Iowa St.,6,VCU,8
+win,0.615,Iowa St.,6,Washington,9
+loss,0.536,Buffalo,6,Washington,9
+win,0.647,Villanova,6,Oklahoma,9
+win,0.602,Maryland,6,Baylor,9
+win,0.631,Maryland,6,Oklahoma,9
+loss,0.512,Buffalo,6,Oklahoma,9
+win,0.589,Villanova,6,UCF,9
+win,0.579,Iowa St.,6,UCF,9
+win,0.638,Iowa St.,6,Oklahoma,9
+win,0.573,Maryland,6,UCF,9
+loss,0.573,Buffalo,6,UCF,9
+win,0.609,Maryland,6,Washington,9
+win,0.618,Villanova,6,Baylor,9
+loss,0.543,Buffalo,6,Baylor,9
+win,0.608,Iowa St.,6,Baylor,9
+win,0.625,Villanova,6,Washington,9
+win,0.636,Villanova,6,Iowa,10
+win,0.565,Buffalo,6,Minnesota,10
+win,0.738,Villanova,6,Seton Hall,10
+win,0.7,Maryland,6,Minnesota,10
+win,0.511,Villanova,6,Florida,10
+win,0.62,Maryland,6,Iowa,10
+win,0.501,Iowa St.,6,Florida,10
+loss,0.524,Buffalo,6,Iowa,10
+win,0.73,Iowa St.,6,Seton Hall,10
+win,0.627,Iowa St.,6,Iowa,10
+win,0.706,Iowa St.,6,Minnesota,10
+loss,0.648,Buffalo,6,Florida,10
+win,0.594,Buffalo,6,Seton Hall,10
+win,0.714,Villanova,6,Minnesota,10
+win,0.724,Maryland,6,Seton Hall,10
+loss,0.506,Maryland,6,Florida,10
+win,0.727,Maryland,6,Arizona St.,11
+win,0.741,Villanova,6,Arizona St.,11
+loss,0.59,Buffalo,6,Ohio St.,11
+win,0.755,Villanova,6,Temple,11
+win,0.803,Villanova,6,Belmont,11
+win,0.616,Buffalo,6,Temple,11
+win,0.597,Buffalo,6,Arizona St.,11
+win,0.587,Buffalo,6,St. John's (NY),11
+win,0.733,Iowa St.,6,Arizona St.,11
+win,0.555,Maryland,6,Ohio St.,11
+win,0.747,Iowa St.,6,Temple,11
+win,0.718,Maryland,6,St. John's (NY),11
+win,0.679,Buffalo,6,Belmont,11
+win,0.796,Iowa St.,6,Belmont,11
+loss,0.631,Buffalo,6,Saint Mary's (CA),11
+win,0.792,Maryland,6,Belmont,11
+win,0.724,Iowa St.,6,St. John's (NY),11
+win,0.742,Maryland,6,Temple,11
+win,0.572,Villanova,6,Ohio St.,11
+win,0.519,Iowa St.,6,Saint Mary's (CA),11
+win,0.732,Villanova,6,St. John's (NY),11
+win,0.512,Maryland,6,Saint Mary's (CA),11
+win,0.562,Iowa St.,6,Ohio St.,11
+win,0.529,Villanova,6,Saint Mary's (CA),11
+win,0.51,Buffalo,6,New Mexico St.,12
+win,0.658,Iowa St.,6,New Mexico St.,12
+loss,0.561,Buffalo,6,Oregon,12
+win,0.538,Maryland,6,Liberty,12
+win,0.651,Maryland,6,New Mexico St.,12
+win,0.633,Maryland,6,Murray St.,12
+win,0.591,Iowa St.,6,Oregon,12
+loss,0.607,Buffalo,6,Liberty,12
+win,0.584,Maryland,6,Oregon,12
+win,0.555,Villanova,6,Liberty,12
+win,0.639,Iowa St.,6,Murray St.,12
+win,0.544,Iowa St.,6,Liberty,12
+win,0.601,Villanova,6,Oregon,12
+win,0.667,Villanova,6,New Mexico St.,12
+loss,0.51,Buffalo,6,Murray St.,12
+win,0.649,Villanova,6,Murray St.,12
+win,0.759,Iowa St.,6,Saint Louis,13
+win,0.672,Villanova,6,Vermont,13
+win,0.776,Villanova,6,UC Irvine,13
+win,0.758,Maryland,6,Northeastern,13
+win,0.769,Iowa St.,6,UC Irvine,13
+win,0.764,Maryland,6,UC Irvine,13
+win,0.754,Maryland,6,Saint Louis,13
+win,0.763,Iowa St.,6,Northeastern,13
+win,0.63,Buffalo,6,Saint Louis,13
+win,0.766,Villanova,6,Saint Louis,13
+win,0.515,Buffalo,6,Vermont,13
+win,0.656,Maryland,6,Vermont,13
+win,0.77,Villanova,6,Northeastern,13
+win,0.643,Buffalo,6,UC Irvine,13
+win,0.663,Iowa St.,6,Vermont,13
+win,0.635,Buffalo,6,Northeastern,13
+win,0.804,Villanova,6,Yale,14
+win,0.696,Buffalo,6,Georgia St.,14
+win,0.577,Buffalo,6,Old Dominion,14
+win,0.68,Buffalo,6,Yale,14
+win,0.579,Buffalo,6,Northern Ky.,14
+win,0.805,Maryland,6,Georgia St.,14
+win,0.716,Iowa St.,6,Old Dominion,14
+win,0.725,Villanova,6,Northern Ky.,14
+win,0.717,Iowa St.,6,Northern Ky.,14
+win,0.724,Villanova,6,Old Dominion,14
+win,0.711,Maryland,6,Northern Ky.,14
+win,0.797,Iowa St.,6,Yale,14
+win,0.809,Iowa St.,6,Georgia St.,14
+win,0.793,Maryland,6,Yale,14
+win,0.815,Villanova,6,Georgia St.,14
+win,0.71,Maryland,6,Old Dominion,14
+win,0.766,Iowa St.,6,Montana,15
+win,0.773,Villanova,6,Montana,15
+win,0.832,Buffalo,6,Bradley,15
+win,0.841,Villanova,6,Colgate,15
+win,0.733,Buffalo,6,Colgate,15
+win,0.639,Buffalo,6,Montana,15
+win,0.905,Villanova,6,Bradley,15
+win,0.707,Buffalo,6,Abilene Christian,15
+win,0.899,Maryland,6,Bradley,15
+win,0.823,Villanova,6,Abilene Christian,15
+win,0.817,Iowa St.,6,Abilene Christian,15
+win,0.761,Maryland,6,Montana,15
+win,0.813,Maryland,6,Abilene Christian,15
+win,0.832,Maryland,6,Colgate,15
+win,0.835,Iowa St.,6,Colgate,15
+win,0.902,Iowa St.,6,Bradley,15
+win,0.736,Iowa St.,6,Gardner-Webb,16
+win,0.953,Villanova,6,Prairie View,16
+win,0.897,Villanova,6,North Dakota St.,16
+win,0.924,Villanova,6,N.C. Central,16
+win,0.922,Villanova,6,Fairleigh Dickinson,16
+win,0.941,Maryland,6,Iona,16
+win,0.951,Iowa St.,6,Prairie View,16
+win,0.82,Buffalo,6,North Dakota St.,16
+win,0.919,Maryland,6,N.C. Central,16
+win,0.95,Maryland,6,Prairie View,16
+win,0.891,Maryland,6,North Dakota St.,16
+win,0.921,Iowa St.,6,N.C. Central,16
+win,0.601,Buffalo,6,Gardner-Webb,16
+win,0.942,Iowa St.,6,Iona,16
+win,0.917,Maryland,6,Fairleigh Dickinson,16
+win,0.893,Iowa St.,6,North Dakota St.,16
+win,0.919,Iowa St.,6,Fairleigh Dickinson,16
+win,0.898,Buffalo,6,Iona,16
+win,0.914,Buffalo,6,Prairie View,16
+win,0.86,Buffalo,6,Fairleigh Dickinson,16
+win,0.863,Buffalo,6,N.C. Central,16
+win,0.743,Villanova,6,Gardner-Webb,16
+win,0.945,Villanova,6,Iona,16
+win,0.73,Maryland,6,Gardner-Webb,16
+win,0.673,Cincinnati,7,North Carolina,1
+loss,0.662,Louisville,7,Virginia,1
+win,0.523,Wofford,7,Duke,1
+loss,0.522,Nevada,7,Gonzaga,1
+win,0.516,Wofford,7,Gonzaga,1
+loss,0.725,Nevada,7,Virginia,1
+loss,0.515,Nevada,7,Duke,1
+loss,0.693,Wofford,7,Virginia,1
+win,0.551,Louisville,7,Gonzaga,1
+win,0.595,Cincinnati,7,Duke,1
+win,0.588,Cincinnati,7,Gonzaga,1
+win,0.558,Louisville,7,Duke,1
+loss,0.628,Cincinnati,7,Virginia,1
+win,0.569,Nevada,7,North Carolina,1
+win,0.639,Louisville,7,North Carolina,1
+win,0.606,Wofford,7,North Carolina,1
+win,0.544,Cincinnati,7,Tennessee,2
+win,0.566,Cincinnati,7,Kentucky,2
+win,0.532,Cincinnati,7,Michigan St.,2
+loss,0.545,Nevada,7,Kentucky,2
+loss,0.506,Louisville,7,Michigan St.,2
+loss,0.529,Wofford,7,Tennessee,2
+win,0.506,Louisville,7,Tennessee,2
+loss,0.507,Wofford,7,Kentucky,2
+loss,0.512,Cincinnati,7,Michigan,2
+loss,0.541,Wofford,7,Michigan St.,2
+loss,0.584,Wofford,7,Michigan,2
+loss,0.549,Louisville,7,Michigan,2
+loss,0.62,Nevada,7,Michigan,2
+loss,0.579,Nevada,7,Michigan St.,2
+win,0.528,Louisville,7,Kentucky,2
+loss,0.567,Nevada,7,Tennessee,2
+loss,0.521,Wofford,7,Texas Tech,3
+win,0.62,Wofford,7,LSU,3
+loss,0.553,Wofford,7,Purdue,3
+win,0.557,Cincinnati,7,Houston,3
+loss,0.515,Wofford,7,Houston,3
+win,0.552,Cincinnati,7,Texas Tech,3
+win,0.52,Louisville,7,Houston,3
+win,0.52,Cincinnati,7,Purdue,3
+loss,0.59,Nevada,7,Purdue,3
+win,0.653,Louisville,7,LSU,3
+win,0.686,Cincinnati,7,LSU,3
+loss,0.518,Louisville,7,Purdue,3
+win,0.515,Louisville,7,Texas Tech,3
+win,0.583,Nevada,7,LSU,3
+loss,0.554,Nevada,7,Houston,3
+loss,0.559,Nevada,7,Texas Tech,3
+win,0.538,Wofford,7,Kansas St.,4
+win,0.609,Cincinnati,7,Kansas St.,4
+win,0.627,Wofford,7,Florida St.,4
+win,0.59,Nevada,7,Florida St.,4
+win,0.62,Louisville,7,Kansas,4
+loss,0.624,Nevada,7,Virginia Tech,4
+win,0.548,Nevada,7,Kansas,4
+loss,0.553,Louisville,7,Virginia Tech,4
+win,0.692,Cincinnati,7,Florida St.,4
+loss,0.587,Wofford,7,Virginia Tech,4
+loss,0.5,Nevada,7,Kansas St.,4
+loss,0.515,Cincinnati,7,Virginia Tech,4
+win,0.573,Louisville,7,Kansas St.,4
+win,0.654,Cincinnati,7,Kansas,4
+win,0.659,Louisville,7,Florida St.,4
+win,0.586,Wofford,7,Kansas,4
+win,0.665,Louisville,7,Marquette,5
+win,0.698,Cincinnati,7,Marquette,5
+loss,0.571,Wofford,7,Wisconsin,5
+win,0.587,Wofford,7,Mississippi St.,5
+loss,0.608,Nevada,7,Wisconsin,5
+win,0.549,Nevada,7,Mississippi St.,5
+win,0.519,Nevada,7,Auburn,5
+win,0.633,Wofford,7,Marquette,5
+loss,0.536,Louisville,7,Wisconsin,5
+win,0.501,Cincinnati,7,Wisconsin,5
+win,0.597,Nevada,7,Marquette,5
+win,0.655,Cincinnati,7,Mississippi St.,5
+win,0.628,Cincinnati,7,Auburn,5
+win,0.62,Louisville,7,Mississippi St.,5
+win,0.592,Louisville,7,Auburn,5
+win,0.558,Wofford,7,Auburn,5
+loss,0.504,Wofford,7,Villanova,6
+win,0.644,Wofford,7,Buffalo,6
+loss,0.534,Nevada,7,Iowa St.,6
+win,0.505,Wofford,7,Iowa St.,6
+win,0.707,Cincinnati,7,Buffalo,6
+win,0.568,Cincinnati,7,Villanova,6
+win,0.577,Cincinnati,7,Iowa St.,6
+win,0.675,Louisville,7,Buffalo,6
+win,0.584,Cincinnati,7,Maryland,6
+win,0.54,Louisville,7,Iowa St.,6
+loss,0.527,Nevada,7,Maryland,6
+win,0.512,Wofford,7,Maryland,6
+loss,0.543,Nevada,7,Villanova,6
+win,0.547,Louisville,7,Maryland,6
+win,0.531,Louisville,7,Villanova,6
+win,0.608,Nevada,7,Buffalo,6
+loss,0.509,Wofford,7,Louisville,7
+win,0.629,Cincinnati,7,Nevada,7
+win,0.564,Cincinnati,7,Louisville,7
+win,0.596,Cincinnati,7,Wofford,7
+loss,0.544,Wofford,7,Cincinnati,7
+loss,0.547,Nevada,7,Louisville,7
+win,0.56,Louisville,7,Wofford,7
+win,0.593,Louisville,7,Nevada,7
+loss,0.509,Louisville,7,Cincinnati,7
+win,0.559,Wofford,7,Nevada,7
+loss,0.581,Nevada,7,Cincinnati,7
+loss,0.514,Nevada,7,Wofford,7
+win,0.616,Nevada,7,Utah St.,8
+win,0.639,Louisville,7,Ole Miss,8
+win,0.619,Nevada,7,VCU,8
+win,0.714,Cincinnati,7,Utah St.,8
+win,0.606,Wofford,7,Ole Miss,8
+win,0.673,Cincinnati,7,Ole Miss,8
+win,0.526,Nevada,7,Syracuse,8
+win,0.634,Cincinnati,7,Syracuse,8
+win,0.652,Wofford,7,Utah St.,8
+win,0.564,Wofford,7,Syracuse,8
+win,0.598,Louisville,7,Syracuse,8
+win,0.569,Nevada,7,Ole Miss,8
+win,0.717,Cincinnati,7,VCU,8
+win,0.686,Louisville,7,VCU,8
+win,0.683,Louisville,7,Utah St.,8
+win,0.655,Wofford,7,VCU,8
+win,0.589,Wofford,7,Baylor,9
+win,0.629,Louisville,7,Washington,9
+win,0.595,Wofford,7,Washington,9
+win,0.558,Nevada,7,Washington,9
+win,0.619,Wofford,7,Oklahoma,9
+win,0.551,Nevada,7,Baylor,9
+win,0.629,Cincinnati,7,UCF,9
+win,0.559,Wofford,7,UCF,9
+win,0.594,Louisville,7,UCF,9
+win,0.651,Louisville,7,Oklahoma,9
+win,0.582,Nevada,7,Oklahoma,9
+win,0.521,Nevada,7,UCF,9
+win,0.685,Cincinnati,7,Oklahoma,9
+win,0.622,Louisville,7,Baylor,9
+win,0.657,Cincinnati,7,Baylor,9
+win,0.663,Cincinnati,7,Washington,9
+win,0.57,Nevada,7,Iowa,10
+loss,0.52,Wofford,7,Florida,10
+win,0.741,Louisville,7,Seton Hall,10
+win,0.688,Wofford,7,Minnesota,10
+win,0.718,Louisville,7,Minnesota,10
+win,0.654,Nevada,7,Minnesota,10
+loss,0.558,Nevada,7,Florida,10
+win,0.516,Louisville,7,Florida,10
+win,0.681,Nevada,7,Seton Hall,10
+win,0.747,Cincinnati,7,Minnesota,10
+win,0.713,Wofford,7,Seton Hall,10
+win,0.64,Louisville,7,Iowa,10
+win,0.769,Cincinnati,7,Seton Hall,10
+win,0.607,Wofford,7,Iowa,10
+win,0.553,Cincinnati,7,Florida,10
+win,0.674,Cincinnati,7,Iowa,10
+win,0.771,Cincinnati,7,Arizona St.,11
+win,0.534,Louisville,7,Saint Mary's (CA),11
+win,0.716,Wofford,7,Arizona St.,11
+win,0.613,Cincinnati,7,Ohio St.,11
+win,0.785,Cincinnati,7,Temple,11
+win,0.764,Cincinnati,7,St. John's (NY),11
+win,0.782,Wofford,7,Belmont,11
+loss,0.54,Nevada,7,Saint Mary's (CA),11
+loss,0.501,Wofford,7,Saint Mary's (CA),11
+win,0.504,Nevada,7,Ohio St.,11
+win,0.542,Wofford,7,Ohio St.,11
+win,0.684,Nevada,7,Arizona St.,11
+win,0.732,Wofford,7,Temple,11
+win,0.755,Nevada,7,Belmont,11
+win,0.805,Louisville,7,Belmont,11
+win,0.744,Louisville,7,Arizona St.,11
+win,0.7,Nevada,7,Temple,11
+win,0.707,Wofford,7,St. John's (NY),11
+win,0.571,Cincinnati,7,Saint Mary's (CA),11
+win,0.735,Louisville,7,St. John's (NY),11
+win,0.758,Louisville,7,Temple,11
+win,0.577,Louisville,7,Ohio St.,11
+win,0.828,Cincinnati,7,Belmont,11
+win,0.674,Nevada,7,St. John's (NY),11
+win,0.603,Nevada,7,New Mexico St.,12
+win,0.653,Louisville,7,Murray St.,12
+win,0.641,Cincinnati,7,Oregon,12
+win,0.686,Cincinnati,7,Murray St.,12
+win,0.62,Wofford,7,Murray St.,12
+win,0.639,Wofford,7,New Mexico St.,12
+win,0.571,Wofford,7,Oregon,12
+win,0.524,Wofford,7,Liberty,12
+win,0.583,Nevada,7,Murray St.,12
+win,0.533,Nevada,7,Oregon,12
+win,0.703,Cincinnati,7,New Mexico St.,12
+win,0.596,Cincinnati,7,Liberty,12
+loss,0.514,Nevada,7,Liberty,12
+win,0.559,Louisville,7,Liberty,12
+win,0.671,Louisville,7,New Mexico St.,12
+win,0.605,Louisville,7,Oregon,12
+win,0.713,Nevada,7,Saint Louis,13
+win,0.724,Nevada,7,UC Irvine,13
+win,0.743,Wofford,7,Saint Louis,13
+win,0.779,Louisville,7,UC Irvine,13
+win,0.644,Wofford,7,Vermont,13
+win,0.754,Wofford,7,UC Irvine,13
+win,0.608,Nevada,7,Vermont,13
+win,0.773,Louisville,7,Northeastern,13
+win,0.708,Cincinnati,7,Vermont,13
+win,0.769,Louisville,7,Saint Louis,13
+win,0.795,Cincinnati,7,Saint Louis,13
+win,0.804,Cincinnati,7,UC Irvine,13
+win,0.798,Cincinnati,7,Northeastern,13
+win,0.717,Nevada,7,Northeastern,13
+win,0.676,Louisville,7,Vermont,13
+win,0.747,Wofford,7,Northeastern,13
+win,0.807,Louisville,7,Yale,14
+win,0.729,Louisville,7,Northern Ky.,14
+win,0.818,Louisville,7,Georgia St.,14
+win,0.728,Louisville,7,Old Dominion,14
+win,0.7,Wofford,7,Northern Ky.,14
+win,0.699,Wofford,7,Old Dominion,14
+win,0.796,Wofford,7,Georgia St.,14
+win,0.77,Nevada,7,Georgia St.,14
+win,0.757,Cincinnati,7,Northern Ky.,14
+win,0.829,Cincinnati,7,Yale,14
+win,0.757,Cincinnati,7,Old Dominion,14
+win,0.666,Nevada,7,Old Dominion,14
+win,0.756,Nevada,7,Yale,14
+win,0.784,Wofford,7,Yale,14
+win,0.839,Cincinnati,7,Georgia St.,14
+win,0.667,Nevada,7,Northern Ky.,14
+win,0.894,Wofford,7,Bradley,15
+win,0.846,Cincinnati,7,Abilene Christian,15
+win,0.804,Wofford,7,Abilene Christian,15
+win,0.801,Cincinnati,7,Montana,15
+win,0.862,Cincinnati,7,Colgate,15
+win,0.776,Louisville,7,Montana,15
+win,0.825,Louisville,7,Abilene Christian,15
+win,0.879,Nevada,7,Bradley,15
+win,0.919,Cincinnati,7,Bradley,15
+win,0.907,Louisville,7,Bradley,15
+win,0.843,Louisville,7,Colgate,15
+win,0.824,Wofford,7,Colgate,15
+win,0.8,Nevada,7,Colgate,15
+win,0.721,Nevada,7,Montana,15
+win,0.779,Nevada,7,Abilene Christian,15
+win,0.751,Wofford,7,Montana,15
+win,0.902,Nevada,7,N.C. Central,16
+win,0.869,Nevada,7,North Dakota St.,16
+win,0.915,Wofford,7,N.C. Central,16
+win,0.928,Nevada,7,Iona,16
+win,0.885,Wofford,7,North Dakota St.,16
+win,0.923,Louisville,7,Fairleigh Dickinson,16
+win,0.747,Louisville,7,Gardner-Webb,16
+win,0.719,Wofford,7,Gardner-Webb,16
+win,0.947,Wofford,7,Prairie View,16
+win,0.912,Wofford,7,Fairleigh Dickinson,16
+win,0.938,Wofford,7,Iona,16
+win,0.953,Cincinnati,7,Iona,16
+win,0.939,Nevada,7,Prairie View,16
+win,0.899,Nevada,7,Fairleigh Dickinson,16
+win,0.945,Louisville,7,Iona,16
+win,0.774,Cincinnati,7,Gardner-Webb,16
+win,0.912,Cincinnati,7,North Dakota St.,16
+win,0.935,Cincinnati,7,N.C. Central,16
+win,0.933,Cincinnati,7,Fairleigh Dickinson,16
+win,0.96,Cincinnati,7,Prairie View,16
+win,0.925,Louisville,7,N.C. Central,16
+win,0.687,Nevada,7,Gardner-Webb,16
+win,0.899,Louisville,7,North Dakota St.,16
+win,0.954,Louisville,7,Prairie View,16
+loss,0.729,Syracuse,8,Virginia,1
+loss,0.8,Utah St.,8,Virginia,1
+loss,0.621,VCU,8,Duke,1
+loss,0.527,Syracuse,8,Gonzaga,1
+loss,0.535,Utah St.,8,North Carolina,1
+win,0.518,Ole Miss,8,North Carolina,1
+loss,0.617,Utah St.,8,Duke,1
+loss,0.573,Ole Miss,8,Gonzaga,1
+loss,0.52,Syracuse,8,Duke,1
+loss,0.539,VCU,8,North Carolina,1
+loss,0.628,VCU,8,Gonzaga,1
+win,0.564,Syracuse,8,North Carolina,1
+loss,0.803,VCU,8,Virginia,1
+loss,0.764,Ole Miss,8,Virginia,1
+loss,0.624,Utah St.,8,Gonzaga,1
+loss,0.566,Ole Miss,8,Duke,1
+loss,0.679,VCU,8,Michigan St.,2
+loss,0.649,VCU,8,Kentucky,2
+loss,0.716,VCU,8,Michigan,2
+loss,0.713,Utah St.,8,Michigan,2
+loss,0.625,Syracuse,8,Michigan,2
+loss,0.628,Ole Miss,8,Michigan St.,2
+loss,0.595,Ole Miss,8,Kentucky,2
+loss,0.583,Syracuse,8,Michigan St.,2
+loss,0.669,VCU,8,Tennessee,2
+loss,0.645,Utah St.,8,Kentucky,2
+loss,0.665,Utah St.,8,Tennessee,2
+loss,0.571,Syracuse,8,Tennessee,2
+loss,0.676,Utah St.,8,Michigan St.,2
+loss,0.668,Ole Miss,8,Michigan,2
+loss,0.55,Syracuse,8,Kentucky,2
+loss,0.617,Ole Miss,8,Tennessee,2
+loss,0.639,Ole Miss,8,Purdue,3
+loss,0.609,Ole Miss,8,Texas Tech,3
+loss,0.686,Utah St.,8,Purdue,3
+loss,0.563,Syracuse,8,Texas Tech,3
+loss,0.658,Utah St.,8,Texas Tech,3
+loss,0.653,Utah St.,8,Houston,3
+loss,0.604,Ole Miss,8,Houston,3
+loss,0.69,VCU,8,Purdue,3
+loss,0.595,Syracuse,8,Purdue,3
+loss,0.558,Syracuse,8,Houston,3
+loss,0.657,VCU,8,Houston,3
+win,0.532,Ole Miss,8,LSU,3
+loss,0.524,VCU,8,LSU,3
+win,0.579,Syracuse,8,LSU,3
+loss,0.661,VCU,8,Texas Tech,3
+loss,0.521,Utah St.,8,LSU,3
+loss,0.556,Utah St.,8,Kansas,4
+loss,0.607,VCU,8,Kansas St.,4
+loss,0.671,Ole Miss,8,Virginia Tech,4
+loss,0.517,VCU,8,Florida St.,4
+win,0.586,Syracuse,8,Florida St.,4
+loss,0.552,Ole Miss,8,Kansas St.,4
+loss,0.503,Ole Miss,8,Kansas,4
+loss,0.505,Syracuse,8,Kansas St.,4
+loss,0.716,Utah St.,8,Virginia Tech,4
+loss,0.604,Utah St.,8,Kansas St.,4
+loss,0.514,Utah St.,8,Florida St.,4
+win,0.539,Ole Miss,8,Florida St.,4
+loss,0.628,Syracuse,8,Virginia Tech,4
+loss,0.56,VCU,8,Kansas,4
+win,0.544,Syracuse,8,Kansas,4
+loss,0.719,VCU,8,Virginia Tech,4
+loss,0.613,Syracuse,8,Wisconsin,5
+win,0.515,Syracuse,8,Auburn,5
+loss,0.584,Utah St.,8,Auburn,5
+win,0.592,Syracuse,8,Marquette,5
+loss,0.702,Utah St.,8,Wisconsin,5
+loss,0.559,VCU,8,Mississippi St.,5
+loss,0.656,Ole Miss,8,Wisconsin,5
+loss,0.511,VCU,8,Marquette,5
+loss,0.502,Ole Miss,8,Mississippi St.,5
+loss,0.532,Ole Miss,8,Auburn,5
+loss,0.705,VCU,8,Wisconsin,5
+win,0.546,Ole Miss,8,Marquette,5
+loss,0.555,Utah St.,8,Mississippi St.,5
+loss,0.588,VCU,8,Auburn,5
+win,0.544,Syracuse,8,Mississippi St.,5
+loss,0.507,Utah St.,8,Marquette,5
+loss,0.647,VCU,8,Villanova,6
+loss,0.578,Ole Miss,8,Maryland,6
+loss,0.629,Utah St.,8,Maryland,6
+loss,0.643,Utah St.,8,Villanova,6
+loss,0.635,Utah St.,8,Iowa St.,6
+loss,0.532,Syracuse,8,Maryland,6
+loss,0.632,VCU,8,Maryland,6
+loss,0.638,VCU,8,Iowa St.,6
+win,0.505,Utah St.,8,Buffalo,6
+loss,0.584,Ole Miss,8,Iowa St.,6
+win,0.558,Ole Miss,8,Buffalo,6
+loss,0.538,Syracuse,8,Iowa St.,6
+loss,0.547,Syracuse,8,Villanova,6
+win,0.501,VCU,8,Buffalo,6
+loss,0.593,Ole Miss,8,Villanova,6
+win,0.603,Syracuse,8,Buffalo,6
+loss,0.531,Ole Miss,8,Nevada,7
+loss,0.616,Utah St.,8,Wofford,7
+loss,0.647,Utah St.,8,Louisville,7
+loss,0.679,Utah St.,8,Cincinnati,7
+loss,0.565,Ole Miss,8,Wofford,7
+loss,0.586,Syracuse,8,Cincinnati,7
+win,0.516,Syracuse,8,Nevada,7
+loss,0.552,Syracuse,8,Louisville,7
+loss,0.587,VCU,8,Nevada,7
+loss,0.62,VCU,8,Wofford,7
+loss,0.631,Ole Miss,8,Cincinnati,7
+loss,0.583,Utah St.,8,Nevada,7
+loss,0.682,VCU,8,Cincinnati,7
+loss,0.519,Syracuse,8,Wofford,7
+loss,0.597,Ole Miss,8,Louisville,7
+loss,0.651,VCU,8,Louisville,7
+loss,0.525,Ole Miss,8,Syracuse,8
+loss,0.578,Utah St.,8,Syracuse,8
+win,0.566,Ole Miss,8,Utah St.,8
+loss,0.582,VCU,8,Syracuse,8
+win,0.51,VCU,8,Utah St.,8
+loss,0.539,VCU,8,Ole Miss,8
+loss,0.535,Utah St.,8,Ole Miss,8
+win,0.564,Syracuse,8,Ole Miss,8
+win,0.517,Utah St.,8,VCU,8
+win,0.57,Ole Miss,8,VCU,8
+win,0.611,Syracuse,8,Utah St.,8
+win,0.615,Syracuse,8,VCU,8
+loss,0.53,Ole Miss,8,UCF,9
+win,0.531,Ole Miss,8,Oklahoma,9
+loss,0.587,VCU,8,UCF,9
+loss,0.55,VCU,8,Washington,9
+loss,0.557,VCU,8,Baylor,9
+win,0.507,Ole Miss,8,Washington,9
+win,0.546,Syracuse,8,Baylor,9
+win,0.516,Syracuse,8,UCF,9
+loss,0.583,Utah St.,8,UCF,9
+loss,0.553,Utah St.,8,Baylor,9
+loss,0.5,Ole Miss,8,Baylor,9
+loss,0.522,Utah St.,8,Oklahoma,9
+win,0.553,Syracuse,8,Washington,9
+loss,0.546,Utah St.,8,Washington,9
+loss,0.526,VCU,8,Oklahoma,9
+win,0.577,Syracuse,8,Oklahoma,9
+win,0.565,Syracuse,8,Iowa,10
+win,0.584,Utah St.,8,Seton Hall,10
+loss,0.538,VCU,8,Iowa,10
+win,0.677,Syracuse,8,Seton Hall,10
+win,0.635,Ole Miss,8,Seton Hall,10
+win,0.606,Ole Miss,8,Minnesota,10
+loss,0.661,VCU,8,Florida,10
+loss,0.534,Utah St.,8,Iowa,10
+win,0.555,Utah St.,8,Minnesota,10
+win,0.519,Ole Miss,8,Iowa,10
+win,0.65,Syracuse,8,Minnesota,10
+win,0.58,VCU,8,Seton Hall,10
+loss,0.657,Utah St.,8,Florida,10
+win,0.551,VCU,8,Minnesota,10
+loss,0.608,Ole Miss,8,Florida,10
+loss,0.562,Syracuse,8,Florida,10
+win,0.573,VCU,8,St. John's (NY),11
+win,0.68,Syracuse,8,Arizona St.,11
+win,0.667,VCU,8,Belmont,11
+win,0.584,VCU,8,Arizona St.,11
+loss,0.644,VCU,8,Saint Mary's (CA),11
+loss,0.6,Utah St.,8,Ohio St.,11
+win,0.67,Syracuse,8,St. John's (NY),11
+win,0.696,Syracuse,8,Temple,11
+win,0.752,Syracuse,8,Belmont,11
+loss,0.603,VCU,8,Ohio St.,11
+win,0.655,Ole Miss,8,Temple,11
+win,0.606,Utah St.,8,Temple,11
+win,0.587,Utah St.,8,Arizona St.,11
+loss,0.59,Ole Miss,8,Saint Mary's (CA),11
+loss,0.548,Ole Miss,8,Ohio St.,11
+win,0.602,VCU,8,Temple,11
+loss,0.544,Syracuse,8,Saint Mary's (CA),11
+loss,0.501,Syracuse,8,Ohio St.,11
+win,0.715,Ole Miss,8,Belmont,11
+win,0.67,Utah St.,8,Belmont,11
+win,0.638,Ole Miss,8,Arizona St.,11
+win,0.628,Ole Miss,8,St. John's (NY),11
+win,0.577,Utah St.,8,St. John's (NY),11
+loss,0.64,Utah St.,8,Saint Mary's (CA),11
+win,0.579,Syracuse,8,Murray St.,12
+loss,0.504,VCU,8,New Mexico St.,12
+win,0.553,Ole Miss,8,New Mexico St.,12
+win,0.598,Syracuse,8,New Mexico St.,12
+loss,0.575,VCU,8,Oregon,12
+loss,0.571,Utah St.,8,Oregon,12
+loss,0.519,Syracuse,8,Liberty,12
+loss,0.566,Ole Miss,8,Liberty,12
+win,0.528,Syracuse,8,Oregon,12
+loss,0.518,Ole Miss,8,Oregon,12
+loss,0.5,Utah St.,8,New Mexico St.,12
+loss,0.521,Utah St.,8,Murray St.,12
+loss,0.617,Utah St.,8,Liberty,12
+win,0.533,Ole Miss,8,Murray St.,12
+loss,0.524,VCU,8,Murray St.,12
+loss,0.62,VCU,8,Liberty,12
+win,0.682,Ole Miss,8,UC Irvine,13
+win,0.622,VCU,8,Northeastern,13
+win,0.669,Ole Miss,8,Saint Louis,13
+win,0.63,VCU,8,UC Irvine,13
+win,0.634,Utah St.,8,UC Irvine,13
+win,0.558,Ole Miss,8,Vermont,13
+win,0.604,Syracuse,8,Vermont,13
+win,0.713,Syracuse,8,Northeastern,13
+win,0.674,Ole Miss,8,Northeastern,13
+win,0.505,Utah St.,8,Vermont,13
+win,0.621,Utah St.,8,Saint Louis,13
+win,0.625,Utah St.,8,Northeastern,13
+win,0.617,VCU,8,Saint Louis,13
+win,0.709,Syracuse,8,Saint Louis,13
+win,0.721,Syracuse,8,UC Irvine,13
+win,0.501,VCU,8,Vermont,13
+win,0.716,Ole Miss,8,Yale,14
+win,0.619,Ole Miss,8,Old Dominion,14
+win,0.565,VCU,8,Northern Ky.,14
+win,0.663,Syracuse,8,Northern Ky.,14
+win,0.671,Utah St.,8,Yale,14
+win,0.62,Ole Miss,8,Northern Ky.,14
+win,0.568,Utah St.,8,Northern Ky.,14
+win,0.567,Utah St.,8,Old Dominion,14
+win,0.564,VCU,8,Old Dominion,14
+win,0.688,Utah St.,8,Georgia St.,14
+win,0.753,Syracuse,8,Yale,14
+win,0.662,Syracuse,8,Old Dominion,14
+win,0.767,Syracuse,8,Georgia St.,14
+win,0.684,VCU,8,Georgia St.,14
+win,0.668,VCU,8,Yale,14
+win,0.731,Ole Miss,8,Georgia St.,14
+win,0.855,Ole Miss,8,Bradley,15
+win,0.698,Utah St.,8,Abilene Christian,15
+win,0.741,Ole Miss,8,Abilene Christian,15
+win,0.775,Syracuse,8,Abilene Christian,15
+win,0.626,VCU,8,Montana,15
+win,0.63,Utah St.,8,Montana,15
+win,0.678,Ole Miss,8,Montana,15
+win,0.717,Syracuse,8,Montana,15
+win,0.827,Utah St.,8,Bradley,15
+win,0.765,Ole Miss,8,Colgate,15
+win,0.877,Syracuse,8,Bradley,15
+win,0.695,VCU,8,Abilene Christian,15
+win,0.725,Utah St.,8,Colgate,15
+win,0.722,VCU,8,Colgate,15
+win,0.824,VCU,8,Bradley,15
+win,0.797,Syracuse,8,Colgate,15
+win,0.683,Syracuse,8,Gardner-Webb,16
+win,0.91,Utah St.,8,Prairie View,16
+win,0.882,Ole Miss,8,N.C. Central,16
+win,0.895,Utah St.,8,Iona,16
+win,0.9,Syracuse,8,N.C. Central,16
+win,0.591,Utah St.,8,Gardner-Webb,16
+win,0.855,Utah St.,8,Fairleigh Dickinson,16
+win,0.879,Ole Miss,8,Fairleigh Dickinson,16
+win,0.844,Ole Miss,8,North Dakota St.,16
+win,0.893,VCU,8,Iona,16
+win,0.856,VCU,8,N.C. Central,16
+win,0.853,VCU,8,Fairleigh Dickinson,16
+win,0.927,Syracuse,8,Iona,16
+win,0.641,Ole Miss,8,Gardner-Webb,16
+win,0.858,Utah St.,8,N.C. Central,16
+win,0.909,VCU,8,Prairie View,16
+win,0.813,Utah St.,8,North Dakota St.,16
+win,0.938,Syracuse,8,Prairie View,16
+win,0.587,VCU,8,Gardner-Webb,16
+win,0.913,Ole Miss,8,Iona,16
+win,0.898,Syracuse,8,Fairleigh Dickinson,16
+win,0.867,Syracuse,8,North Dakota St.,16
+win,0.811,VCU,8,North Dakota St.,16
+win,0.926,Ole Miss,8,Prairie View,16
+loss,0.75,Baylor,9,Virginia,1
+win,0.503,Oklahoma,9,North Carolina,1
+loss,0.755,Washington,9,Virginia,1
+loss,0.562,Washington,9,Gonzaga,1
+loss,0.554,Washington,9,Duke,1
+loss,0.724,UCF,9,Virginia,1
+loss,0.515,UCF,9,Duke,1
+win,0.569,UCF,9,North Carolina,1
+loss,0.522,UCF,9,Gonzaga,1
+win,0.537,Baylor,9,North Carolina,1
+win,0.53,Washington,9,North Carolina,1
+loss,0.588,Oklahoma,9,Gonzaga,1
+loss,0.58,Oklahoma,9,Duke,1
+loss,0.554,Baylor,9,Gonzaga,1
+loss,0.547,Baylor,9,Duke,1
+loss,0.774,Oklahoma,9,Virginia,1
+loss,0.68,Oklahoma,9,Michigan,2
+loss,0.62,UCF,9,Michigan,2
+loss,0.566,UCF,9,Tennessee,2
+loss,0.641,Oklahoma,9,Michigan St.,2
+loss,0.617,Washington,9,Michigan St.,2
+loss,0.657,Washington,9,Michigan,2
+loss,0.584,Washington,9,Kentucky,2
+loss,0.545,UCF,9,Kentucky,2
+loss,0.609,Baylor,9,Michigan St.,2
+loss,0.598,Baylor,9,Tennessee,2
+loss,0.609,Oklahoma,9,Kentucky,2
+loss,0.578,UCF,9,Michigan St.,2
+loss,0.65,Baylor,9,Michigan,2
+loss,0.63,Oklahoma,9,Tennessee,2
+loss,0.576,Baylor,9,Kentucky,2
+loss,0.605,Washington,9,Tennessee,2
+loss,0.592,Washington,9,Houston,3
+loss,0.623,Oklahoma,9,Texas Tech,3
+loss,0.621,Baylor,9,Purdue,3
+win,0.552,Baylor,9,LSU,3
+loss,0.558,UCF,9,Texas Tech,3
+loss,0.618,Oklahoma,9,Houston,3
+loss,0.59,UCF,9,Purdue,3
+win,0.518,Oklahoma,9,LSU,3
+loss,0.652,Oklahoma,9,Purdue,3
+win,0.544,Washington,9,LSU,3
+loss,0.597,Washington,9,Texas Tech,3
+loss,0.553,UCF,9,Houston,3
+loss,0.59,Baylor,9,Texas Tech,3
+win,0.584,UCF,9,LSU,3
+loss,0.585,Baylor,9,Houston,3
+loss,0.628,Washington,9,Purdue,3
+win,0.549,UCF,9,Kansas,4
+loss,0.623,UCF,9,Virginia Tech,4
+win,0.551,Washington,9,Florida St.,4
+loss,0.5,UCF,9,Kansas St.,4
+win,0.509,Washington,9,Kansas,4
+loss,0.566,Oklahoma,9,Kansas St.,4
+win,0.559,Baylor,9,Florida St.,4
+win,0.591,UCF,9,Florida St.,4
+loss,0.532,Baylor,9,Kansas St.,4
+loss,0.66,Washington,9,Virginia Tech,4
+win,0.525,Oklahoma,9,Florida St.,4
+loss,0.684,Oklahoma,9,Virginia Tech,4
+loss,0.653,Baylor,9,Virginia Tech,4
+loss,0.518,Oklahoma,9,Kansas,4
+loss,0.54,Washington,9,Kansas St.,4
+win,0.516,Baylor,9,Kansas,4
+win,0.51,Washington,9,Mississippi St.,5
+loss,0.608,UCF,9,Wisconsin,5
+loss,0.52,Washington,9,Auburn,5
+win,0.52,UCF,9,Auburn,5
+win,0.549,UCF,9,Mississippi St.,5
+win,0.597,UCF,9,Marquette,5
+loss,0.638,Baylor,9,Wisconsin,5
+win,0.532,Oklahoma,9,Marquette,5
+loss,0.669,Oklahoma,9,Wisconsin,5
+win,0.566,Baylor,9,Marquette,5
+win,0.517,Baylor,9,Mississippi St.,5
+win,0.558,Washington,9,Marquette,5
+loss,0.512,Baylor,9,Auburn,5
+loss,0.546,Oklahoma,9,Auburn,5
+loss,0.645,Washington,9,Wisconsin,5
+loss,0.517,Oklahoma,9,Mississippi St.,5
+win,0.608,UCF,9,Buffalo,6
+loss,0.582,Washington,9,Villanova,6
+loss,0.542,UCF,9,Villanova,6
+loss,0.592,Oklahoma,9,Maryland,6
+win,0.577,Baylor,9,Buffalo,6
+loss,0.533,UCF,9,Iowa St.,6
+loss,0.566,Washington,9,Maryland,6
+win,0.543,Oklahoma,9,Buffalo,6
+loss,0.526,UCF,9,Maryland,6
+loss,0.573,Washington,9,Iowa St.,6
+loss,0.598,Oklahoma,9,Iowa St.,6
+loss,0.565,Baylor,9,Iowa St.,6
+win,0.57,Washington,9,Buffalo,6
+loss,0.574,Baylor,9,Villanova,6
+loss,0.558,Baylor,9,Maryland,6
+loss,0.607,Oklahoma,9,Villanova,6
+loss,0.611,Oklahoma,9,Louisville,7
+loss,0.579,Oklahoma,9,Wofford,7
+loss,0.581,UCF,9,Cincinnati,7
+loss,0.619,Washington,9,Cincinnati,7
+loss,0.545,Oklahoma,9,Nevada,7
+loss,0.553,Washington,9,Wofford,7
+loss,0.513,UCF,9,Wofford,7
+loss,0.644,Oklahoma,9,Cincinnati,7
+win,0.521,UCF,9,Nevada,7
+loss,0.547,UCF,9,Louisville,7
+loss,0.546,Baylor,9,Wofford,7
+loss,0.586,Washington,9,Louisville,7
+loss,0.519,Washington,9,Nevada,7
+loss,0.612,Baylor,9,Cincinnati,7
+loss,0.578,Baylor,9,Louisville,7
+loss,0.511,Baylor,9,Nevada,7
+win,0.526,UCF,9,Syracuse,8
+win,0.616,UCF,9,Utah St.,8
+win,0.581,Washington,9,VCU,8
+win,0.569,UCF,9,Ole Miss,8
+win,0.578,Washington,9,Utah St.,8
+win,0.552,Oklahoma,9,Utah St.,8
+win,0.62,UCF,9,VCU,8
+win,0.537,Baylor,9,Ole Miss,8
+win,0.589,Baylor,9,VCU,8
+win,0.503,Oklahoma,9,Ole Miss,8
+win,0.585,Baylor,9,Utah St.,8
+loss,0.513,Washington,9,Syracuse,8
+win,0.555,Oklahoma,9,VCU,8
+win,0.529,Washington,9,Ole Miss,8
+loss,0.54,Oklahoma,9,Syracuse,8
+loss,0.506,Baylor,9,Syracuse,8
+win,0.526,Baylor,9,Washington,9
+win,0.543,Washington,9,Oklahoma,9
+loss,0.518,Washington,9,UCF,9
+loss,0.508,Oklahoma,9,Washington,9
+loss,0.545,Oklahoma,9,UCF,9
+win,0.582,UCF,9,Oklahoma,9
+loss,0.515,Oklahoma,9,Baylor,9
+win,0.512,Washington,9,Baylor,9
+win,0.55,Baylor,9,Oklahoma,9
+win,0.558,UCF,9,Washington,9
+loss,0.511,Baylor,9,UCF,9
+win,0.551,UCF,9,Baylor,9
+win,0.538,Baylor,9,Iowa,10
+win,0.655,UCF,9,Minnesota,10
+win,0.625,Baylor,9,Minnesota,10
+win,0.621,Oklahoma,9,Seton Hall,10
+win,0.646,Washington,9,Seton Hall,10
+loss,0.557,UCF,9,Florida,10
+loss,0.622,Oklahoma,9,Florida,10
+win,0.681,UCF,9,Seton Hall,10
+win,0.593,Oklahoma,9,Minnesota,10
+win,0.531,Washington,9,Iowa,10
+loss,0.596,Washington,9,Florida,10
+win,0.618,Washington,9,Minnesota,10
+win,0.653,Baylor,9,Seton Hall,10
+win,0.57,UCF,9,Iowa,10
+win,0.504,Oklahoma,9,Iowa,10
+loss,0.589,Baylor,9,Florida,10
+win,0.701,UCF,9,Temple,11
+win,0.703,Oklahoma,9,Belmont,11
+win,0.649,Washington,9,Arizona St.,11
+win,0.642,Oklahoma,9,Temple,11
+win,0.673,Baylor,9,Temple,11
+win,0.624,Oklahoma,9,Arizona St.,11
+loss,0.539,UCF,9,Saint Mary's (CA),11
+loss,0.604,Oklahoma,9,Saint Mary's (CA),11
+win,0.614,Oklahoma,9,St. John's (NY),11
+win,0.725,Washington,9,Belmont,11
+win,0.731,Baylor,9,Belmont,11
+win,0.646,Baylor,9,St. John's (NY),11
+win,0.639,Washington,9,St. John's (NY),11
+loss,0.562,Oklahoma,9,Ohio St.,11
+win,0.684,UCF,9,Arizona St.,11
+loss,0.528,Baylor,9,Ohio St.,11
+win,0.656,Baylor,9,Arizona St.,11
+loss,0.571,Baylor,9,Saint Mary's (CA),11
+win,0.755,UCF,9,Belmont,11
+loss,0.536,Washington,9,Ohio St.,11
+win,0.504,UCF,9,Ohio St.,11
+win,0.675,UCF,9,St. John's (NY),11
+loss,0.579,Washington,9,Saint Mary's (CA),11
+win,0.666,Washington,9,Temple,11
+loss,0.514,UCF,9,Liberty,12
+loss,0.58,Oklahoma,9,Liberty,12
+win,0.538,Oklahoma,9,New Mexico St.,12
+loss,0.546,Baylor,9,Liberty,12
+win,0.572,Baylor,9,New Mexico St.,12
+win,0.501,Baylor,9,Oregon,12
+loss,0.554,Washington,9,Liberty,12
+loss,0.506,Washington,9,Oregon,12
+win,0.518,Oklahoma,9,Murray St.,12
+win,0.544,Washington,9,Murray St.,12
+win,0.603,UCF,9,New Mexico St.,12
+win,0.552,Baylor,9,Murray St.,12
+win,0.584,UCF,9,Murray St.,12
+loss,0.533,Oklahoma,9,Oregon,12
+win,0.534,UCF,9,Oregon,12
+win,0.564,Washington,9,New Mexico St.,12
+win,0.544,Oklahoma,9,Vermont,13
+win,0.698,Baylor,9,UC Irvine,13
+win,0.713,UCF,9,Saint Louis,13
+win,0.577,Baylor,9,Vermont,13
+win,0.684,Washington,9,Northeastern,13
+win,0.718,UCF,9,Northeastern,13
+win,0.725,UCF,9,UC Irvine,13
+win,0.661,Oklahoma,9,Northeastern,13
+win,0.656,Oklahoma,9,Saint Louis,13
+win,0.691,Baylor,9,Northeastern,13
+win,0.692,Washington,9,UC Irvine,13
+win,0.68,Washington,9,Saint Louis,13
+win,0.669,Oklahoma,9,UC Irvine,13
+win,0.686,Baylor,9,Saint Louis,13
+win,0.608,UCF,9,Vermont,13
+win,0.57,Washington,9,Vermont,13
+win,0.72,Oklahoma,9,Georgia St.,14
+win,0.667,UCF,9,Northern Ky.,14
+win,0.631,Washington,9,Northern Ky.,14
+win,0.726,Washington,9,Yale,14
+win,0.638,Baylor,9,Northern Ky.,14
+win,0.637,Baylor,9,Old Dominion,14
+win,0.77,UCF,9,Georgia St.,14
+win,0.605,Oklahoma,9,Old Dominion,14
+win,0.63,Washington,9,Old Dominion,14
+win,0.741,Washington,9,Georgia St.,14
+win,0.704,Oklahoma,9,Yale,14
+win,0.666,UCF,9,Old Dominion,14
+win,0.757,UCF,9,Yale,14
+win,0.606,Oklahoma,9,Northern Ky.,14
+win,0.732,Baylor,9,Yale,14
+win,0.746,Baylor,9,Georgia St.,14
+win,0.848,Oklahoma,9,Bradley,15
+win,0.665,Oklahoma,9,Montana,15
+win,0.694,Baylor,9,Montana,15
+win,0.756,Baylor,9,Abilene Christian,15
+win,0.688,Washington,9,Montana,15
+win,0.75,Washington,9,Abilene Christian,15
+win,0.801,UCF,9,Colgate,15
+win,0.864,Baylor,9,Bradley,15
+win,0.779,Baylor,9,Colgate,15
+win,0.774,Washington,9,Colgate,15
+win,0.779,UCF,9,Abilene Christian,15
+win,0.721,UCF,9,Montana,15
+win,0.73,Oklahoma,9,Abilene Christian,15
+win,0.755,Oklahoma,9,Colgate,15
+win,0.879,UCF,9,Bradley,15
+win,0.861,Washington,9,Bradley,15
+win,0.919,Baylor,9,Iona,16
+win,0.836,Oklahoma,9,North Dakota St.,16
+win,0.873,Oklahoma,9,Fairleigh Dickinson,16
+win,0.884,Washington,9,Fairleigh Dickinson,16
+win,0.93,Washington,9,Prairie View,16
+win,0.931,Baylor,9,Prairie View,16
+win,0.887,Baylor,9,Fairleigh Dickinson,16
+win,0.89,Baylor,9,N.C. Central,16
+win,0.917,Washington,9,Iona,16
+win,0.869,UCF,9,North Dakota St.,16
+win,0.902,UCF,9,N.C. Central,16
+win,0.887,Washington,9,N.C. Central,16
+win,0.939,UCF,9,Prairie View,16
+win,0.652,Washington,9,Gardner-Webb,16
+win,0.854,Baylor,9,North Dakota St.,16
+win,0.688,UCF,9,Gardner-Webb,16
+win,0.899,UCF,9,Fairleigh Dickinson,16
+win,0.928,UCF,9,Iona,16
+win,0.659,Baylor,9,Gardner-Webb,16
+win,0.85,Washington,9,North Dakota St.,16
+win,0.922,Oklahoma,9,Prairie View,16
+win,0.908,Oklahoma,9,Iona,16
+win,0.876,Oklahoma,9,N.C. Central,16
+win,0.628,Oklahoma,9,Gardner-Webb,16
+loss,0.765,Iowa,10,Virginia,1
+loss,0.845,Seton Hall,10,Virginia,1
+loss,0.688,Seton Hall,10,Duke,1
+loss,0.659,Minnesota,10,Duke,1
+loss,0.652,Florida,10,Virginia,1
+win,0.65,Florida,10,North Carolina,1
+win,0.57,Florida,10,Duke,1
+loss,0.827,Minnesota,10,Virginia,1
+loss,0.666,Minnesota,10,Gonzaga,1
+loss,0.694,Seton Hall,10,Gonzaga,1
+loss,0.58,Minnesota,10,North Carolina,1
+loss,0.575,Iowa,10,Gonzaga,1
+win,0.516,Iowa,10,North Carolina,1
+loss,0.568,Iowa,10,Duke,1
+win,0.563,Florida,10,Gonzaga,1
+loss,0.611,Seton Hall,10,North Carolina,1
+win,0.54,Florida,10,Kentucky,2
+loss,0.731,Seton Hall,10,Tennessee,2
+loss,0.74,Seton Hall,10,Michigan St.,2
+win,0.518,Florida,10,Tennessee,2
+loss,0.686,Minnesota,10,Kentucky,2
+loss,0.537,Florida,10,Michigan,2
+win,0.506,Florida,10,Michigan St.,2
+loss,0.597,Iowa,10,Kentucky,2
+loss,0.748,Minnesota,10,Michigan,2
+loss,0.629,Iowa,10,Michigan St.,2
+loss,0.713,Seton Hall,10,Kentucky,2
+loss,0.714,Minnesota,10,Michigan St.,2
+loss,0.704,Minnesota,10,Tennessee,2
+loss,0.772,Seton Hall,10,Michigan,2
+loss,0.669,Iowa,10,Michigan,2
+loss,0.618,Iowa,10,Tennessee,2
+loss,0.64,Iowa,10,Purdue,3
+win,0.663,Florida,10,LSU,3
+loss,0.697,Minnesota,10,Texas Tech,3
+loss,0.749,Seton Hall,10,Purdue,3
+loss,0.693,Minnesota,10,Houston,3
+loss,0.72,Seton Hall,10,Houston,3
+loss,0.724,Seton Hall,10,Texas Tech,3
+loss,0.506,Florida,10,Purdue,3
+loss,0.565,Minnesota,10,LSU,3
+win,0.531,Iowa,10,LSU,3
+loss,0.61,Iowa,10,Texas Tech,3
+loss,0.605,Iowa,10,Houston,3
+win,0.532,Florida,10,Houston,3
+loss,0.724,Minnesota,10,Purdue,3
+loss,0.597,Seton Hall,10,LSU,3
+win,0.526,Florida,10,Texas Tech,3
+loss,0.6,Minnesota,10,Kansas,4
+loss,0.59,Seton Hall,10,Florida St.,4
+loss,0.751,Minnesota,10,Virginia Tech,4
+loss,0.775,Seton Hall,10,Virginia Tech,4
+win,0.584,Florida,10,Kansas St.,4
+win,0.631,Florida,10,Kansas,4
+loss,0.646,Minnesota,10,Kansas St.,4
+win,0.538,Iowa,10,Florida St.,4
+loss,0.541,Florida,10,Virginia Tech,4
+loss,0.553,Iowa,10,Kansas St.,4
+loss,0.672,Iowa,10,Virginia Tech,4
+loss,0.505,Iowa,10,Kansas,4
+loss,0.631,Seton Hall,10,Kansas,4
+loss,0.558,Minnesota,10,Florida St.,4
+win,0.67,Florida,10,Florida St.,4
+loss,0.675,Seton Hall,10,Kansas St.,4
+win,0.545,Iowa,10,Marquette,5
+win,0.631,Florida,10,Mississippi St.,5
+loss,0.584,Seton Hall,10,Marquette,5
+loss,0.738,Minnesota,10,Wisconsin,5
+loss,0.524,Florida,10,Wisconsin,5
+win,0.676,Florida,10,Marquette,5
+win,0.603,Florida,10,Auburn,5
+loss,0.627,Minnesota,10,Auburn,5
+loss,0.599,Minnesota,10,Mississippi St.,5
+loss,0.657,Iowa,10,Wisconsin,5
+loss,0.552,Minnesota,10,Marquette,5
+loss,0.657,Seton Hall,10,Auburn,5
+loss,0.63,Seton Hall,10,Mississippi St.,5
+loss,0.504,Iowa,10,Mississippi St.,5
+loss,0.763,Seton Hall,10,Wisconsin,5
+loss,0.534,Iowa,10,Auburn,5
+loss,0.698,Seton Hall,10,Maryland,6
+loss,0.67,Minnesota,10,Maryland,6
+loss,0.684,Minnesota,10,Villanova,6
+loss,0.676,Minnesota,10,Iowa St.,6
+win,0.552,Florida,10,Iowa St.,6
+win,0.556,Iowa,10,Buffalo,6
+loss,0.711,Seton Hall,10,Villanova,6
+loss,0.703,Seton Hall,10,Iowa St.,6
+loss,0.579,Iowa,10,Maryland,6
+loss,0.586,Iowa,10,Iowa St.,6
+win,0.542,Florida,10,Villanova,6
+win,0.558,Florida,10,Maryland,6
+win,0.686,Florida,10,Buffalo,6
+loss,0.595,Iowa,10,Villanova,6
+loss,0.54,Minnesota,10,Buffalo,6
+loss,0.572,Seton Hall,10,Buffalo,6
+loss,0.687,Seton Hall,10,Wofford,7
+win,0.605,Florida,10,Nevada,7
+loss,0.532,Iowa,10,Nevada,7
+loss,0.656,Seton Hall,10,Nevada,7
+loss,0.687,Minnesota,10,Louisville,7
+win,0.571,Florida,10,Wofford,7
+loss,0.599,Iowa,10,Louisville,7
+loss,0.715,Seton Hall,10,Louisville,7
+loss,0.742,Seton Hall,10,Cincinnati,7
+loss,0.658,Minnesota,10,Wofford,7
+loss,0.626,Minnesota,10,Nevada,7
+loss,0.567,Iowa,10,Wofford,7
+loss,0.632,Iowa,10,Cincinnati,7
+win,0.538,Florida,10,Louisville,7
+win,0.503,Florida,10,Cincinnati,7
+loss,0.717,Minnesota,10,Cincinnati,7
+loss,0.532,Minnesota,10,Utah St.,8
+loss,0.527,Iowa,10,Syracuse,8
+win,0.693,Florida,10,Utah St.,8
+loss,0.58,Minnesota,10,Ole Miss,8
+loss,0.621,Minnesota,10,Syracuse,8
+loss,0.611,Seton Hall,10,Ole Miss,8
+win,0.696,Florida,10,VCU,8
+win,0.61,Florida,10,Syracuse,8
+win,0.565,Iowa,10,Utah St.,8
+win,0.568,Iowa,10,VCU,8
+loss,0.56,Seton Hall,10,VCU,8
+win,0.516,Iowa,10,Ole Miss,8
+loss,0.528,Minnesota,10,VCU,8
+win,0.65,Florida,10,Ole Miss,8
+loss,0.651,Seton Hall,10,Syracuse,8
+loss,0.564,Seton Hall,10,Utah St.,8
+win,0.633,Florida,10,Baylor,9
+loss,0.532,Iowa,10,UCF,9
+win,0.605,Florida,10,UCF,9
+loss,0.628,Seton Hall,10,Baylor,9
+loss,0.626,Minnesota,10,UCF,9
+loss,0.622,Seton Hall,10,Washington,9
+loss,0.598,Seton Hall,10,Oklahoma,9
+loss,0.567,Minnesota,10,Oklahoma,9
+loss,0.597,Minnesota,10,Baylor,9
+win,0.662,Florida,10,Oklahoma,9
+win,0.505,Iowa,10,Washington,9
+win,0.64,Florida,10,Washington,9
+loss,0.656,Seton Hall,10,UCF,9
+win,0.529,Iowa,10,Oklahoma,9
+loss,0.502,Iowa,10,Baylor,9
+loss,0.59,Minnesota,10,Washington,9
+loss,0.697,Minnesota,10,Florida,10
+win,0.633,Iowa,10,Seton Hall,10
+loss,0.579,Minnesota,10,Iowa,10
+win,0.651,Florida,10,Iowa,10
+loss,0.523,Seton Hall,10,Minnesota,10
+loss,0.609,Iowa,10,Florida,10
+loss,0.61,Seton Hall,10,Iowa,10
+win,0.54,Minnesota,10,Seton Hall,10
+win,0.727,Florida,10,Minnesota,10
+loss,0.723,Seton Hall,10,Florida,10
+win,0.75,Florida,10,Seton Hall,10
+win,0.605,Iowa,10,Minnesota,10
+win,0.588,Florida,10,Ohio St.,11
+loss,0.592,Iowa,10,Saint Mary's (CA),11
+win,0.511,Seton Hall,10,Arizona St.,11
+win,0.654,Iowa,10,Temple,11
+win,0.626,Iowa,10,St. John's (NY),11
+win,0.598,Seton Hall,10,Belmont,11
+win,0.753,Florida,10,Arizona St.,11
+win,0.767,Florida,10,Temple,11
+loss,0.681,Minnesota,10,Saint Mary's (CA),11
+win,0.629,Minnesota,10,Belmont,11
+win,0.745,Florida,10,St. John's (NY),11
+loss,0.671,Seton Hall,10,Ohio St.,11
+loss,0.642,Minnesota,10,Ohio St.,11
+win,0.546,Florida,10,Saint Mary's (CA),11
+win,0.813,Florida,10,Belmont,11
+win,0.714,Iowa,10,Belmont,11
+loss,0.549,Iowa,10,Ohio St.,11
+win,0.636,Iowa,10,Arizona St.,11
+win,0.532,Minnesota,10,St. John's (NY),11
+loss,0.5,Seton Hall,10,St. John's (NY),11
+win,0.562,Minnesota,10,Temple,11
+loss,0.708,Seton Hall,10,Saint Mary's (CA),11
+win,0.543,Minnesota,10,Arizona St.,11
+win,0.53,Seton Hall,10,Temple,11
+loss,0.614,Minnesota,10,Oregon,12
+loss,0.567,Iowa,10,Liberty,12
+win,0.531,Iowa,10,Murray St.,12
+win,0.681,Florida,10,New Mexico St.,12
+win,0.551,Iowa,10,New Mexico St.,12
+loss,0.658,Minnesota,10,Liberty,12
+win,0.663,Florida,10,Murray St.,12
+win,0.617,Florida,10,Oregon,12
+loss,0.645,Seton Hall,10,Oregon,12
+win,0.571,Florida,10,Liberty,12
+loss,0.565,Minnesota,10,Murray St.,12
+loss,0.545,Minnesota,10,New Mexico St.,12
+loss,0.597,Seton Hall,10,Murray St.,12
+loss,0.687,Seton Hall,10,Liberty,12
+loss,0.577,Seton Hall,10,New Mexico St.,12
+loss,0.52,Iowa,10,Oregon,12
+win,0.672,Iowa,10,Northeastern,13
+win,0.591,Minnesota,10,UC Irvine,13
+win,0.686,Florida,10,Vermont,13
+loss,0.54,Minnesota,10,Vermont,13
+win,0.787,Florida,10,UC Irvine,13
+win,0.556,Iowa,10,Vermont,13
+win,0.781,Florida,10,Northeastern,13
+win,0.582,Minnesota,10,Northeastern,13
+win,0.545,Seton Hall,10,Saint Louis,13
+win,0.68,Iowa,10,UC Irvine,13
+win,0.559,Seton Hall,10,UC Irvine,13
+loss,0.572,Seton Hall,10,Vermont,13
+win,0.55,Seton Hall,10,Northeastern,13
+win,0.778,Florida,10,Saint Louis,13
+win,0.577,Minnesota,10,Saint Louis,13
+win,0.668,Iowa,10,Saint Louis,13
+win,0.814,Florida,10,Yale,14
+win,0.738,Florida,10,Northern Ky.,14
+loss,0.509,Seton Hall,10,Northern Ky.,14
+win,0.617,Seton Hall,10,Georgia St.,14
+win,0.524,Minnesota,10,Northern Ky.,14
+loss,0.51,Seton Hall,10,Old Dominion,14
+win,0.715,Iowa,10,Yale,14
+win,0.618,Iowa,10,Northern Ky.,14
+win,0.6,Seton Hall,10,Yale,14
+win,0.617,Iowa,10,Old Dominion,14
+win,0.737,Florida,10,Old Dominion,14
+win,0.63,Minnesota,10,Yale,14
+win,0.523,Minnesota,10,Old Dominion,14
+win,0.648,Minnesota,10,Georgia St.,14
+win,0.73,Iowa,10,Georgia St.,14
+win,0.825,Florida,10,Georgia St.,14
+win,0.799,Minnesota,10,Bradley,15
+win,0.676,Iowa,10,Montana,15
+win,0.85,Florida,10,Colgate,15
+win,0.629,Seton Hall,10,Abilene Christian,15
+win,0.764,Iowa,10,Colgate,15
+win,0.854,Iowa,10,Bradley,15
+win,0.784,Florida,10,Montana,15
+win,0.555,Seton Hall,10,Montana,15
+win,0.688,Minnesota,10,Colgate,15
+win,0.74,Iowa,10,Abilene Christian,15
+win,0.832,Florida,10,Abilene Christian,15
+win,0.777,Seton Hall,10,Bradley,15
+win,0.659,Seton Hall,10,Colgate,15
+win,0.911,Florida,10,Bradley,15
+win,0.659,Minnesota,10,Abilene Christian,15
+win,0.587,Minnesota,10,Montana,15
+win,0.756,Florida,10,Gardner-Webb,16
+win,0.948,Florida,10,Iona,16
+win,0.862,Seton Hall,10,Iona,16
+win,0.926,Iowa,10,Prairie View,16
+win,0.515,Seton Hall,10,Gardner-Webb,16
+win,0.956,Florida,10,Prairie View,16
+win,0.547,Minnesota,10,Gardner-Webb,16
+win,0.895,Minnesota,10,Prairie View,16
+win,0.913,Iowa,10,Iona,16
+win,0.843,Iowa,10,North Dakota St.,16
+win,0.926,Florida,10,Fairleigh Dickinson,16
+win,0.878,Iowa,10,Fairleigh Dickinson,16
+win,0.835,Minnesota,10,N.C. Central,16
+win,0.816,Seton Hall,10,N.C. Central,16
+win,0.903,Florida,10,North Dakota St.,16
+win,0.64,Iowa,10,Gardner-Webb,16
+win,0.876,Minnesota,10,Iona,16
+win,0.784,Minnesota,10,North Dakota St.,16
+win,0.831,Minnesota,10,Fairleigh Dickinson,16
+win,0.762,Seton Hall,10,North Dakota St.,16
+win,0.812,Seton Hall,10,Fairleigh Dickinson,16
+win,0.928,Florida,10,N.C. Central,16
+win,0.881,Iowa,10,N.C. Central,16
+win,0.882,Seton Hall,10,Prairie View,16
+loss,0.603,St. John's (NY),11,North Carolina,1
+loss,0.669,Saint Mary's (CA),11,Virginia,1
+loss,0.708,Temple,11,Duke,1
+loss,0.614,Arizona St.,11,North Carolina,1
+loss,0.697,Arizona St.,11,Gonzaga,1
+win,0.588,Ohio St.,11,North Carolina,1
+win,0.544,Saint Mary's (CA),11,Gonzaga,1
+loss,0.89,Belmont,11,Virginia,1
+loss,0.766,Belmont,11,Duke,1
+win,0.504,Ohio St.,11,Duke,1
+loss,0.691,Arizona St.,11,Duke,1
+loss,0.847,Arizona St.,11,Virginia,1
+loss,0.84,St. John's (NY),11,Virginia,1
+loss,0.68,St. John's (NY),11,Duke,1
+loss,0.709,Ohio St.,11,Virginia,1
+win,0.551,Saint Mary's (CA),11,Duke,1
+loss,0.634,Temple,11,North Carolina,1
+loss,0.714,Temple,11,Gonzaga,1
+win,0.632,Saint Mary's (CA),11,North Carolina,1
+loss,0.858,Temple,11,Virginia,1
+loss,0.771,Belmont,11,Gonzaga,1
+loss,0.7,Belmont,11,North Carolina,1
+loss,0.503,Ohio St.,11,Gonzaga,1
+loss,0.686,St. John's (NY),11,Gonzaga,1
+loss,0.602,Ohio St.,11,Michigan,2
+loss,0.716,Arizona St.,11,Kentucky,2
+loss,0.526,Ohio St.,11,Kentucky,2
+loss,0.56,Ohio St.,11,Michigan St.,2
+loss,0.834,Belmont,11,Michigan,2
+loss,0.759,Temple,11,Michigan St.,2
+loss,0.733,Temple,11,Kentucky,2
+loss,0.513,Saint Mary's (CA),11,Michigan St.,2
+loss,0.743,Arizona St.,11,Michigan St.,2
+loss,0.501,Saint Mary's (CA),11,Tennessee,2
+loss,0.75,Temple,11,Tennessee,2
+loss,0.801,Belmont,11,Tennessee,2
+loss,0.556,Saint Mary's (CA),11,Michigan,2
+loss,0.809,Belmont,11,Michigan St.,2
+loss,0.548,Ohio St.,11,Tennessee,2
+loss,0.789,Temple,11,Michigan,2
+win,0.521,Saint Mary's (CA),11,Kentucky,2
+loss,0.706,St. John's (NY),11,Kentucky,2
+loss,0.766,St. John's (NY),11,Michigan,2
+loss,0.724,St. John's (NY),11,Tennessee,2
+loss,0.787,Belmont,11,Kentucky,2
+loss,0.733,Arizona St.,11,Tennessee,2
+loss,0.774,Arizona St.,11,Michigan,2
+loss,0.733,St. John's (NY),11,Michigan St.,2
+loss,0.588,St. John's (NY),11,LSU,3
+win,0.602,Ohio St.,11,LSU,3
+loss,0.525,Saint Mary's (CA),11,Purdue,3
+loss,0.743,Temple,11,Texas Tech,3
+loss,0.816,Belmont,11,Purdue,3
+win,0.646,Saint Mary's (CA),11,LSU,3
+loss,0.767,Temple,11,Purdue,3
+loss,0.727,Arizona St.,11,Texas Tech,3
+loss,0.571,Ohio St.,11,Purdue,3
+win,0.507,Saint Mary's (CA),11,Texas Tech,3
+loss,0.534,Ohio St.,11,Houston,3
+loss,0.717,St. John's (NY),11,Texas Tech,3
+loss,0.752,Arizona St.,11,Purdue,3
+loss,0.723,Arizona St.,11,Houston,3
+loss,0.796,Belmont,11,Texas Tech,3
+loss,0.6,Arizona St.,11,LSU,3
+loss,0.713,St. John's (NY),11,Houston,3
+loss,0.742,St. John's (NY),11,Purdue,3
+loss,0.739,Temple,11,Houston,3
+loss,0.688,Belmont,11,LSU,3
+loss,0.539,Ohio St.,11,Texas Tech,3
+loss,0.793,Belmont,11,Houston,3
+loss,0.621,Temple,11,LSU,3
+win,0.512,Saint Mary's (CA),11,Houston,3
+loss,0.755,Belmont,11,Kansas St.,4
+win,0.652,Saint Mary's (CA),11,Florida St.,4
+loss,0.56,Saint Mary's (CA),11,Virginia Tech,4
+loss,0.836,Belmont,11,Virginia Tech,4
+loss,0.678,Arizona St.,11,Kansas St.,4
+loss,0.667,St. John's (NY),11,Kansas St.,4
+loss,0.768,St. John's (NY),11,Virginia Tech,4
+loss,0.593,Arizona St.,11,Florida St.,4
+loss,0.681,Belmont,11,Florida St.,4
+loss,0.653,Temple,11,Kansas,4
+loss,0.581,St. John's (NY),11,Florida St.,4
+loss,0.622,St. John's (NY),11,Kansas,4
+win,0.567,Ohio St.,11,Kansas,4
+loss,0.605,Ohio St.,11,Virginia Tech,4
+win,0.519,Ohio St.,11,Kansas St.,4
+win,0.609,Ohio St.,11,Florida St.,4
+loss,0.614,Temple,11,Florida St.,4
+loss,0.717,Belmont,11,Kansas,4
+win,0.613,Saint Mary's (CA),11,Kansas,4
+loss,0.696,Temple,11,Kansas St.,4
+loss,0.777,Arizona St.,11,Virginia Tech,4
+loss,0.791,Temple,11,Virginia Tech,4
+win,0.565,Saint Mary's (CA),11,Kansas St.,4
+loss,0.634,Arizona St.,11,Kansas,4
+loss,0.622,St. John's (NY),11,Mississippi St.,5
+win,0.585,Saint Mary's (CA),11,Auburn,5
+loss,0.544,Saint Mary's (CA),11,Wisconsin,5
+win,0.539,Ohio St.,11,Auburn,5
+loss,0.589,Ohio St.,11,Wisconsin,5
+loss,0.827,Belmont,11,Wisconsin,5
+win,0.568,Ohio St.,11,Mississippi St.,5
+loss,0.765,Arizona St.,11,Wisconsin,5
+loss,0.607,Temple,11,Marquette,5
+win,0.615,Ohio St.,11,Marquette,5
+loss,0.675,Belmont,11,Marquette,5
+win,0.658,Saint Mary's (CA),11,Marquette,5
+loss,0.717,Belmont,11,Mississippi St.,5
+loss,0.74,Belmont,11,Auburn,5
+loss,0.756,St. John's (NY),11,Wisconsin,5
+loss,0.653,Temple,11,Mississippi St.,5
+loss,0.587,Arizona St.,11,Marquette,5
+win,0.613,Saint Mary's (CA),11,Mississippi St.,5
+loss,0.575,St. John's (NY),11,Marquette,5
+loss,0.78,Temple,11,Wisconsin,5
+loss,0.649,St. John's (NY),11,Auburn,5
+loss,0.679,Temple,11,Auburn,5
+loss,0.66,Arizona St.,11,Auburn,5
+loss,0.633,Arizona St.,11,Mississippi St.,5
+loss,0.785,Belmont,11,Villanova,6
+loss,0.514,Ohio St.,11,Iowa St.,6
+loss,0.696,St. John's (NY),11,Iowa St.,6
+loss,0.665,Belmont,11,Buffalo,6
+win,0.539,Saint Mary's (CA),11,Maryland,6
+win,0.669,Saint Mary's (CA),11,Buffalo,6
+loss,0.523,Ohio St.,11,Villanova,6
+win,0.523,Saint Mary's (CA),11,Villanova,6
+loss,0.779,Belmont,11,Iowa St.,6
+loss,0.69,St. John's (NY),11,Maryland,6
+loss,0.704,St. John's (NY),11,Villanova,6
+loss,0.563,St. John's (NY),11,Buffalo,6
+loss,0.731,Temple,11,Villanova,6
+loss,0.701,Arizona St.,11,Maryland,6
+win,0.626,Ohio St.,11,Buffalo,6
+win,0.532,Saint Mary's (CA),11,Iowa St.,6
+loss,0.774,Belmont,11,Maryland,6
+loss,0.576,Arizona St.,11,Buffalo,6
+loss,0.714,Arizona St.,11,Villanova,6
+loss,0.718,Temple,11,Maryland,6
+loss,0.706,Arizona St.,11,Iowa St.,6
+loss,0.724,Temple,11,Iowa St.,6
+loss,0.596,Temple,11,Buffalo,6
+loss,0.507,Ohio St.,11,Maryland,6
+loss,0.811,Belmont,11,Cincinnati,7
+loss,0.69,Arizona St.,11,Wofford,7
+loss,0.678,Temple,11,Nevada,7
+loss,0.735,St. John's (NY),11,Cincinnati,7
+win,0.519,Saint Mary's (CA),11,Louisville,7
+loss,0.516,Saint Mary's (CA),11,Cincinnati,7
+loss,0.707,Temple,11,Wofford,7
+loss,0.717,Arizona St.,11,Louisville,7
+loss,0.739,Belmont,11,Nevada,7
+loss,0.528,Ohio St.,11,Louisville,7
+loss,0.562,Ohio St.,11,Cincinnati,7
+loss,0.788,Belmont,11,Louisville,7
+loss,0.734,Temple,11,Louisville,7
+loss,0.659,Arizona St.,11,Nevada,7
+loss,0.745,Arizona St.,11,Cincinnati,7
+loss,0.679,St. John's (NY),11,Wofford,7
+loss,0.707,St. John's (NY),11,Louisville,7
+win,0.586,Saint Mary's (CA),11,Nevada,7
+loss,0.761,Temple,11,Cincinnati,7
+win,0.552,Saint Mary's (CA),11,Wofford,7
+loss,0.765,Belmont,11,Wofford,7
+win,0.54,Ohio St.,11,Nevada,7
+loss,0.648,St. John's (NY),11,Nevada,7
+win,0.506,Ohio St.,11,Wofford,7
+loss,0.654,Belmont,11,VCU,8
+win,0.676,Saint Mary's (CA),11,Utah St.,8
+loss,0.614,Arizona St.,11,Ole Miss,8
+loss,0.634,Temple,11,Ole Miss,8
+loss,0.567,Arizona St.,11,Utah St.,8
+loss,0.654,Arizona St.,11,Syracuse,8
+win,0.588,Ohio St.,11,Ole Miss,8
+loss,0.564,Arizona St.,11,VCU,8
+win,0.637,Ohio St.,11,VCU,8
+win,0.632,Saint Mary's (CA),11,Ole Miss,8
+win,0.545,Ohio St.,11,Syracuse,8
+loss,0.658,Belmont,11,Utah St.,8
+loss,0.673,Temple,11,Syracuse,8
+loss,0.643,St. John's (NY),11,Syracuse,8
+loss,0.603,St. John's (NY),11,Ole Miss,8
+loss,0.588,Temple,11,Utah St.,8
+loss,0.551,St. John's (NY),11,VCU,8
+loss,0.735,Belmont,11,Syracuse,8
+win,0.634,Ohio St.,11,Utah St.,8
+loss,0.7,Belmont,11,Ole Miss,8
+loss,0.584,Temple,11,VCU,8
+loss,0.555,St. John's (NY),11,Utah St.,8
+win,0.591,Saint Mary's (CA),11,Syracuse,8
+win,0.679,Saint Mary's (CA),11,VCU,8
+loss,0.678,Temple,11,UCF,9
+loss,0.631,Arizona St.,11,Baylor,9
+loss,0.739,Belmont,11,UCF,9
+loss,0.59,St. John's (NY),11,Oklahoma,9
+win,0.577,Ohio St.,11,Washington,9
+win,0.54,Ohio St.,11,UCF,9
+loss,0.622,Temple,11,Oklahoma,9
+loss,0.709,Belmont,11,Washington,9
+loss,0.648,St. John's (NY),11,UCF,9
+win,0.615,Saint Mary's (CA),11,Baylor,9
+win,0.586,Saint Mary's (CA),11,UCF,9
+loss,0.651,Temple,11,Baylor,9
+win,0.601,Ohio St.,11,Oklahoma,9
+win,0.644,Saint Mary's (CA),11,Oklahoma,9
+loss,0.715,Belmont,11,Baylor,9
+loss,0.613,St. John's (NY),11,Washington,9
+loss,0.689,Belmont,11,Oklahoma,9
+loss,0.602,Arizona St.,11,Oklahoma,9
+win,0.622,Saint Mary's (CA),11,Washington,9
+loss,0.644,Temple,11,Washington,9
+loss,0.625,Arizona St.,11,Washington,9
+loss,0.62,St. John's (NY),11,Baylor,9
+win,0.57,Ohio St.,11,Baylor,9
+loss,0.659,Arizona St.,11,UCF,9
+loss,0.514,St. John's (NY),11,Minnesota,10
+loss,0.743,Temple,11,Florida,10
+loss,0.633,Temple,11,Iowa,10
+loss,0.517,Temple,11,Seton Hall,10
+loss,0.699,Belmont,11,Iowa,10
+loss,0.591,Belmont,11,Seton Hall,10
+win,0.672,Ohio St.,11,Minnesota,10
+loss,0.716,St. John's (NY),11,Florida,10
+win,0.698,Ohio St.,11,Seton Hall,10
+loss,0.526,Arizona St.,11,Minnesota,10
+win,0.712,Saint Mary's (CA),11,Minnesota,10
+win,0.736,Saint Mary's (CA),11,Seton Hall,10
+loss,0.539,Ohio St.,11,Florida,10
+win,0.504,Arizona St.,11,Seton Hall,10
+win,0.508,Saint Mary's (CA),11,Florida,10
+loss,0.601,St. John's (NY),11,Iowa,10
+win,0.516,St. John's (NY),11,Seton Hall,10
+loss,0.619,Belmont,11,Minnesota,10
+loss,0.726,Arizona St.,11,Florida,10
+loss,0.613,Arizona St.,11,Iowa,10
+win,0.633,Saint Mary's (CA),11,Iowa,10
+loss,0.547,Temple,11,Minnesota,10
+loss,0.795,Belmont,11,Florida,10
+win,0.589,Ohio St.,11,Iowa,10
+win,0.738,Saint Mary's (CA),11,Arizona St.,11
+win,0.701,Ohio St.,11,Arizona St.,11
+loss,0.514,Temple,11,Arizona St.,11
+loss,0.674,Arizona St.,11,Ohio St.,11
+win,0.539,St. John's (NY),11,Temple,11
+loss,0.701,St. John's (NY),11,Saint Mary's (CA),11
+loss,0.504,Arizona St.,11,St. John's (NY),11
+win,0.52,St. John's (NY),11,Arizona St.,11
+loss,0.587,Belmont,11,Arizona St.,11
+win,0.595,Arizona St.,11,Belmont,11
+loss,0.598,Belmont,11,St. John's (NY),11
+loss,0.525,Temple,11,St. John's (NY),11
+loss,0.711,Arizona St.,11,Saint Mary's (CA),11
+win,0.607,St. John's (NY),11,Belmont,11
+win,0.691,Ohio St.,11,St. John's (NY),11
+loss,0.663,St. John's (NY),11,Ohio St.,11
+win,0.574,Temple,11,Belmont,11
+win,0.716,Ohio St.,11,Temple,11
+win,0.73,Saint Mary's (CA),11,St. John's (NY),11
+loss,0.728,Temple,11,Saint Mary's (CA),11
+win,0.753,Saint Mary's (CA),11,Temple,11
+win,0.527,Arizona St.,11,Temple,11
+win,0.569,Saint Mary's (CA),11,Ohio St.,11
+loss,0.569,Belmont,11,Temple,11
+win,0.769,Ohio St.,11,Belmont,11
+loss,0.783,Belmont,11,Saint Mary's (CA),11
+win,0.801,Saint Mary's (CA),11,Belmont,11
+loss,0.752,Belmont,11,Ohio St.,11
+loss,0.52,Ohio St.,11,Saint Mary's (CA),11
+loss,0.693,Temple,11,Ohio St.,11
+win,0.646,Saint Mary's (CA),11,Murray St.,12
+loss,0.588,St. John's (NY),11,Murray St.,12
+win,0.602,Ohio St.,11,Murray St.,12
+loss,0.679,St. John's (NY),11,Liberty,12
+win,0.598,Saint Mary's (CA),11,Oregon,12
+win,0.664,Saint Mary's (CA),11,New Mexico St.,12
+win,0.552,Saint Mary's (CA),11,Liberty,12
+loss,0.637,St. John's (NY),11,Oregon,12
+loss,0.648,Arizona St.,11,Oregon,12
+win,0.552,Ohio St.,11,Oregon,12
+loss,0.708,Temple,11,Liberty,12
+loss,0.765,Belmont,11,Liberty,12
+loss,0.729,Belmont,11,Oregon,12
+loss,0.601,Temple,11,New Mexico St.,12
+win,0.505,Ohio St.,11,Liberty,12
+loss,0.62,Temple,11,Murray St.,12
+loss,0.667,Temple,11,Oregon,12
+loss,0.69,Arizona St.,11,Liberty,12
+loss,0.688,Belmont,11,Murray St.,12
+loss,0.67,Belmont,11,New Mexico St.,12
+loss,0.569,St. John's (NY),11,New Mexico St.,12
+loss,0.6,Arizona St.,11,Murray St.,12
+loss,0.581,Arizona St.,11,New Mexico St.,12
+win,0.621,Ohio St.,11,New Mexico St.,12
+loss,0.575,Arizona St.,11,Vermont,13
+win,0.669,Saint Mary's (CA),11,Vermont,13
+win,0.521,Temple,11,Saint Louis,13
+win,0.774,Saint Mary's (CA),11,UC Irvine,13
+loss,0.596,Temple,11,Vermont,13
+win,0.554,St. John's (NY),11,Saint Louis,13
+win,0.559,St. John's (NY),11,Northeastern,13
+win,0.764,Saint Mary's (CA),11,Saint Louis,13
+win,0.535,Temple,11,UC Irvine,13
+win,0.526,Temple,11,Northeastern,13
+loss,0.539,Belmont,11,UC Irvine,13
+loss,0.553,Belmont,11,Saint Louis,13
+loss,0.665,Belmont,11,Vermont,13
+win,0.733,Ohio St.,11,Northeastern,13
+win,0.74,Ohio St.,11,UC Irvine,13
+win,0.768,Saint Mary's (CA),11,Northeastern,13
+win,0.729,Ohio St.,11,Saint Louis,13
+win,0.626,Ohio St.,11,Vermont,13
+loss,0.548,Belmont,11,Northeastern,13
+win,0.547,Arizona St.,11,Northeastern,13
+win,0.542,Arizona St.,11,Saint Louis,13
+win,0.556,Arizona St.,11,UC Irvine,13
+loss,0.563,St. John's (NY),11,Vermont,13
+win,0.568,St. John's (NY),11,UC Irvine,13
+loss,0.513,Arizona St.,11,Old Dominion,14
+loss,0.501,St. John's (NY),11,Old Dominion,14
+win,0.813,Saint Mary's (CA),11,Georgia St.,14
+loss,0.535,Temple,11,Old Dominion,14
+loss,0.533,Temple,11,Northern Ky.,14
+win,0.626,St. John's (NY),11,Georgia St.,14
+win,0.594,Temple,11,Georgia St.,14
+win,0.802,Saint Mary's (CA),11,Yale,14
+win,0.684,Ohio St.,11,Northern Ky.,14
+win,0.521,Belmont,11,Georgia St.,14
+loss,0.512,Arizona St.,11,Northern Ky.,14
+win,0.77,Ohio St.,11,Yale,14
+win,0.596,Arizona St.,11,Yale,14
+loss,0.607,Belmont,11,Old Dominion,14
+win,0.722,Saint Mary's (CA),11,Old Dominion,14
+win,0.723,Saint Mary's (CA),11,Northern Ky.,14
+win,0.683,Ohio St.,11,Old Dominion,14
+loss,0.606,Belmont,11,Northern Ky.,14
+win,0.576,Temple,11,Yale,14
+win,0.608,St. John's (NY),11,Yale,14
+win,0.614,Arizona St.,11,Georgia St.,14
+win,0.5,St. John's (NY),11,Northern Ky.,14
+win,0.502,Belmont,11,Yale,14
+win,0.783,Ohio St.,11,Georgia St.,14
+win,0.53,Temple,11,Montana,15
+win,0.904,Saint Mary's (CA),11,Bradley,15
+win,0.821,Saint Mary's (CA),11,Abilene Christian,15
+win,0.702,Belmont,11,Bradley,15
+win,0.76,Temple,11,Bradley,15
+win,0.606,Temple,11,Abilene Christian,15
+win,0.551,Arizona St.,11,Montana,15
+win,0.637,Temple,11,Colgate,15
+win,0.771,Saint Mary's (CA),11,Montana,15
+win,0.566,Belmont,11,Colgate,15
+win,0.533,Belmont,11,Abilene Christian,15
+win,0.839,Saint Mary's (CA),11,Colgate,15
+win,0.792,Ohio St.,11,Abilene Christian,15
+win,0.775,Arizona St.,11,Bradley,15
+win,0.656,Arizona St.,11,Colgate,15
+win,0.887,Ohio St.,11,Bradley,15
+win,0.626,Arizona St.,11,Abilene Christian,15
+win,0.784,St. John's (NY),11,Bradley,15
+loss,0.544,Belmont,11,Montana,15
+win,0.638,St. John's (NY),11,Abilene Christian,15
+win,0.813,Ohio St.,11,Colgate,15
+win,0.667,St. John's (NY),11,Colgate,15
+win,0.563,St. John's (NY),11,Montana,15
+win,0.736,Ohio St.,11,Montana,15
+win,0.704,Ohio St.,11,Gardner-Webb,16
+win,0.834,Belmont,11,Prairie View,16
+win,0.885,St. John's (NY),11,Prairie View,16
+win,0.683,Belmont,11,North Dakota St.,16
+loss,0.584,Belmont,11,Gardner-Webb,16
+win,0.523,St. John's (NY),11,Gardner-Webb,16
+win,0.744,Belmont,11,Fairleigh Dickinson,16
+win,0.909,Ohio St.,11,N.C. Central,16
+win,0.86,Arizona St.,11,Iona,16
+win,0.896,Saint Mary's (CA),11,North Dakota St.,16
+win,0.807,Belmont,11,Iona,16
+win,0.741,Saint Mary's (CA),11,Gardner-Webb,16
+win,0.796,Temple,11,Fairleigh Dickinson,16
+win,0.749,Belmont,11,N.C. Central,16
+win,0.821,St. John's (NY),11,N.C. Central,16
+win,0.511,Arizona St.,11,Gardner-Webb,16
+win,0.768,St. John's (NY),11,North Dakota St.,16
+win,0.871,Temple,11,Prairie View,16
+win,0.923,Saint Mary's (CA),11,N.C. Central,16
+win,0.943,Ohio St.,11,Prairie View,16
+win,0.877,Ohio St.,11,North Dakota St.,16
+win,0.906,Ohio St.,11,Fairleigh Dickinson,16
+win,0.743,Temple,11,North Dakota St.,16
+win,0.944,Saint Mary's (CA),11,Iona,16
+win,0.933,Ohio St.,11,Iona,16
+win,0.953,Saint Mary's (CA),11,Prairie View,16
+win,0.759,Arizona St.,11,North Dakota St.,16
+win,0.849,Temple,11,Iona,16
+win,0.801,Temple,11,N.C. Central,16
+win,0.81,Arizona St.,11,Fairleigh Dickinson,16
+win,0.814,Arizona St.,11,N.C. Central,16
+win,0.866,St. John's (NY),11,Iona,16
+win,0.88,Arizona St.,11,Prairie View,16
+win,0.921,Saint Mary's (CA),11,Fairleigh Dickinson,16
+win,0.817,St. John's (NY),11,Fairleigh Dickinson,16
+loss,0.51,Temple,11,Gardner-Webb,16
+loss,0.52,New Mexico St.,12,North Carolina,1
+loss,0.535,Oregon,12,Gonzaga,1
+win,0.515,Liberty,12,Gonzaga,1
+win,0.605,Liberty,12,North Carolina,1
+win,0.556,Oregon,12,North Carolina,1
+loss,0.735,Oregon,12,Virginia,1
+loss,0.61,New Mexico St.,12,Gonzaga,1
+loss,0.694,Liberty,12,Virginia,1
+loss,0.603,New Mexico St.,12,Duke,1
+loss,0.79,New Mexico St.,12,Virginia,1
+loss,0.528,Oregon,12,Duke,1
+loss,0.589,Murray St.,12,Gonzaga,1
+win,0.522,Liberty,12,Duke,1
+win,0.502,Murray St.,12,North Carolina,1
+loss,0.775,Murray St.,12,Virginia,1
+loss,0.582,Murray St.,12,Duke,1
+loss,0.663,New Mexico St.,12,Michigan St.,2
+loss,0.632,Oregon,12,Michigan,2
+loss,0.558,Oregon,12,Kentucky,2
+loss,0.652,New Mexico St.,12,Tennessee,2
+loss,0.632,Murray St.,12,Tennessee,2
+loss,0.611,Murray St.,12,Kentucky,2
+loss,0.7,New Mexico St.,12,Michigan,2
+loss,0.643,Murray St.,12,Michigan St.,2
+loss,0.542,Liberty,12,Michigan St.,2
+loss,0.579,Oregon,12,Tennessee,2
+loss,0.53,Liberty,12,Tennessee,2
+loss,0.585,Liberty,12,Michigan,2
+loss,0.508,Liberty,12,Kentucky,2
+loss,0.631,New Mexico St.,12,Kentucky,2
+loss,0.591,Oregon,12,Michigan St.,2
+loss,0.682,Murray St.,12,Michigan,2
+loss,0.554,Liberty,12,Purdue,3
+win,0.571,Oregon,12,LSU,3
+loss,0.673,New Mexico St.,12,Purdue,3
+loss,0.522,Liberty,12,Texas Tech,3
+loss,0.505,New Mexico St.,12,LSU,3
+win,0.619,Liberty,12,LSU,3
+loss,0.566,Oregon,12,Houston,3
+loss,0.619,Murray St.,12,Houston,3
+loss,0.644,New Mexico St.,12,Texas Tech,3
+loss,0.64,New Mexico St.,12,Houston,3
+loss,0.654,Murray St.,12,Purdue,3
+loss,0.603,Oregon,12,Purdue,3
+loss,0.517,Liberty,12,Houston,3
+win,0.516,Murray St.,12,LSU,3
+loss,0.624,Murray St.,12,Texas Tech,3
+loss,0.571,Oregon,12,Texas Tech,3
+loss,0.588,Liberty,12,Virginia Tech,4
+loss,0.568,Murray St.,12,Kansas St.,4
+loss,0.636,Oregon,12,Virginia Tech,4
+loss,0.541,New Mexico St.,12,Kansas,4
+win,0.537,Liberty,12,Kansas St.,4
+win,0.502,New Mexico St.,12,Florida St.,4
+win,0.536,Oregon,12,Kansas,4
+win,0.626,Liberty,12,Florida St.,4
+win,0.585,Liberty,12,Kansas,4
+win,0.578,Oregon,12,Florida St.,4
+win,0.523,Murray St.,12,Florida St.,4
+loss,0.685,Murray St.,12,Virginia Tech,4
+loss,0.513,Oregon,12,Kansas St.,4
+loss,0.589,New Mexico St.,12,Kansas St.,4
+loss,0.519,Murray St.,12,Kansas,4
+loss,0.703,New Mexico St.,12,Virginia Tech,4
+win,0.556,Liberty,12,Auburn,5
+win,0.585,Liberty,12,Mississippi St.,5
+loss,0.57,New Mexico St.,12,Auburn,5
+win,0.53,Murray St.,12,Marquette,5
+win,0.632,Liberty,12,Marquette,5
+win,0.508,New Mexico St.,12,Marquette,5
+loss,0.689,New Mexico St.,12,Wisconsin,5
+loss,0.548,Murray St.,12,Auburn,5
+win,0.584,Oregon,12,Marquette,5
+loss,0.54,New Mexico St.,12,Mississippi St.,5
+loss,0.67,Murray St.,12,Wisconsin,5
+win,0.507,Oregon,12,Auburn,5
+loss,0.519,Murray St.,12,Mississippi St.,5
+loss,0.572,Liberty,12,Wisconsin,5
+win,0.536,Oregon,12,Mississippi St.,5
+loss,0.62,Oregon,12,Wisconsin,5
+loss,0.629,New Mexico St.,12,Villanova,6
+loss,0.621,New Mexico St.,12,Iowa St.,6
+loss,0.54,Oregon,12,Maryland,6
+loss,0.614,New Mexico St.,12,Maryland,6
+loss,0.546,Oregon,12,Iowa St.,6
+loss,0.506,Liberty,12,Villanova,6
+win,0.52,New Mexico St.,12,Buffalo,6
+win,0.542,Murray St.,12,Buffalo,6
+loss,0.6,Murray St.,12,Iowa St.,6
+loss,0.555,Oregon,12,Villanova,6
+win,0.643,Liberty,12,Buffalo,6
+win,0.51,Liberty,12,Maryland,6
+win,0.504,Liberty,12,Iowa St.,6
+loss,0.609,Murray St.,12,Villanova,6
+loss,0.593,Murray St.,12,Maryland,6
+win,0.596,Oregon,12,Buffalo,6
+loss,0.568,New Mexico St.,12,Nevada,7
+loss,0.581,Murray St.,12,Wofford,7
+loss,0.665,New Mexico St.,12,Cincinnati,7
+loss,0.547,Murray St.,12,Nevada,7
+loss,0.613,Murray St.,12,Louisville,7
+loss,0.646,Murray St.,12,Cincinnati,7
+loss,0.56,Oregon,12,Louisville,7
+loss,0.51,Liberty,12,Louisville,7
+loss,0.594,Oregon,12,Cincinnati,7
+loss,0.545,Liberty,12,Cincinnati,7
+loss,0.633,New Mexico St.,12,Louisville,7
+loss,0.602,New Mexico St.,12,Wofford,7
+win,0.508,Oregon,12,Nevada,7
+win,0.523,Liberty,12,Wofford,7
+win,0.558,Liberty,12,Nevada,7
+loss,0.527,Oregon,12,Wofford,7
+win,0.554,Murray St.,12,VCU,8
+loss,0.563,New Mexico St.,12,Syracuse,8
+loss,0.52,New Mexico St.,12,Ole Miss,8
+win,0.532,New Mexico St.,12,VCU,8
+win,0.55,Murray St.,12,Utah St.,8
+win,0.501,Murray St.,12,Ole Miss,8
+win,0.651,Liberty,12,Utah St.,8
+win,0.563,Liberty,12,Syracuse,8
+win,0.604,Oregon,12,Utah St.,8
+win,0.654,Liberty,12,VCU,8
+loss,0.542,Murray St.,12,Syracuse,8
+win,0.513,Oregon,12,Syracuse,8
+win,0.607,Oregon,12,VCU,8
+win,0.529,New Mexico St.,12,Utah St.,8
+win,0.556,Oregon,12,Ole Miss,8
+win,0.605,Liberty,12,Ole Miss,8
+win,0.569,Oregon,12,Oklahoma,9
+loss,0.509,Murray St.,12,Washington,9
+win,0.558,Liberty,12,UCF,9
+loss,0.516,Murray St.,12,Baylor,9
+win,0.594,Liberty,12,Washington,9
+win,0.617,Liberty,12,Oklahoma,9
+win,0.538,Oregon,12,Baylor,9
+loss,0.507,New Mexico St.,12,Oklahoma,9
+win,0.508,Oregon,12,UCF,9
+win,0.545,Oregon,12,Washington,9
+loss,0.568,New Mexico St.,12,UCF,9
+win,0.515,Murray St.,12,Oklahoma,9
+win,0.588,Liberty,12,Baylor,9
+loss,0.546,Murray St.,12,UCF,9
+loss,0.531,New Mexico St.,12,Washington,9
+loss,0.538,New Mexico St.,12,Baylor,9
+loss,0.519,New Mexico St.,12,Iowa,10
+win,0.643,Oregon,12,Minnesota,10
+win,0.57,New Mexico St.,12,Minnesota,10
+loss,0.57,Oregon,12,Florida,10
+win,0.557,Oregon,12,Iowa,10
+loss,0.521,Liberty,12,Florida,10
+win,0.599,New Mexico St.,12,Seton Hall,10
+win,0.62,Murray St.,12,Seton Hall,10
+win,0.67,Oregon,12,Seton Hall,10
+win,0.503,Murray St.,12,Iowa,10
+loss,0.643,New Mexico St.,12,Florida,10
+win,0.687,Liberty,12,Minnesota,10
+win,0.591,Murray St.,12,Minnesota,10
+loss,0.623,Murray St.,12,Florida,10
+win,0.712,Liberty,12,Seton Hall,10
+win,0.606,Liberty,12,Iowa,10
+win,0.702,Murray St.,12,Belmont,11
+win,0.731,Liberty,12,Temple,11
+win,0.663,Oregon,12,St. John's (NY),11
+loss,0.626,New Mexico St.,12,Saint Mary's (CA),11
+loss,0.509,Oregon,12,Ohio St.,11
+win,0.782,Liberty,12,Belmont,11
+win,0.541,Liberty,12,Ohio St.,11
+win,0.706,Liberty,12,St. John's (NY),11
+win,0.623,Murray St.,12,Arizona St.,11
+loss,0.552,Oregon,12,Saint Mary's (CA),11
+win,0.715,Liberty,12,Arizona St.,11
+loss,0.564,Murray St.,12,Ohio St.,11
+win,0.673,Oregon,12,Arizona St.,11
+win,0.62,New Mexico St.,12,Temple,11
+win,0.602,New Mexico St.,12,Arizona St.,11
+loss,0.606,Murray St.,12,Saint Mary's (CA),11
+loss,0.503,Liberty,12,Saint Mary's (CA),11
+loss,0.585,New Mexico St.,12,Ohio St.,11
+win,0.683,New Mexico St.,12,Belmont,11
+win,0.746,Oregon,12,Belmont,11
+win,0.612,Murray St.,12,St. John's (NY),11
+win,0.641,Murray St.,12,Temple,11
+win,0.689,Oregon,12,Temple,11
+win,0.591,New Mexico St.,12,St. John's (NY),11
+win,0.638,Liberty,12,New Mexico St.,12
+loss,0.581,Murray St.,12,Liberty,12
+loss,0.534,Murray St.,12,Oregon,12
+win,0.571,Oregon,12,Murray St.,12
+loss,0.527,Oregon,12,Liberty,12
+win,0.537,Murray St.,12,New Mexico St.,12
+win,0.59,Oregon,12,New Mexico St.,12
+win,0.619,Liberty,12,Murray St.,12
+win,0.57,Liberty,12,Oregon,12
+loss,0.602,New Mexico St.,12,Liberty,12
+loss,0.556,New Mexico St.,12,Oregon,12
+loss,0.505,New Mexico St.,12,Murray St.,12
+win,0.52,New Mexico St.,12,Vermont,13
+win,0.746,Liberty,12,Northeastern,13
+win,0.659,Murray St.,12,Northeastern,13
+win,0.635,New Mexico St.,12,Saint Louis,13
+win,0.667,Murray St.,12,UC Irvine,13
+win,0.639,New Mexico St.,12,Northeastern,13
+win,0.743,Liberty,12,Saint Louis,13
+win,0.542,Murray St.,12,Vermont,13
+win,0.707,Oregon,12,Northeastern,13
+win,0.714,Oregon,12,UC Irvine,13
+win,0.702,Oregon,12,Saint Louis,13
+win,0.596,Oregon,12,Vermont,13
+win,0.648,New Mexico St.,12,UC Irvine,13
+win,0.643,Liberty,12,Vermont,13
+win,0.655,Murray St.,12,Saint Louis,13
+win,0.753,Liberty,12,UC Irvine,13
+win,0.583,New Mexico St.,12,Northern Ky.,14
+win,0.582,New Mexico St.,12,Old Dominion,14
+win,0.783,Liberty,12,Yale,14
+win,0.795,Liberty,12,Georgia St.,14
+win,0.604,Murray St.,12,Northern Ky.,14
+win,0.603,Murray St.,12,Old Dominion,14
+win,0.655,Oregon,12,Northern Ky.,14
+win,0.698,Liberty,12,Old Dominion,14
+win,0.761,Oregon,12,Georgia St.,14
+win,0.701,New Mexico St.,12,Georgia St.,14
+win,0.718,Murray St.,12,Georgia St.,14
+win,0.747,Oregon,12,Yale,14
+win,0.685,New Mexico St.,12,Yale,14
+win,0.699,Liberty,12,Northern Ky.,14
+win,0.654,Oregon,12,Old Dominion,14
+win,0.703,Murray St.,12,Yale,14
+win,0.803,Liberty,12,Abilene Christian,15
+win,0.835,New Mexico St.,12,Bradley,15
+win,0.711,New Mexico St.,12,Abilene Christian,15
+win,0.823,Liberty,12,Colgate,15
+win,0.644,New Mexico St.,12,Montana,15
+win,0.894,Liberty,12,Bradley,15
+win,0.754,Murray St.,12,Colgate,15
+win,0.847,Murray St.,12,Bradley,15
+win,0.792,Oregon,12,Colgate,15
+win,0.75,Liberty,12,Montana,15
+win,0.729,Murray St.,12,Abilene Christian,15
+win,0.77,Oregon,12,Abilene Christian,15
+win,0.737,New Mexico St.,12,Colgate,15
+win,0.663,Murray St.,12,Montana,15
+win,0.873,Oregon,12,Bradley,15
+win,0.71,Oregon,12,Montana,15
+win,0.875,Murray St.,12,N.C. Central,16
+win,0.862,New Mexico St.,12,Fairleigh Dickinson,16
+win,0.908,Murray St.,12,Iona,16
+win,0.885,Liberty,12,North Dakota St.,16
+win,0.9,New Mexico St.,12,Iona,16
+win,0.822,New Mexico St.,12,North Dakota St.,16
+win,0.914,Liberty,12,N.C. Central,16
+win,0.936,Oregon,12,Prairie View,16
+win,0.897,Oregon,12,N.C. Central,16
+win,0.895,Oregon,12,Fairleigh Dickinson,16
+win,0.606,New Mexico St.,12,Gardner-Webb,16
+win,0.915,New Mexico St.,12,Prairie View,16
+win,0.865,New Mexico St.,12,N.C. Central,16
+win,0.937,Liberty,12,Iona,16
+win,0.872,Murray St.,12,Fairleigh Dickinson,16
+win,0.912,Liberty,12,Fairleigh Dickinson,16
+win,0.676,Oregon,12,Gardner-Webb,16
+win,0.925,Oregon,12,Iona,16
+win,0.947,Liberty,12,Prairie View,16
+win,0.718,Liberty,12,Gardner-Webb,16
+win,0.863,Oregon,12,North Dakota St.,16
+win,0.922,Murray St.,12,Prairie View,16
+win,0.626,Murray St.,12,Gardner-Webb,16
+win,0.835,Murray St.,12,North Dakota St.,16
+loss,0.722,Saint Louis,13,Duke,1
+loss,0.741,UC Irvine,13,Gonzaga,1
+loss,0.727,Northeastern,13,Duke,1
+loss,0.526,Vermont,13,North Carolina,1
+loss,0.655,Northeastern,13,North Carolina,1
+loss,0.869,Northeastern,13,Virginia,1
+loss,0.728,Saint Louis,13,Gonzaga,1
+loss,0.733,Northeastern,13,Gonzaga,1
+loss,0.735,UC Irvine,13,Duke,1
+loss,0.609,Vermont,13,Duke,1
+loss,0.794,Vermont,13,Virginia,1
+loss,0.665,UC Irvine,13,North Carolina,1
+loss,0.873,UC Irvine,13,Virginia,1
+loss,0.616,Vermont,13,Gonzaga,1
+loss,0.65,Saint Louis,13,North Carolina,1
+loss,0.866,Saint Louis,13,Virginia,1
+loss,0.782,UC Irvine,13,Michigan St.,2
+loss,0.774,UC Irvine,13,Tennessee,2
+loss,0.775,Northeastern,13,Michigan St.,2
+loss,0.766,Northeastern,13,Tennessee,2
+loss,0.8,Saint Louis,13,Michigan,2
+loss,0.75,Northeastern,13,Kentucky,2
+loss,0.804,Northeastern,13,Michigan,2
+loss,0.668,Vermont,13,Michigan St.,2
+loss,0.81,UC Irvine,13,Michigan,2
+loss,0.637,Vermont,13,Kentucky,2
+loss,0.657,Vermont,13,Tennessee,2
+loss,0.758,UC Irvine,13,Kentucky,2
+loss,0.762,Saint Louis,13,Tennessee,2
+loss,0.771,Saint Louis,13,Michigan St.,2
+loss,0.705,Vermont,13,Michigan,2
+loss,0.746,Saint Louis,13,Kentucky,2
+loss,0.783,Northeastern,13,Purdue,3
+loss,0.79,UC Irvine,13,Purdue,3
+loss,0.768,UC Irvine,13,Texas Tech,3
+loss,0.756,Saint Louis,13,Texas Tech,3
+loss,0.764,UC Irvine,13,Houston,3
+loss,0.761,Northeastern,13,Texas Tech,3
+loss,0.636,Saint Louis,13,LSU,3
+loss,0.65,Vermont,13,Texas Tech,3
+loss,0.651,UC Irvine,13,LSU,3
+loss,0.779,Saint Louis,13,Purdue,3
+loss,0.512,Vermont,13,LSU,3
+loss,0.752,Saint Louis,13,Houston,3
+loss,0.642,Northeastern,13,LSU,3
+loss,0.757,Northeastern,13,Houston,3
+loss,0.645,Vermont,13,Houston,3
+loss,0.679,Vermont,13,Purdue,3
+loss,0.547,Vermont,13,Kansas,4
+loss,0.504,Vermont,13,Florida St.,4
+loss,0.669,Saint Louis,13,Kansas,4
+loss,0.635,Northeastern,13,Florida St.,4
+loss,0.715,Northeastern,13,Kansas St.,4
+loss,0.802,Saint Louis,13,Virginia Tech,4
+loss,0.674,Northeastern,13,Kansas,4
+loss,0.71,Saint Louis,13,Kansas St.,4
+loss,0.683,UC Irvine,13,Kansas,4
+loss,0.708,Vermont,13,Virginia Tech,4
+loss,0.645,UC Irvine,13,Florida St.,4
+loss,0.812,UC Irvine,13,Virginia Tech,4
+loss,0.724,UC Irvine,13,Kansas St.,4
+loss,0.63,Saint Louis,13,Florida St.,4
+loss,0.595,Vermont,13,Kansas St.,4
+loss,0.806,Northeastern,13,Virginia Tech,4
+loss,0.638,UC Irvine,13,Marquette,5
+loss,0.623,Saint Louis,13,Marquette,5
+loss,0.707,UC Irvine,13,Auburn,5
+loss,0.694,Saint Louis,13,Auburn,5
+loss,0.546,Vermont,13,Mississippi St.,5
+loss,0.668,Saint Louis,13,Mississippi St.,5
+loss,0.682,UC Irvine,13,Mississippi St.,5
+loss,0.575,Vermont,13,Auburn,5
+loss,0.673,Northeastern,13,Mississippi St.,5
+win,0.502,Vermont,13,Marquette,5
+loss,0.694,Vermont,13,Wisconsin,5
+loss,0.792,Saint Louis,13,Wisconsin,5
+loss,0.796,Northeastern,13,Wisconsin,5
+loss,0.699,Northeastern,13,Auburn,5
+loss,0.629,Northeastern,13,Marquette,5
+loss,0.802,UC Irvine,13,Wisconsin,5
+loss,0.742,Northeastern,13,Iowa St.,6
+win,0.514,Vermont,13,Buffalo,6
+loss,0.736,Northeastern,13,Maryland,6
+loss,0.749,Northeastern,13,Villanova,6
+loss,0.749,UC Irvine,13,Iowa St.,6
+loss,0.635,Vermont,13,Villanova,6
+loss,0.612,Saint Louis,13,Buffalo,6
+loss,0.628,UC Irvine,13,Buffalo,6
+loss,0.626,Vermont,13,Iowa St.,6
+loss,0.756,UC Irvine,13,Villanova,6
+loss,0.732,Saint Louis,13,Maryland,6
+loss,0.62,Vermont,13,Maryland,6
+loss,0.618,Northeastern,13,Buffalo,6
+loss,0.744,UC Irvine,13,Maryland,6
+loss,0.737,Saint Louis,13,Iowa St.,6
+loss,0.744,Saint Louis,13,Villanova,6
+loss,0.574,Vermont,13,Nevada,7
+loss,0.608,Vermont,13,Wofford,7
+loss,0.777,Northeastern,13,Cincinnati,7
+loss,0.773,Saint Louis,13,Cincinnati,7
+loss,0.721,Saint Louis,13,Wofford,7
+loss,0.693,Saint Louis,13,Nevada,7
+loss,0.698,Northeastern,13,Nevada,7
+loss,0.726,Northeastern,13,Wofford,7
+loss,0.747,Saint Louis,13,Louisville,7
+loss,0.752,Northeastern,13,Louisville,7
+loss,0.639,Vermont,13,Louisville,7
+loss,0.784,UC Irvine,13,Cincinnati,7
+loss,0.706,UC Irvine,13,Nevada,7
+loss,0.671,Vermont,13,Cincinnati,7
+loss,0.759,UC Irvine,13,Louisville,7
+loss,0.734,UC Irvine,13,Wofford,7
+loss,0.702,UC Irvine,13,Syracuse,8
+loss,0.569,Vermont,13,Syracuse,8
+loss,0.65,Saint Louis,13,Ole Miss,8
+loss,0.616,UC Irvine,13,VCU,8
+win,0.523,Vermont,13,Utah St.,8
+loss,0.693,Northeastern,13,Syracuse,8
+loss,0.604,Saint Louis,13,Utah St.,8
+loss,0.688,Saint Louis,13,Syracuse,8
+loss,0.601,Saint Louis,13,VCU,8
+loss,0.61,Northeastern,13,Utah St.,8
+loss,0.665,UC Irvine,13,Ole Miss,8
+loss,0.655,Northeastern,13,Ole Miss,8
+loss,0.607,Northeastern,13,VCU,8
+win,0.526,Vermont,13,VCU,8
+loss,0.62,UC Irvine,13,Utah St.,8
+loss,0.526,Vermont,13,Ole Miss,8
+loss,0.692,Saint Louis,13,UCF,9
+loss,0.706,UC Irvine,13,UCF,9
+loss,0.574,Vermont,13,UCF,9
+loss,0.66,Saint Louis,13,Washington,9
+loss,0.638,Saint Louis,13,Oklahoma,9
+loss,0.666,Saint Louis,13,Baylor,9
+loss,0.697,Northeastern,13,UCF,9
+loss,0.665,Northeastern,13,Washington,9
+loss,0.671,Northeastern,13,Baylor,9
+loss,0.643,Northeastern,13,Oklahoma,9
+loss,0.68,UC Irvine,13,Baylor,9
+loss,0.653,UC Irvine,13,Oklahoma,9
+loss,0.544,Vermont,13,Baylor,9
+loss,0.537,Vermont,13,Washington,9
+loss,0.513,Vermont,13,Oklahoma,9
+loss,0.674,UC Irvine,13,Washington,9
+loss,0.534,Saint Louis,13,Seton Hall,10
+loss,0.57,Northeastern,13,Minnesota,10
+loss,0.649,Saint Louis,13,Iowa,10
+loss,0.564,Saint Louis,13,Minnesota,10
+loss,0.755,Saint Louis,13,Florida,10
+loss,0.767,UC Irvine,13,Florida,10
+loss,0.663,UC Irvine,13,Iowa,10
+loss,0.55,UC Irvine,13,Seton Hall,10
+win,0.564,Vermont,13,Minnesota,10
+loss,0.654,Northeastern,13,Iowa,10
+win,0.593,Vermont,13,Seton Hall,10
+loss,0.76,Northeastern,13,Florida,10
+loss,0.54,Northeastern,13,Seton Hall,10
+loss,0.58,UC Irvine,13,Minnesota,10
+loss,0.649,Vermont,13,Florida,10
+loss,0.525,Vermont,13,Iowa,10
+loss,0.548,Northeastern,13,St. John's (NY),11
+loss,0.518,Northeastern,13,Temple,11
+loss,0.537,Northeastern,13,Arizona St.,11
+win,0.596,Vermont,13,Arizona St.,11
+loss,0.512,Saint Louis,13,Temple,11
+loss,0.591,Vermont,13,Ohio St.,11
+win,0.678,Vermont,13,Belmont,11
+win,0.615,Vermont,13,Temple,11
+win,0.586,Vermont,13,St. John's (NY),11
+loss,0.712,Northeastern,13,Ohio St.,11
+loss,0.542,Saint Louis,13,St. John's (NY),11
+loss,0.558,UC Irvine,13,St. John's (NY),11
+loss,0.531,Saint Louis,13,Arizona St.,11
+loss,0.547,UC Irvine,13,Arizona St.,11
+win,0.552,Northeastern,13,Belmont,11
+loss,0.742,Saint Louis,13,Saint Mary's (CA),11
+win,0.541,UC Irvine,13,Belmont,11
+loss,0.528,UC Irvine,13,Temple,11
+loss,0.72,UC Irvine,13,Ohio St.,11
+loss,0.746,Northeastern,13,Saint Mary's (CA),11
+loss,0.632,Vermont,13,Saint Mary's (CA),11
+loss,0.754,UC Irvine,13,Saint Mary's (CA),11
+loss,0.707,Saint Louis,13,Ohio St.,11
+win,0.557,Saint Louis,13,Belmont,11
+loss,0.617,Saint Louis,13,New Mexico St.,12
+loss,0.623,Northeastern,13,New Mexico St.,12
+loss,0.687,Northeastern,13,Oregon,12
+loss,0.636,Saint Louis,13,Murray St.,12
+loss,0.727,Northeastern,13,Liberty,12
+loss,0.696,UC Irvine,13,Oregon,12
+loss,0.682,Saint Louis,13,Oregon,12
+win,0.509,Vermont,13,New Mexico St.,12
+loss,0.562,Vermont,13,Oregon,12
+loss,0.511,Vermont,13,Murray St.,12
+loss,0.642,Northeastern,13,Murray St.,12
+loss,0.608,Vermont,13,Liberty,12
+loss,0.722,Saint Louis,13,Liberty,12
+loss,0.735,UC Irvine,13,Liberty,12
+loss,0.633,UC Irvine,13,New Mexico St.,12
+loss,0.651,UC Irvine,13,Murray St.,12
+win,0.512,Northeastern,13,UC Irvine,13
+loss,0.502,Northeastern,13,Saint Louis,13
+win,0.518,Saint Louis,13,UC Irvine,13
+win,0.509,Saint Louis,13,Northeastern,13
+win,0.634,Vermont,13,Northeastern,13
+win,0.642,Vermont,13,UC Irvine,13
+loss,0.618,Northeastern,13,Vermont,13
+win,0.629,Vermont,13,Saint Louis,13
+loss,0.627,UC Irvine,13,Vermont,13
+loss,0.513,UC Irvine,13,Saint Louis,13
+loss,0.612,Saint Louis,13,Vermont,13
+loss,0.507,UC Irvine,13,Northeastern,13
+loss,0.551,Saint Louis,13,Old Dominion,14
+win,0.576,Vermont,13,Old Dominion,14
+win,0.577,Vermont,13,Northern Ky.,14
+win,0.695,Vermont,13,Georgia St.,14
+win,0.553,Northeastern,13,Yale,14
+win,0.559,Saint Louis,13,Yale,14
+win,0.572,Northeastern,13,Georgia St.,14
+win,0.543,UC Irvine,13,Yale,14
+loss,0.556,Northeastern,13,Northern Ky.,14
+loss,0.567,UC Irvine,13,Old Dominion,14
+loss,0.566,UC Irvine,13,Northern Ky.,14
+win,0.561,UC Irvine,13,Georgia St.,14
+loss,0.557,Northeastern,13,Old Dominion,14
+win,0.679,Vermont,13,Yale,14
+win,0.577,Saint Louis,13,Georgia St.,14
+loss,0.55,Saint Louis,13,Northern Ky.,14
+win,0.621,Saint Louis,13,Colgate,15
+win,0.638,Vermont,13,Montana,15
+win,0.732,Vermont,13,Colgate,15
+win,0.735,UC Irvine,13,Bradley,15
+win,0.59,Saint Louis,13,Abilene Christian,15
+win,0.743,Northeastern,13,Bradley,15
+win,0.706,Vermont,13,Abilene Christian,15
+win,0.584,Northeastern,13,Abilene Christian,15
+win,0.832,Vermont,13,Bradley,15
+win,0.615,Northeastern,13,Colgate,15
+win,0.605,UC Irvine,13,Colgate,15
+win,0.574,UC Irvine,13,Abilene Christian,15
+win,0.507,Northeastern,13,Montana,15
+win,0.747,Saint Louis,13,Bradley,15
+loss,0.503,UC Irvine,13,Montana,15
+win,0.513,Saint Louis,13,Montana,15
+loss,0.543,UC Irvine,13,Gardner-Webb,16
+win,0.781,Northeastern,13,Fairleigh Dickinson,16
+loss,0.533,Northeastern,13,Gardner-Webb,16
+win,0.786,Northeastern,13,N.C. Central,16
+win,0.86,Northeastern,13,Prairie View,16
+win,0.859,Vermont,13,Fairleigh Dickinson,16
+win,0.725,Northeastern,13,North Dakota St.,16
+win,0.898,Vermont,13,Iona,16
+win,0.832,UC Irvine,13,Iona,16
+win,0.774,UC Irvine,13,Fairleigh Dickinson,16
+win,0.855,UC Irvine,13,Prairie View,16
+win,0.785,Saint Louis,13,Fairleigh Dickinson,16
+win,0.863,Saint Louis,13,Prairie View,16
+win,0.841,Saint Louis,13,Iona,16
+win,0.717,UC Irvine,13,North Dakota St.,16
+win,0.779,UC Irvine,13,N.C. Central,16
+win,0.863,Vermont,13,N.C. Central,16
+loss,0.527,Saint Louis,13,Gardner-Webb,16
+win,0.913,Vermont,13,Prairie View,16
+win,0.837,Northeastern,13,Iona,16
+win,0.6,Vermont,13,Gardner-Webb,16
+win,0.79,Saint Louis,13,N.C. Central,16
+win,0.73,Saint Louis,13,North Dakota St.,16
+win,0.819,Vermont,13,North Dakota St.,16
+loss,0.679,Old Dominion,14,Gonzaga,1
+loss,0.702,Yale,14,North Carolina,1
+loss,0.899,Georgia St.,14,Virginia,1
+loss,0.672,Northern Ky.,14,Duke,1
+loss,0.594,Old Dominion,14,North Carolina,1
+loss,0.836,Northern Ky.,14,Virginia,1
+loss,0.768,Yale,14,Duke,1
+loss,0.679,Northern Ky.,14,Gonzaga,1
+loss,0.891,Yale,14,Virginia,1
+loss,0.594,Northern Ky.,14,North Carolina,1
+loss,0.72,Georgia St.,14,North Carolina,1
+loss,0.672,Old Dominion,14,Duke,1
+loss,0.836,Old Dominion,14,Virginia,1
+loss,0.782,Georgia St.,14,Duke,1
+loss,0.787,Georgia St.,14,Gonzaga,1
+loss,0.773,Yale,14,Gonzaga,1
+loss,0.847,Georgia St.,14,Michigan,2
+loss,0.823,Georgia St.,14,Michigan St.,2
+loss,0.698,Northern Ky.,14,Kentucky,2
+loss,0.726,Old Dominion,14,Michigan St.,2
+loss,0.816,Georgia St.,14,Tennessee,2
+loss,0.76,Old Dominion,14,Michigan,2
+loss,0.698,Old Dominion,14,Kentucky,2
+loss,0.76,Northern Ky.,14,Michigan,2
+loss,0.717,Old Dominion,14,Tennessee,2
+loss,0.726,Northern Ky.,14,Michigan St.,2
+loss,0.836,Yale,14,Michigan,2
+loss,0.789,Yale,14,Kentucky,2
+loss,0.802,Georgia St.,14,Kentucky,2
+loss,0.717,Northern Ky.,14,Tennessee,2
+loss,0.81,Yale,14,Michigan St.,2
+loss,0.803,Yale,14,Tennessee,2
+loss,0.798,Yale,14,Texas Tech,3
+loss,0.794,Yale,14,Houston,3
+loss,0.83,Georgia St.,14,Purdue,3
+loss,0.736,Old Dominion,14,Purdue,3
+loss,0.818,Yale,14,Purdue,3
+loss,0.706,Old Dominion,14,Houston,3
+loss,0.69,Yale,14,LSU,3
+loss,0.71,Old Dominion,14,Texas Tech,3
+loss,0.811,Georgia St.,14,Texas Tech,3
+loss,0.708,Georgia St.,14,LSU,3
+loss,0.58,Old Dominion,14,LSU,3
+loss,0.71,Northern Ky.,14,Texas Tech,3
+loss,0.706,Northern Ky.,14,Houston,3
+loss,0.736,Northern Ky.,14,Purdue,3
+loss,0.58,Northern Ky.,14,LSU,3
+loss,0.808,Georgia St.,14,Houston,3
+loss,0.702,Georgia St.,14,Florida St.,4
+loss,0.719,Yale,14,Kansas,4
+loss,0.762,Old Dominion,14,Virginia Tech,4
+loss,0.849,Georgia St.,14,Virginia Tech,4
+loss,0.614,Old Dominion,14,Kansas,4
+loss,0.757,Yale,14,Kansas St.,4
+loss,0.573,Northern Ky.,14,Florida St.,4
+loss,0.614,Northern Ky.,14,Kansas,4
+loss,0.838,Yale,14,Virginia Tech,4
+loss,0.762,Northern Ky.,14,Virginia Tech,4
+loss,0.772,Georgia St.,14,Kansas St.,4
+loss,0.684,Yale,14,Florida St.,4
+loss,0.573,Old Dominion,14,Florida St.,4
+loss,0.659,Old Dominion,14,Kansas St.,4
+loss,0.66,Northern Ky.,14,Kansas St.,4
+loss,0.736,Georgia St.,14,Kansas,4
+loss,0.758,Georgia St.,14,Auburn,5
+loss,0.696,Georgia St.,14,Marquette,5
+loss,0.641,Northern Ky.,14,Auburn,5
+loss,0.75,Northern Ky.,14,Wisconsin,5
+loss,0.719,Yale,14,Mississippi St.,5
+loss,0.566,Old Dominion,14,Marquette,5
+loss,0.614,Old Dominion,14,Mississippi St.,5
+loss,0.641,Old Dominion,14,Auburn,5
+loss,0.84,Georgia St.,14,Wisconsin,5
+loss,0.75,Old Dominion,14,Wisconsin,5
+loss,0.736,Georgia St.,14,Mississippi St.,5
+loss,0.678,Yale,14,Marquette,5
+loss,0.614,Northern Ky.,14,Mississippi St.,5
+loss,0.828,Yale,14,Wisconsin,5
+loss,0.567,Northern Ky.,14,Marquette,5
+loss,0.742,Yale,14,Auburn,5
+loss,0.555,Old Dominion,14,Buffalo,6
+loss,0.683,Northern Ky.,14,Maryland,6
+loss,0.668,Yale,14,Buffalo,6
+loss,0.697,Northern Ky.,14,Villanova,6
+loss,0.689,Northern Ky.,14,Iowa St.,6
+loss,0.697,Old Dominion,14,Villanova,6
+loss,0.683,Old Dominion,14,Maryland,6
+loss,0.689,Old Dominion,14,Iowa St.,6
+loss,0.555,Northern Ky.,14,Buffalo,6
+loss,0.776,Yale,14,Maryland,6
+loss,0.801,Georgia St.,14,Villanova,6
+loss,0.787,Yale,14,Villanova,6
+loss,0.79,Georgia St.,14,Maryland,6
+loss,0.795,Georgia St.,14,Iowa St.,6
+loss,0.686,Georgia St.,14,Buffalo,6
+loss,0.781,Yale,14,Iowa St.,6
+loss,0.803,Georgia St.,14,Louisville,7
+loss,0.812,Yale,14,Cincinnati,7
+loss,0.729,Northern Ky.,14,Cincinnati,7
+loss,0.7,Old Dominion,14,Louisville,7
+loss,0.825,Georgia St.,14,Cincinnati,7
+loss,0.64,Old Dominion,14,Nevada,7
+loss,0.741,Yale,14,Nevada,7
+loss,0.671,Northern Ky.,14,Wofford,7
+loss,0.729,Old Dominion,14,Cincinnati,7
+loss,0.64,Northern Ky.,14,Nevada,7
+loss,0.7,Northern Ky.,14,Louisville,7
+loss,0.671,Old Dominion,14,Wofford,7
+loss,0.79,Yale,14,Louisville,7
+loss,0.757,Georgia St.,14,Nevada,7
+loss,0.782,Georgia St.,14,Wofford,7
+loss,0.767,Yale,14,Wofford,7
+loss,0.737,Yale,14,Syracuse,8
+loss,0.66,Yale,14,Utah St.,8
+loss,0.657,Yale,14,VCU,8
+loss,0.547,Old Dominion,14,Utah St.,8
+loss,0.635,Northern Ky.,14,Syracuse,8
+loss,0.543,Northern Ky.,14,VCU,8
+loss,0.595,Northern Ky.,14,Ole Miss,8
+loss,0.635,Old Dominion,14,Syracuse,8
+loss,0.675,Georgia St.,14,VCU,8
+loss,0.547,Northern Ky.,14,Utah St.,8
+loss,0.595,Old Dominion,14,Ole Miss,8
+loss,0.702,Yale,14,Ole Miss,8
+loss,0.72,Georgia St.,14,Ole Miss,8
+loss,0.543,Old Dominion,14,VCU,8
+loss,0.679,Georgia St.,14,Utah St.,8
+loss,0.753,Georgia St.,14,Syracuse,8
+loss,0.582,Old Dominion,14,Oklahoma,9
+loss,0.717,Yale,14,Baylor,9
+loss,0.605,Old Dominion,14,Washington,9
+loss,0.741,Yale,14,UCF,9
+loss,0.612,Old Dominion,14,Baylor,9
+loss,0.728,Georgia St.,14,Washington,9
+loss,0.709,Georgia St.,14,Oklahoma,9
+loss,0.612,Northern Ky.,14,Baylor,9
+loss,0.64,Old Dominion,14,UCF,9
+loss,0.711,Yale,14,Washington,9
+loss,0.691,Yale,14,Oklahoma,9
+loss,0.734,Georgia St.,14,Baylor,9
+loss,0.757,Georgia St.,14,UCF,9
+loss,0.64,Northern Ky.,14,UCF,9
+loss,0.605,Northern Ky.,14,Washington,9
+loss,0.582,Northern Ky.,14,Oklahoma,9
+win,0.525,Old Dominion,14,Seton Hall,10
+loss,0.505,Old Dominion,14,Minnesota,10
+win,0.525,Northern Ky.,14,Seton Hall,10
+loss,0.593,Old Dominion,14,Iowa,10
+loss,0.701,Yale,14,Iowa,10
+loss,0.797,Yale,14,Florida,10
+loss,0.81,Georgia St.,14,Florida,10
+loss,0.593,Northern Ky.,14,Iowa,10
+loss,0.709,Northern Ky.,14,Florida,10
+loss,0.593,Yale,14,Seton Hall,10
+loss,0.719,Georgia St.,14,Iowa,10
+loss,0.641,Georgia St.,14,Minnesota,10
+loss,0.622,Yale,14,Minnesota,10
+loss,0.505,Northern Ky.,14,Minnesota,10
+loss,0.709,Old Dominion,14,Florida,10
+loss,0.613,Georgia St.,14,Seton Hall,10
+loss,0.59,Yale,14,Arizona St.,11
+win,0.547,Northern Ky.,14,Temple,11
+loss,0.592,Georgia St.,14,Temple,11
+win,0.615,Northern Ky.,14,Belmont,11
+loss,0.523,Georgia St.,14,Belmont,11
+loss,0.656,Old Dominion,14,Ohio St.,11
+loss,0.61,Georgia St.,14,Arizona St.,11
+loss,0.769,Georgia St.,14,Ohio St.,11
+loss,0.621,Georgia St.,14,St. John's (NY),11
+loss,0.694,Old Dominion,14,Saint Mary's (CA),11
+loss,0.694,Northern Ky.,14,Saint Mary's (CA),11
+loss,0.656,Northern Ky.,14,Ohio St.,11
+loss,0.799,Georgia St.,14,Saint Mary's (CA),11
+win,0.517,Northern Ky.,14,St. John's (NY),11
+win,0.517,Old Dominion,14,St. John's (NY),11
+win,0.547,Old Dominion,14,Temple,11
+win,0.528,Old Dominion,14,Arizona St.,11
+loss,0.571,Yale,14,Temple,11
+loss,0.754,Yale,14,Ohio St.,11
+loss,0.6,Yale,14,St. John's (NY),11
+loss,0.502,Yale,14,Belmont,11
+win,0.615,Old Dominion,14,Belmont,11
+win,0.528,Northern Ky.,14,Arizona St.,11
+loss,0.785,Yale,14,Saint Mary's (CA),11
+loss,0.56,Old Dominion,14,New Mexico St.,12
+loss,0.56,Northern Ky.,14,New Mexico St.,12
+loss,0.748,Georgia St.,14,Oregon,12
+loss,0.629,Old Dominion,14,Oregon,12
+loss,0.672,Old Dominion,14,Liberty,12
+loss,0.691,Georgia St.,14,New Mexico St.,12
+loss,0.782,Georgia St.,14,Liberty,12
+loss,0.58,Old Dominion,14,Murray St.,12
+loss,0.732,Yale,14,Oregon,12
+loss,0.767,Yale,14,Liberty,12
+loss,0.69,Yale,14,Murray St.,12
+loss,0.672,Northern Ky.,14,Liberty,12
+loss,0.58,Northern Ky.,14,Murray St.,12
+loss,0.708,Georgia St.,14,Murray St.,12
+loss,0.672,Yale,14,New Mexico St.,12
+loss,0.629,Northern Ky.,14,Oregon,12
+loss,0.563,Georgia St.,14,UC Irvine,13
+loss,0.551,Yale,14,Northeastern,13
+loss,0.555,Old Dominion,14,Vermont,13
+win,0.576,Old Dominion,14,UC Irvine,13
+loss,0.572,Georgia St.,14,Northeastern,13
+loss,0.686,Georgia St.,14,Vermont,13
+loss,0.577,Georgia St.,14,Saint Louis,13
+win,0.567,Northern Ky.,14,Northeastern,13
+loss,0.556,Yale,14,Saint Louis,13
+win,0.562,Old Dominion,14,Saint Louis,13
+loss,0.542,Yale,14,UC Irvine,13
+win,0.567,Old Dominion,14,Northeastern,13
+loss,0.555,Northern Ky.,14,Vermont,13
+win,0.576,Northern Ky.,14,UC Irvine,13
+win,0.562,Northern Ky.,14,Saint Louis,13
+loss,0.667,Yale,14,Vermont,13
+loss,0.609,Yale,14,Northern Ky.,14
+loss,0.61,Yale,14,Old Dominion,14
+win,0.508,Northern Ky.,14,Old Dominion,14
+loss,0.63,Georgia St.,14,Old Dominion,14
+win,0.518,Yale,14,Georgia St.,14
+win,0.509,Old Dominion,14,Northern Ky.,14
+win,0.616,Old Dominion,14,Yale,14
+win,0.634,Old Dominion,14,Georgia St.,14
+loss,0.522,Georgia St.,14,Yale,14
+loss,0.628,Georgia St.,14,Northern Ky.,14
+win,0.616,Northern Ky.,14,Yale,14
+win,0.634,Northern Ky.,14,Georgia St.,14
+win,0.646,Old Dominion,14,Abilene Christian,15
+win,0.789,Old Dominion,14,Bradley,15
+win,0.675,Old Dominion,14,Colgate,15
+win,0.675,Northern Ky.,14,Colgate,15
+loss,0.547,Yale,14,Montana,15
+win,0.572,Old Dominion,14,Montana,15
+win,0.572,Northern Ky.,14,Montana,15
+win,0.531,Yale,14,Abilene Christian,15
+win,0.699,Yale,14,Bradley,15
+win,0.563,Yale,14,Colgate,15
+win,0.51,Georgia St.,14,Abilene Christian,15
+win,0.681,Georgia St.,14,Bradley,15
+win,0.542,Georgia St.,14,Colgate,15
+win,0.789,Northern Ky.,14,Bradley,15
+win,0.645,Northern Ky.,14,Abilene Christian,15
+loss,0.567,Georgia St.,14,Montana,15
+win,0.87,Old Dominion,14,Iona,16
+win,0.826,Old Dominion,14,N.C. Central,16
+loss,0.586,Yale,14,Gardner-Webb,16
+win,0.742,Yale,14,Fairleigh Dickinson,16
+win,0.889,Northern Ky.,14,Prairie View,16
+win,0.774,Northern Ky.,14,North Dakota St.,16
+win,0.822,Northern Ky.,14,Fairleigh Dickinson,16
+win,0.826,Northern Ky.,14,N.C. Central,16
+win,0.532,Northern Ky.,14,Gardner-Webb,16
+win,0.82,Georgia St.,14,Prairie View,16
+win,0.731,Georgia St.,14,N.C. Central,16
+win,0.792,Georgia St.,14,Iona,16
+win,0.725,Georgia St.,14,Fairleigh Dickinson,16
+win,0.662,Georgia St.,14,North Dakota St.,16
+win,0.532,Old Dominion,14,Gardner-Webb,16
+win,0.832,Yale,14,Prairie View,16
+win,0.747,Yale,14,N.C. Central,16
+win,0.889,Old Dominion,14,Prairie View,16
+win,0.806,Yale,14,Iona,16
+win,0.87,Northern Ky.,14,Iona,16
+win,0.68,Yale,14,North Dakota St.,16
+loss,0.606,Georgia St.,14,Gardner-Webb,16
+win,0.822,Old Dominion,14,Fairleigh Dickinson,16
+win,0.774,Old Dominion,14,North Dakota St.,16
+loss,0.954,Bradley,15,Virginia,1
+loss,0.66,Montana,15,North Carolina,1
+loss,0.871,Montana,15,Virginia,1
+loss,0.732,Abilene Christian,15,North Carolina,1
+loss,0.916,Colgate,15,Virginia,1
+loss,0.758,Colgate,15,North Carolina,1
+loss,0.857,Bradley,15,North Carolina,1
+loss,0.737,Montana,15,Gonzaga,1
+loss,0.905,Abilene Christian,15,Virginia,1
+loss,0.815,Colgate,15,Duke,1
+loss,0.731,Montana,15,Duke,1
+loss,0.793,Abilene Christian,15,Duke,1
+loss,0.894,Bradley,15,Duke,1
+loss,0.897,Bradley,15,Gonzaga,1
+loss,0.797,Abilene Christian,15,Gonzaga,1
+loss,0.819,Colgate,15,Gonzaga,1
+loss,0.832,Abilene Christian,15,Michigan St.,2
+loss,0.779,Montana,15,Michigan St.,2
+loss,0.844,Colgate,15,Tennessee,2
+loss,0.916,Bradley,15,Michigan St.,2
+loss,0.807,Montana,15,Michigan,2
+loss,0.812,Abilene Christian,15,Kentucky,2
+loss,0.855,Abilene Christian,15,Michigan,2
+loss,0.905,Bradley,15,Kentucky,2
+loss,0.85,Colgate,15,Michigan St.,2
+loss,0.77,Montana,15,Tennessee,2
+loss,0.928,Bradley,15,Michigan,2
+loss,0.912,Bradley,15,Tennessee,2
+loss,0.825,Abilene Christian,15,Tennessee,2
+loss,0.871,Colgate,15,Michigan,2
+loss,0.832,Colgate,15,Kentucky,2
+loss,0.754,Montana,15,Kentucky,2
+loss,0.908,Bradley,15,Houston,3
+loss,0.647,Montana,15,LSU,3
+loss,0.837,Colgate,15,Houston,3
+loss,0.764,Montana,15,Texas Tech,3
+loss,0.787,Montana,15,Purdue,3
+loss,0.82,Abilene Christian,15,Texas Tech,3
+loss,0.72,Abilene Christian,15,LSU,3
+loss,0.84,Colgate,15,Texas Tech,3
+loss,0.856,Colgate,15,Purdue,3
+loss,0.747,Colgate,15,LSU,3
+loss,0.909,Bradley,15,Texas Tech,3
+loss,0.919,Bradley,15,Purdue,3
+loss,0.761,Montana,15,Houston,3
+loss,0.85,Bradley,15,LSU,3
+loss,0.817,Abilene Christian,15,Houston,3
+loss,0.838,Abilene Christian,15,Purdue,3
+loss,0.809,Montana,15,Virginia Tech,4
+loss,0.873,Colgate,15,Virginia Tech,4
+loss,0.783,Abilene Christian,15,Kansas St.,4
+loss,0.867,Bradley,15,Kansas,4
+loss,0.856,Abilene Christian,15,Virginia Tech,4
+loss,0.719,Montana,15,Kansas St.,4
+loss,0.714,Abilene Christian,15,Florida St.,4
+loss,0.846,Bradley,15,Florida St.,4
+loss,0.748,Abilene Christian,15,Kansas,4
+loss,0.678,Montana,15,Kansas,4
+loss,0.929,Bradley,15,Virginia Tech,4
+loss,0.888,Bradley,15,Kansas St.,4
+loss,0.64,Montana,15,Florida St.,4
+loss,0.806,Colgate,15,Kansas St.,4
+loss,0.773,Colgate,15,Kansas,4
+loss,0.742,Colgate,15,Florida St.,4
+loss,0.793,Colgate,15,Auburn,5
+loss,0.709,Abilene Christian,15,Marquette,5
+loss,0.678,Montana,15,Mississippi St.,5
+loss,0.88,Bradley,15,Auburn,5
+loss,0.773,Colgate,15,Mississippi St.,5
+loss,0.848,Abilene Christian,15,Wisconsin,5
+loss,0.925,Bradley,15,Wisconsin,5
+loss,0.867,Bradley,15,Mississippi St.,5
+loss,0.634,Montana,15,Marquette,5
+loss,0.843,Bradley,15,Marquette,5
+loss,0.703,Montana,15,Auburn,5
+loss,0.747,Abilene Christian,15,Mississippi St.,5
+loss,0.865,Colgate,15,Wisconsin,5
+loss,0.737,Colgate,15,Marquette,5
+loss,0.769,Abilene Christian,15,Auburn,5
+loss,0.799,Montana,15,Wisconsin,5
+loss,0.752,Montana,15,Villanova,6
+loss,0.728,Colgate,15,Buffalo,6
+loss,0.8,Abilene Christian,15,Maryland,6
+loss,0.699,Abilene Christian,15,Buffalo,6
+loss,0.904,Bradley,15,Villanova,6
+loss,0.898,Bradley,15,Maryland,6
+loss,0.901,Bradley,15,Iowa St.,6
+loss,0.745,Montana,15,Iowa St.,6
+loss,0.822,Colgate,15,Maryland,6
+loss,0.805,Abilene Christian,15,Iowa St.,6
+loss,0.831,Colgate,15,Villanova,6
+loss,0.623,Montana,15,Buffalo,6
+loss,0.837,Bradley,15,Buffalo,6
+loss,0.81,Abilene Christian,15,Villanova,6
+loss,0.826,Colgate,15,Iowa St.,6
+loss,0.74,Montana,15,Maryland,6
+loss,0.781,Montana,15,Cincinnati,7
+loss,0.879,Bradley,15,Nevada,7
+loss,0.792,Abilene Christian,15,Wofford,7
+loss,0.768,Abilene Christian,15,Nevada,7
+loss,0.814,Colgate,15,Wofford,7
+loss,0.792,Colgate,15,Nevada,7
+loss,0.833,Colgate,15,Louisville,7
+loss,0.73,Montana,15,Wofford,7
+loss,0.893,Bradley,15,Wofford,7
+loss,0.852,Colgate,15,Cincinnati,7
+loss,0.756,Montana,15,Louisville,7
+loss,0.917,Bradley,15,Cincinnati,7
+loss,0.702,Montana,15,Nevada,7
+loss,0.833,Abilene Christian,15,Cincinnati,7
+loss,0.905,Bradley,15,Louisville,7
+loss,0.813,Abilene Christian,15,Louisville,7
+loss,0.789,Colgate,15,Syracuse,8
+loss,0.83,Bradley,15,VCU,8
+loss,0.692,Abilene Christian,15,Utah St.,8
+loss,0.721,Colgate,15,Utah St.,8
+loss,0.764,Abilene Christian,15,Syracuse,8
+loss,0.732,Abilene Christian,15,Ole Miss,8
+loss,0.66,Montana,15,Ole Miss,8
+loss,0.615,Montana,15,Utah St.,8
+loss,0.877,Bradley,15,Syracuse,8
+loss,0.698,Montana,15,Syracuse,8
+loss,0.857,Bradley,15,Ole Miss,8
+loss,0.611,Montana,15,VCU,8
+loss,0.689,Abilene Christian,15,VCU,8
+loss,0.758,Colgate,15,Ole Miss,8
+loss,0.832,Bradley,15,Utah St.,8
+loss,0.718,Colgate,15,VCU,8
+loss,0.879,Bradley,15,UCF,9
+loss,0.74,Abilene Christian,15,Washington,9
+loss,0.866,Bradley,15,Baylor,9
+loss,0.768,Abilene Christian,15,UCF,9
+loss,0.746,Abilene Christian,15,Baylor,9
+loss,0.648,Montana,15,Oklahoma,9
+loss,0.748,Colgate,15,Oklahoma,9
+loss,0.702,Montana,15,UCF,9
+loss,0.851,Bradley,15,Oklahoma,9
+loss,0.863,Bradley,15,Washington,9
+loss,0.721,Abilene Christian,15,Oklahoma,9
+loss,0.67,Montana,15,Washington,9
+loss,0.771,Colgate,15,Baylor,9
+loss,0.766,Colgate,15,Washington,9
+loss,0.792,Colgate,15,UCF,9
+loss,0.676,Montana,15,Baylor,9
+loss,0.788,Bradley,15,Seton Hall,10
+loss,0.764,Montana,15,Florida,10
+loss,0.686,Colgate,15,Minnesota,10
+loss,0.575,Montana,15,Minnesota,10
+loss,0.628,Abilene Christian,15,Seton Hall,10
+loss,0.66,Colgate,15,Seton Hall,10
+loss,0.819,Abilene Christian,15,Florida,10
+loss,0.857,Bradley,15,Iowa,10
+loss,0.655,Abilene Christian,15,Minnesota,10
+loss,0.545,Montana,15,Seton Hall,10
+loss,0.839,Colgate,15,Florida,10
+loss,0.731,Abilene Christian,15,Iowa,10
+loss,0.659,Montana,15,Iowa,10
+loss,0.807,Bradley,15,Minnesota,10
+loss,0.757,Colgate,15,Iowa,10
+loss,0.909,Bradley,15,Florida,10
+loss,0.539,Abilene Christian,15,Belmont,11
+loss,0.635,Abilene Christian,15,St. John's (NY),11
+loss,0.808,Abilene Christian,15,Saint Mary's (CA),11
+loss,0.553,Montana,15,St. John's (NY),11
+loss,0.716,Montana,15,Ohio St.,11
+loss,0.772,Bradley,15,Temple,11
+win,0.546,Montana,15,Belmont,11
+loss,0.75,Montana,15,Saint Mary's (CA),11
+loss,0.542,Montana,15,Arizona St.,11
+loss,0.829,Colgate,15,Saint Mary's (CA),11
+loss,0.657,Colgate,15,Arizona St.,11
+loss,0.639,Colgate,15,Temple,11
+loss,0.573,Colgate,15,Belmont,11
+loss,0.887,Bradley,15,Ohio St.,11
+loss,0.903,Bradley,15,Saint Mary's (CA),11
+loss,0.72,Bradley,15,Belmont,11
+loss,0.78,Abilene Christian,15,Ohio St.,11
+loss,0.606,Abilene Christian,15,Temple,11
+loss,0.786,Bradley,15,Arizona St.,11
+loss,0.793,Bradley,15,St. John's (NY),11
+loss,0.625,Abilene Christian,15,Arizona St.,11
+loss,0.523,Montana,15,Temple,11
+loss,0.666,Colgate,15,St. John's (NY),11
+loss,0.803,Colgate,15,Ohio St.,11
+loss,0.894,Bradley,15,Liberty,12
+loss,0.759,Abilene Christian,15,Oregon,12
+loss,0.692,Montana,15,Oregon,12
+loss,0.732,Colgate,15,New Mexico St.,12
+loss,0.784,Colgate,15,Oregon,12
+loss,0.628,Montana,15,New Mexico St.,12
+loss,0.814,Colgate,15,Liberty,12
+loss,0.874,Bradley,15,Oregon,12
+loss,0.72,Abilene Christian,15,Murray St.,12
+loss,0.703,Abilene Christian,15,New Mexico St.,12
+loss,0.731,Montana,15,Liberty,12
+loss,0.647,Montana,15,Murray St.,12
+loss,0.839,Bradley,15,New Mexico St.,12
+loss,0.85,Bradley,15,Murray St.,12
+loss,0.792,Abilene Christian,15,Liberty,12
+loss,0.747,Colgate,15,Murray St.,12
+loss,0.623,Montana,15,Vermont,13
+win,0.507,Montana,15,UC Irvine,13
+loss,0.62,Colgate,15,Northeastern,13
+loss,0.507,Montana,15,Saint Louis,13
+loss,0.625,Colgate,15,Saint Louis,13
+loss,0.502,Montana,15,Northeastern,13
+loss,0.578,Abilene Christian,15,UC Irvine,13
+loss,0.836,Bradley,15,Vermont,13
+loss,0.758,Bradley,15,Northeastern,13
+loss,0.592,Abilene Christian,15,Saint Louis,13
+loss,0.587,Abilene Christian,15,Northeastern,13
+loss,0.611,Colgate,15,UC Irvine,13
+loss,0.727,Colgate,15,Vermont,13
+loss,0.751,Bradley,15,UC Irvine,13
+loss,0.699,Abilene Christian,15,Vermont,13
+loss,0.761,Bradley,15,Saint Louis,13
+loss,0.643,Abilene Christian,15,Northern Ky.,14
+loss,0.561,Montana,15,Northern Ky.,14
+loss,0.675,Colgate,15,Old Dominion,14
+loss,0.799,Bradley,15,Old Dominion,14
+loss,0.644,Abilene Christian,15,Old Dominion,14
+loss,0.518,Abilene Christian,15,Georgia St.,14
+loss,0.553,Colgate,15,Georgia St.,14
+loss,0.571,Colgate,15,Yale,14
+loss,0.719,Bradley,15,Yale,14
+win,0.566,Montana,15,Georgia St.,14
+loss,0.798,Bradley,15,Northern Ky.,14
+win,0.548,Montana,15,Yale,14
+loss,0.562,Montana,15,Old Dominion,14
+loss,0.674,Colgate,15,Northern Ky.,14
+loss,0.537,Abilene Christian,15,Yale,14
+loss,0.703,Bradley,15,Georgia St.,14
+win,0.61,Montana,15,Colgate,15
+loss,0.664,Bradley,15,Colgate,15
+loss,0.693,Bradley,15,Abilene Christian,15
+win,0.527,Abilene Christian,15,Colgate,15
+win,0.636,Colgate,15,Bradley,15
+loss,0.582,Abilene Christian,15,Montana,15
+loss,0.616,Colgate,15,Montana,15
+loss,0.54,Colgate,15,Abilene Christian,15
+win,0.668,Abilene Christian,15,Bradley,15
+win,0.579,Montana,15,Abilene Christian,15
+win,0.739,Montana,15,Bradley,15
+loss,0.754,Bradley,15,Montana,15
+win,0.811,Abilene Christian,15,Prairie View,16
+win,0.648,Abilene Christian,15,North Dakota St.,16
+win,0.719,Abilene Christian,15,N.C. Central,16
+win,0.713,Abilene Christian,15,Fairleigh Dickinson,16
+win,0.782,Abilene Christian,15,Iona,16
+loss,0.538,Montana,15,Gardner-Webb,16
+loss,0.653,Colgate,15,Gardner-Webb,16
+win,0.53,Bradley,15,Fairleigh Dickinson,16
+loss,0.545,Bradley,15,North Dakota St.,16
+win,0.834,Montana,15,Iona,16
+win,0.721,Montana,15,North Dakota St.,16
+win,0.858,Montana,15,Prairie View,16
+win,0.777,Montana,15,Fairleigh Dickinson,16
+win,0.782,Montana,15,N.C. Central,16
+loss,0.783,Bradley,15,Gardner-Webb,16
+win,0.537,Bradley,15,N.C. Central,16
+loss,0.621,Abilene Christian,15,Gardner-Webb,16
+win,0.661,Bradley,15,Prairie View,16
+win,0.619,Bradley,15,Iona,16
+win,0.757,Colgate,15,Iona,16
+win,0.69,Colgate,15,N.C. Central,16
+win,0.789,Colgate,15,Prairie View,16
+win,0.683,Colgate,15,Fairleigh Dickinson,16
+win,0.616,Colgate,15,North Dakota St.,16
+loss,0.695,Gardner-Webb,16,Duke,1
+loss,0.95,North Dakota St.,16,Virginia,1
+loss,0.619,Gardner-Webb,16,North Carolina,1
+loss,0.701,Gardner-Webb,16,Gonzaga,1
+loss,0.887,North Dakota St.,16,Gonzaga,1
+loss,0.916,N.C. Central,16,Duke,1
+loss,0.849,Gardner-Webb,16,Virginia,1
+loss,0.979,Prairie View,16,Virginia,1
+loss,0.918,N.C. Central,16,Gonzaga,1
+loss,0.951,Prairie View,16,Duke,1
+loss,0.918,Iona,16,North Carolina,1
+loss,0.932,Prairie View,16,North Carolina,1
+loss,0.964,N.C. Central,16,Virginia,1
+loss,0.916,Fairleigh Dickinson,16,Gonzaga,1
+loss,0.975,Iona,16,Virginia,1
+loss,0.952,Prairie View,16,Gonzaga,1
+loss,0.845,North Dakota St.,16,North Carolina,1
+loss,0.94,Iona,16,Duke,1
+loss,0.942,Iona,16,Gonzaga,1
+loss,0.914,Fairleigh Dickinson,16,Duke,1
+loss,0.883,Fairleigh Dickinson,16,North Carolina,1
+loss,0.963,Fairleigh Dickinson,16,Virginia,1
+loss,0.884,North Dakota St.,16,Duke,1
+loss,0.886,N.C. Central,16,North Carolina,1
+loss,0.956,Prairie View,16,Kentucky,2
+loss,0.908,North Dakota St.,16,Michigan St.,2
+loss,0.932,Fairleigh Dickinson,16,Michigan St.,2
+loss,0.967,Prairie View,16,Michigan,2
+loss,0.959,Prairie View,16,Tennessee,2
+loss,0.904,North Dakota St.,16,Tennessee,2
+loss,0.925,N.C. Central,16,Kentucky,2
+loss,0.72,Gardner-Webb,16,Kentucky,2
+loss,0.934,N.C. Central,16,Michigan St.,2
+loss,0.953,Iona,16,Michigan St.,2
+loss,0.746,Gardner-Webb,16,Michigan St.,2
+loss,0.737,Gardner-Webb,16,Tennessee,2
+loss,0.929,Fairleigh Dickinson,16,Tennessee,2
+loss,0.923,Fairleigh Dickinson,16,Kentucky,2
+loss,0.96,Iona,16,Michigan,2
+loss,0.942,Fairleigh Dickinson,16,Michigan,2
+loss,0.946,Iona,16,Kentucky,2
+loss,0.778,Gardner-Webb,16,Michigan,2
+loss,0.921,North Dakota St.,16,Michigan,2
+loss,0.931,N.C. Central,16,Tennessee,2
+loss,0.896,North Dakota St.,16,Kentucky,2
+loss,0.951,Iona,16,Tennessee,2
+loss,0.961,Prairie View,16,Michigan St.,2
+loss,0.944,N.C. Central,16,Michigan,2
+loss,0.901,North Dakota St.,16,Texas Tech,3
+loss,0.963,Prairie View,16,Purdue,3
+loss,0.731,Gardner-Webb,16,Texas Tech,3
+loss,0.927,N.C. Central,16,Houston,3
+loss,0.929,N.C. Central,16,Texas Tech,3
+loss,0.88,N.C. Central,16,LSU,3
+loss,0.899,North Dakota St.,16,Houston,3
+loss,0.928,Prairie View,16,LSU,3
+loss,0.912,North Dakota St.,16,Purdue,3
+loss,0.727,Gardner-Webb,16,Houston,3
+loss,0.605,Gardner-Webb,16,LSU,3
+loss,0.837,North Dakota St.,16,LSU,3
+loss,0.935,Fairleigh Dickinson,16,Purdue,3
+loss,0.925,Fairleigh Dickinson,16,Houston,3
+loss,0.913,Iona,16,LSU,3
+loss,0.877,Fairleigh Dickinson,16,LSU,3
+loss,0.948,Iona,16,Houston,3
+loss,0.955,Iona,16,Purdue,3
+loss,0.949,Iona,16,Texas Tech,3
+loss,0.958,Prairie View,16,Texas Tech,3
+loss,0.926,Fairleigh Dickinson,16,Texas Tech,3
+loss,0.937,N.C. Central,16,Purdue,3
+loss,0.755,Gardner-Webb,16,Purdue,3
+loss,0.957,Prairie View,16,Houston,3
+loss,0.878,North Dakota St.,16,Kansas St.,4
+loss,0.968,Prairie View,16,Virginia Tech,4
+loss,0.877,N.C. Central,16,Florida St.,4
+loss,0.923,North Dakota St.,16,Virginia Tech,4
+loss,0.937,Iona,16,Kansas St.,4
+loss,0.855,North Dakota St.,16,Kansas,4
+loss,0.833,North Dakota St.,16,Florida St.,4
+loss,0.924,Iona,16,Kansas,4
+loss,0.961,Iona,16,Virginia Tech,4
+loss,0.945,N.C. Central,16,Virginia Tech,4
+loss,0.911,Iona,16,Florida St.,4
+loss,0.948,Prairie View,16,Kansas St.,4
+loss,0.911,N.C. Central,16,Kansas St.,4
+loss,0.894,N.C. Central,16,Kansas,4
+loss,0.926,Prairie View,16,Florida St.,4
+loss,0.937,Prairie View,16,Kansas,4
+loss,0.874,Fairleigh Dickinson,16,Florida St.,4
+loss,0.943,Fairleigh Dickinson,16,Virginia Tech,4
+loss,0.891,Fairleigh Dickinson,16,Kansas,4
+loss,0.598,Gardner-Webb,16,Florida St.,4
+loss,0.682,Gardner-Webb,16,Kansas St.,4
+loss,0.909,Fairleigh Dickinson,16,Kansas St.,4
+loss,0.78,Gardner-Webb,16,Virginia Tech,4
+loss,0.638,Gardner-Webb,16,Kansas,4
+loss,0.932,Iona,16,Auburn,5
+loss,0.939,Fairleigh Dickinson,16,Wisconsin,5
+loss,0.855,North Dakota St.,16,Mississippi St.,5
+loss,0.894,N.C. Central,16,Mississippi St.,5
+loss,0.905,N.C. Central,16,Auburn,5
+loss,0.869,North Dakota St.,16,Auburn,5
+loss,0.891,Fairleigh Dickinson,16,Mississippi St.,5
+loss,0.909,Iona,16,Marquette,5
+loss,0.638,Gardner-Webb,16,Mississippi St.,5
+loss,0.958,Iona,16,Wisconsin,5
+loss,0.829,North Dakota St.,16,Marquette,5
+loss,0.918,North Dakota St.,16,Wisconsin,5
+loss,0.924,Iona,16,Mississippi St.,5
+loss,0.871,Fairleigh Dickinson,16,Marquette,5
+loss,0.937,Prairie View,16,Mississippi St.,5
+loss,0.769,Gardner-Webb,16,Wisconsin,5
+loss,0.966,Prairie View,16,Wisconsin,5
+loss,0.874,N.C. Central,16,Marquette,5
+loss,0.665,Gardner-Webb,16,Auburn,5
+loss,0.924,Prairie View,16,Marquette,5
+loss,0.944,Prairie View,16,Auburn,5
+loss,0.592,Gardner-Webb,16,Marquette,5
+loss,0.941,N.C. Central,16,Wisconsin,5
+loss,0.902,Fairleigh Dickinson,16,Auburn,5
+loss,0.924,N.C. Central,16,Villanova,6
+loss,0.823,North Dakota St.,16,Buffalo,6
+loss,0.946,Iona,16,Villanova,6
+loss,0.956,Prairie View,16,Villanova,6
+loss,0.922,N.C. Central,16,Iowa St.,6
+loss,0.953,Prairie View,16,Maryland,6
+loss,0.919,Fairleigh Dickinson,16,Iowa St.,6
+loss,0.891,North Dakota St.,16,Iowa St.,6
+loss,0.954,Prairie View,16,Iowa St.,6
+loss,0.895,North Dakota St.,16,Villanova,6
+loss,0.889,North Dakota St.,16,Maryland,6
+loss,0.865,Fairleigh Dickinson,16,Buffalo,6
+loss,0.921,Prairie View,16,Buffalo,6
+loss,0.718,Gardner-Webb,16,Villanova,6
+loss,0.943,Iona,16,Maryland,6
+loss,0.944,Iona,16,Iowa St.,6
+loss,0.917,Fairleigh Dickinson,16,Maryland,6
+loss,0.869,N.C. Central,16,Buffalo,6
+loss,0.705,Gardner-Webb,16,Maryland,6
+loss,0.922,Fairleigh Dickinson,16,Villanova,6
+loss,0.71,Gardner-Webb,16,Iowa St.,6
+loss,0.92,N.C. Central,16,Maryland,6
+loss,0.58,Gardner-Webb,16,Buffalo,6
+loss,0.905,Iona,16,Buffalo,6
+loss,0.869,North Dakota St.,16,Nevada,7
+loss,0.916,N.C. Central,16,Wofford,7
+loss,0.943,Prairie View,16,Nevada,7
+loss,0.884,North Dakota St.,16,Wofford,7
+loss,0.962,Prairie View,16,Cincinnati,7
+loss,0.923,Fairleigh Dickinson,16,Louisville,7
+loss,0.749,Gardner-Webb,16,Cincinnati,7
+loss,0.935,N.C. Central,16,Cincinnati,7
+loss,0.947,Iona,16,Louisville,7
+loss,0.721,Gardner-Webb,16,Louisville,7
+loss,0.925,N.C. Central,16,Louisville,7
+loss,0.933,Fairleigh Dickinson,16,Cincinnati,7
+loss,0.909,North Dakota St.,16,Cincinnati,7
+loss,0.913,Fairleigh Dickinson,16,Wofford,7
+loss,0.904,N.C. Central,16,Nevada,7
+loss,0.897,North Dakota St.,16,Louisville,7
+loss,0.95,Prairie View,16,Wofford,7
+loss,0.956,Prairie View,16,Louisville,7
+loss,0.901,Fairleigh Dickinson,16,Nevada,7
+loss,0.94,Iona,16,Wofford,7
+loss,0.953,Iona,16,Cincinnati,7
+loss,0.694,Gardner-Webb,16,Wofford,7
+loss,0.931,Iona,16,Nevada,7
+loss,0.663,Gardner-Webb,16,Nevada,7
+loss,0.817,North Dakota St.,16,Utah St.,8
+loss,0.865,N.C. Central,16,Utah St.,8
+loss,0.883,Fairleigh Dickinson,16,Ole Miss,8
+loss,0.659,Gardner-Webb,16,Syracuse,8
+loss,0.932,Prairie View,16,Ole Miss,8
+loss,0.861,Fairleigh Dickinson,16,Utah St.,8
+loss,0.845,North Dakota St.,16,Ole Miss,8
+loss,0.93,Iona,16,Syracuse,8
+loss,0.859,Fairleigh Dickinson,16,VCU,8
+loss,0.815,North Dakota St.,16,VCU,8
+loss,0.902,Iona,16,Utah St.,8
+loss,0.863,N.C. Central,16,VCU,8
+loss,0.572,Gardner-Webb,16,Utah St.,8
+loss,0.918,Iona,16,Ole Miss,8
+loss,0.9,Fairleigh Dickinson,16,Syracuse,8
+loss,0.903,N.C. Central,16,Syracuse,8
+loss,0.901,Iona,16,VCU,8
+loss,0.942,Prairie View,16,Syracuse,8
+loss,0.568,Gardner-Webb,16,VCU,8
+loss,0.619,Gardner-Webb,16,Ole Miss,8
+loss,0.886,N.C. Central,16,Ole Miss,8
+loss,0.866,North Dakota St.,16,Syracuse,8
+loss,0.919,Prairie View,16,Utah St.,8
+loss,0.918,Prairie View,16,VCU,8
+loss,0.929,Prairie View,16,Oklahoma,9
+loss,0.914,Iona,16,Oklahoma,9
+loss,0.851,North Dakota St.,16,Washington,9
+loss,0.868,North Dakota St.,16,UCF,9
+loss,0.89,Fairleigh Dickinson,16,Baylor,9
+loss,0.904,N.C. Central,16,UCF,9
+loss,0.877,Fairleigh Dickinson,16,Oklahoma,9
+loss,0.881,N.C. Central,16,Oklahoma,9
+loss,0.887,Fairleigh Dickinson,16,Washington,9
+loss,0.606,Gardner-Webb,16,Oklahoma,9
+loss,0.936,Prairie View,16,Baylor,9
+loss,0.943,Prairie View,16,UCF,9
+loss,0.921,Iona,16,Washington,9
+loss,0.663,Gardner-Webb,16,UCF,9
+loss,0.935,Prairie View,16,Washington,9
+loss,0.891,N.C. Central,16,Washington,9
+loss,0.854,North Dakota St.,16,Baylor,9
+loss,0.629,Gardner-Webb,16,Washington,9
+loss,0.931,Iona,16,UCF,9
+loss,0.636,Gardner-Webb,16,Baylor,9
+loss,0.923,Iona,16,Baylor,9
+loss,0.901,Fairleigh Dickinson,16,UCF,9
+loss,0.893,N.C. Central,16,Baylor,9
+loss,0.838,North Dakota St.,16,Oklahoma,9
+loss,0.823,Fairleigh Dickinson,16,Seton Hall,10
+loss,0.932,Prairie View,16,Iowa,10
+loss,0.84,Fairleigh Dickinson,16,Minnesota,10
+loss,0.882,Fairleigh Dickinson,16,Iowa,10
+loss,0.894,Prairie View,16,Seton Hall,10
+loss,0.926,Fairleigh Dickinson,16,Florida,10
+loss,0.844,North Dakota St.,16,Iowa,10
+loss,0.949,Iona,16,Florida,10
+loss,0.918,Iona,16,Iowa,10
+loss,0.874,Iona,16,Seton Hall,10
+loss,0.886,Iona,16,Minnesota,10
+loss,0.828,N.C. Central,16,Seton Hall,10
+loss,0.771,North Dakota St.,16,Seton Hall,10
+loss,0.501,Gardner-Webb,16,Seton Hall,10
+loss,0.791,North Dakota St.,16,Minnesota,10
+loss,0.73,Gardner-Webb,16,Florida,10
+loss,0.618,Gardner-Webb,16,Iowa,10
+loss,0.886,N.C. Central,16,Iowa,10
+loss,0.844,N.C. Central,16,Minnesota,10
+loss,0.531,Gardner-Webb,16,Minnesota,10
+loss,0.901,North Dakota St.,16,Florida,10
+loss,0.905,Prairie View,16,Minnesota,10
+loss,0.928,N.C. Central,16,Florida,10
+loss,0.958,Prairie View,16,Florida,10
+loss,0.894,North Dakota St.,16,Saint Mary's (CA),11
+loss,0.776,North Dakota St.,16,St. John's (NY),11
+loss,0.886,Prairie View,16,Temple,11
+loss,0.872,Iona,16,Arizona St.,11
+loss,0.923,N.C. Central,16,Saint Mary's (CA),11
+win,0.522,Gardner-Webb,16,Temple,11
+win,0.502,Gardner-Webb,16,Arizona St.,11
+win,0.59,Gardner-Webb,16,Belmont,11
+loss,0.715,Gardner-Webb,16,Saint Mary's (CA),11
+loss,0.955,Prairie View,16,Saint Mary's (CA),11
+loss,0.91,N.C. Central,16,Ohio St.,11
+loss,0.877,Iona,16,St. John's (NY),11
+loss,0.679,Gardner-Webb,16,Ohio St.,11
+loss,0.828,Fairleigh Dickinson,16,St. John's (NY),11
+loss,0.815,N.C. Central,16,Temple,11
+loss,0.832,N.C. Central,16,St. John's (NY),11
+loss,0.936,Iona,16,Ohio St.,11
+loss,0.81,Fairleigh Dickinson,16,Temple,11
+loss,0.769,N.C. Central,16,Belmont,11
+loss,0.907,Fairleigh Dickinson,16,Ohio St.,11
+loss,0.763,Fairleigh Dickinson,16,Belmont,11
+loss,0.827,Iona,16,Belmont,11
+loss,0.863,Iona,16,Temple,11
+loss,0.945,Iona,16,Saint Mary's (CA),11
+loss,0.921,Fairleigh Dickinson,16,Saint Mary's (CA),11
+loss,0.509,Gardner-Webb,16,St. John's (NY),11
+loss,0.876,North Dakota St.,16,Ohio St.,11
+loss,0.826,N.C. Central,16,Arizona St.,11
+loss,0.897,Prairie View,16,St. John's (NY),11
+loss,0.893,Prairie View,16,Arizona St.,11
+loss,0.854,Prairie View,16,Belmont,11
+loss,0.768,North Dakota St.,16,Arizona St.,11
+loss,0.821,Fairleigh Dickinson,16,Arizona St.,11
+loss,0.947,Prairie View,16,Ohio St.,11
+loss,0.7,North Dakota St.,16,Belmont,11
+loss,0.755,North Dakota St.,16,Temple,11
+loss,0.868,Fairleigh Dickinson,16,New Mexico St.,12
+loss,0.913,Fairleigh Dickinson,16,Liberty,12
+loss,0.928,Prairie View,16,Murray St.,12
+loss,0.928,Iona,16,Oregon,12
+loss,0.9,N.C. Central,16,Oregon,12
+loss,0.694,Gardner-Webb,16,Liberty,12
+loss,0.907,Iona,16,New Mexico St.,12
+loss,0.95,Prairie View,16,Liberty,12
+loss,0.837,North Dakota St.,16,Murray St.,12
+loss,0.605,Gardner-Webb,16,Murray St.,12
+loss,0.897,Fairleigh Dickinson,16,Oregon,12
+loss,0.871,N.C. Central,16,New Mexico St.,12
+loss,0.863,North Dakota St.,16,Oregon,12
+loss,0.652,Gardner-Webb,16,Oregon,12
+loss,0.916,N.C. Central,16,Liberty,12
+loss,0.877,Fairleigh Dickinson,16,Murray St.,12
+loss,0.923,Prairie View,16,New Mexico St.,12
+loss,0.585,Gardner-Webb,16,New Mexico St.,12
+loss,0.941,Prairie View,16,Oregon,12
+loss,0.913,Iona,16,Murray St.,12
+loss,0.88,N.C. Central,16,Murray St.,12
+loss,0.94,Iona,16,Liberty,12
+loss,0.826,North Dakota St.,16,New Mexico St.,12
+loss,0.884,North Dakota St.,16,Liberty,12
+loss,0.805,N.C. Central,16,Saint Louis,13
+loss,0.869,N.C. Central,16,Vermont,13
+win,0.551,Gardner-Webb,16,UC Irvine,13
+loss,0.796,N.C. Central,16,UC Irvine,13
+loss,0.802,N.C. Central,16,Northeastern,13
+loss,0.877,Prairie View,16,Northeastern,13
+loss,0.853,Iona,16,Northeastern,13
+loss,0.8,Fairleigh Dickinson,16,Saint Louis,13
+loss,0.732,North Dakota St.,16,UC Irvine,13
+win,0.537,Gardner-Webb,16,Saint Louis,13
+loss,0.58,Gardner-Webb,16,Vermont,13
+loss,0.739,North Dakota St.,16,Northeastern,13
+loss,0.879,Prairie View,16,Saint Louis,13
+loss,0.849,Iona,16,UC Irvine,13
+loss,0.873,Prairie View,16,UC Irvine,13
+loss,0.921,Prairie View,16,Vermont,13
+loss,0.797,Fairleigh Dickinson,16,Northeastern,13
+loss,0.822,North Dakota St.,16,Vermont,13
+loss,0.743,North Dakota St.,16,Saint Louis,13
+win,0.542,Gardner-Webb,16,Northeastern,13
+loss,0.856,Iona,16,Saint Louis,13
+loss,0.905,Iona,16,Vermont,13
+loss,0.791,Fairleigh Dickinson,16,UC Irvine,13
+loss,0.865,Fairleigh Dickinson,16,Vermont,13
+loss,0.881,Iona,16,Old Dominion,14
+loss,0.901,Prairie View,16,Old Dominion,14
+win,0.592,Gardner-Webb,16,Yale,14
+loss,0.837,N.C. Central,16,Northern Ky.,14
+loss,0.838,N.C. Central,16,Old Dominion,14
+win,0.61,Gardner-Webb,16,Georgia St.,14
+loss,0.854,Prairie View,16,Yale,14
+loss,0.748,Fairleigh Dickinson,16,Georgia St.,14
+loss,0.782,North Dakota St.,16,Northern Ky.,14
+loss,0.844,Prairie View,16,Georgia St.,14
+loss,0.9,Prairie View,16,Northern Ky.,14
+loss,0.768,N.C. Central,16,Yale,14
+loss,0.88,Iona,16,Northern Ky.,14
+loss,0.832,Fairleigh Dickinson,16,Northern Ky.,14
+loss,0.762,Fairleigh Dickinson,16,Yale,14
+loss,0.833,Fairleigh Dickinson,16,Old Dominion,14
+loss,0.783,North Dakota St.,16,Old Dominion,14
+loss,0.682,North Dakota St.,16,Georgia St.,14
+loss,0.698,North Dakota St.,16,Yale,14
+loss,0.815,Iona,16,Georgia St.,14
+loss,0.826,Iona,16,Yale,14
+loss,0.518,Gardner-Webb,16,Old Dominion,14
+loss,0.754,N.C. Central,16,Georgia St.,14
+loss,0.517,Gardner-Webb,16,Northern Ky.,14
+loss,0.714,Prairie View,16,Bradley,15
+loss,0.739,Fairleigh Dickinson,16,Abilene Christian,15
+loss,0.579,Fairleigh Dickinson,16,Bradley,15
+loss,0.719,N.C. Central,16,Colgate,15
+loss,0.875,Prairie View,16,Montana,15
+loss,0.837,Prairie View,16,Abilene Christian,15
+loss,0.745,N.C. Central,16,Abilene Christian,15
+loss,0.671,North Dakota St.,16,Abilene Christian,15
+loss,0.642,North Dakota St.,16,Colgate,15
+loss,0.587,N.C. Central,16,Bradley,15
+win,0.502,North Dakota St.,16,Bradley,15
+loss,0.713,Fairleigh Dickinson,16,Colgate,15
+loss,0.807,Iona,16,Abilene Christian,15
+win,0.772,Gardner-Webb,16,Bradley,15
+loss,0.786,Iona,16,Colgate,15
+loss,0.851,Iona,16,Montana,15
+loss,0.671,Iona,16,Bradley,15
+win,0.622,Gardner-Webb,16,Abilene Christian,15
+win,0.652,Gardner-Webb,16,Colgate,15
+loss,0.794,Fairleigh Dickinson,16,Montana,15
+win,0.546,Gardner-Webb,16,Montana,15
+loss,0.799,N.C. Central,16,Montana,15
+loss,0.736,North Dakota St.,16,Montana,15
+loss,0.819,Prairie View,16,Colgate,15
+win,0.608,Fairleigh Dickinson,16,Prairie View,16
+loss,0.52,Fairleigh Dickinson,16,N.C. Central,16
+win,0.565,Fairleigh Dickinson,16,Iona,16
+win,0.512,Iona,16,Prairie View,16
+loss,0.819,Fairleigh Dickinson,16,Gardner-Webb,16
+win,0.858,Gardner-Webb,16,Iona,16
+win,0.557,N.C. Central,16,Iona,16
+loss,0.824,N.C. Central,16,Gardner-Webb,16
+win,0.756,Gardner-Webb,16,North Dakota St.,16
+win,0.601,N.C. Central,16,Prairie View,16
+win,0.806,Gardner-Webb,16,Fairleigh Dickinson,16
+loss,0.766,North Dakota St.,16,Gardner-Webb,16
+loss,0.69,Iona,16,North Dakota St.,16
+loss,0.6,Fairleigh Dickinson,16,North Dakota St.,16
+loss,0.535,N.C. Central,16,Fairleigh Dickinson,16
+loss,0.87,Iona,16,Gardner-Webb,16
+loss,0.616,Iona,16,N.C. Central,16
+loss,0.623,Iona,16,Fairleigh Dickinson,16
+win,0.878,Gardner-Webb,16,Prairie View,16
+win,0.811,Gardner-Webb,16,N.C. Central,16
+loss,0.584,Prairie View,16,Iona,16
+win,0.554,North Dakota St.,16,Fairleigh Dickinson,16
+loss,0.663,Prairie View,16,N.C. Central,16
+loss,0.892,Prairie View,16,Gardner-Webb,16
+loss,0.732,Prairie View,16,North Dakota St.,16
+loss,0.67,Prairie View,16,Fairleigh Dickinson,16
+loss,0.608,N.C. Central,16,North Dakota St.,16
+win,0.643,North Dakota St.,16,Iona,16
+win,0.561,North Dakota St.,16,N.C. Central,16
+win,0.683,North Dakota St.,16,Prairie View,16
